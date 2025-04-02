@@ -1,0 +1,5984 @@
+﻿1
+00:00:25,453 --> 00:00:29,428
+990 A.C.
+
+2
+00:00:36,280 --> 00:00:39,325
+El Ungido de Nuestro Señor
+el Altísimo, el Rey David
+
+3
+00:00:39,408 --> 00:00:40,577
+y su Reina.
+
+4
+00:00:40,743 --> 00:00:41,910
+Mi rey, señor.
+
+5
+00:00:43,328 --> 00:00:45,965
+Levántense, levántense,
+por favor.
+
+6
+00:00:52,164 --> 00:00:54,168
+¡Jedutún! ¡Asaf!
+
+7
+00:00:54,251 --> 00:00:56,128
+¿Qué novedades hay de la pieza?
+
+8
+00:00:56,211 --> 00:00:58,146
+Creo que estamos cerca,
+su Majestad.
+
+9
+00:00:58,171 --> 00:01:00,381
+Algún día voy a escuchar
+un trabajo en proceso.
+
+10
+00:01:00,406 --> 00:01:02,843
+Un trabajo en proceso es mejor
+que ningún trabajo
+
+11
+00:01:02,868 --> 00:01:04,169
+y mejor que ningún proceso.
+
+12
+00:01:04,194 --> 00:01:06,571
+Yo también lo espero con ansias,
+
+13
+00:01:06,596 --> 00:01:08,764
+pero... si me lo permites...
+
+14
+00:01:08,848 --> 00:01:12,424
+¿dónde están las arpas,
+las liras y las flautas?
+
+15
+00:01:13,561 --> 00:01:15,229
+Eso es...
+
+16
+00:01:15,313 --> 00:01:17,858
+bueno, estamos probando
+algo nuevo.
+
+17
+00:01:17,941 --> 00:01:19,693
+Continúa.
+
+18
+00:01:20,109 --> 00:01:21,986
+Este es un salmo de Asaf.
+
+19
+00:01:22,069 --> 00:01:24,906
+Él compuso la letra,
+yo compuse la música.
+
+20
+00:01:24,989 --> 00:01:27,451
+En lugar de cantar
+y usar instrumentos,
+
+21
+00:01:27,534 --> 00:01:28,968
+el texto será narrado
+
+22
+00:01:28,993 --> 00:01:31,429
+y estará acompañado
+por unos murmullos del coro.
+
+23
+00:01:31,454 --> 00:01:33,139
+La voz humana.
+
+24
+00:01:33,164 --> 00:01:35,683
+El instrumento
+más hermoso de todos.
+
+25
+00:01:35,708 --> 00:01:36,876
+Una idea maravillosa.
+
+26
+00:01:36,959 --> 00:01:38,461
+Gracias, señor.
+
+27
+00:01:38,486 --> 00:01:39,813
+Mi plegaria para este salmo
+
+28
+00:01:39,838 --> 00:01:41,689
+es que, al igual que sus
+propias canciones,
+
+29
+00:01:41,714 --> 00:01:43,598
+pueda ser un consuelo
+para el pueblo de Dios,
+
+30
+00:01:43,623 --> 00:01:45,250
+para las generaciones venideras.
+
+31
+00:01:45,275 --> 00:01:47,027
+Esa también es mi plegaria.
+
+32
+00:01:47,456 --> 00:01:49,698
+Que sea del agrado del rey.
+
+33
+00:01:49,723 --> 00:01:51,224
+Y del Rey.
+
+34
+00:01:51,308 --> 00:01:53,357
+De Él más que nadie.
+
+35
+00:02:12,286 --> 00:02:14,623
+<i>"A Dios elevo mi voz suplicante,</i>
+
+36
+00:02:14,706 --> 00:02:18,584
+<i>a Dios elevo mi voz
+para que me escuche...</i>
+
+37
+00:02:20,169 --> 00:02:24,883
+<i>Cuando estoy angustiado,
+recurro al Señor...</i>
+
+38
+00:02:24,966 --> 00:02:31,681
+<i>sin cesar elevo mis manos
+por las noches,</i>
+
+39
+00:02:31,764 --> 00:02:34,184
+<i>pero me niego a recibir consuelo.</i>
+
+40
+00:02:36,603 --> 00:02:40,356
+<i>Me acuerdo de Dios,
+y me lamento...</i>
+
+41
+00:02:41,754 --> 00:02:44,786
+<i>medito en Él y desfallezco.</i>
+
+42
+00:02:46,029 --> 00:02:49,408
+<i>No me dejas conciliar el sueño...</i>
+
+43
+00:02:49,491 --> 00:02:53,008
+<i>tan preocupado estoy
+que ni hablar puedo.</i>
+
+44
+00:02:53,703 --> 00:02:56,805
+<i>Me pongo a pensar
+en los tiempos de antaño...</i>
+
+45
+00:02:56,830 --> 00:02:59,525
+<i>de los años ya idos me acuerdo.</i>
+
+46
+00:02:59,584 --> 00:03:02,779
+<i>Mi corazón reflexiona
+por las noches...</i>
+
+47
+00:03:04,004 --> 00:03:06,537
+<i>mi espíritu medita e inquiere.</i>
+
+48
+00:03:08,218 --> 00:03:10,715
+<i>Y me pongo a pensar...</i>
+
+49
+00:03:10,740 --> 00:03:14,692
+<i>que haya cambiado
+la diestra del Altísimo.</i>
+
+50
+00:03:15,391 --> 00:03:18,769
+<i>Prefiero recordar
+las hazañas del Señor.</i>
+
+51
+00:03:18,853 --> 00:03:22,650
+<i>Sí, traer a la memoria
+sus milagros de antaño...”</i>
+
+52
+00:03:27,562 --> 00:03:33,203
+The Chosen S03E08
+"Sustento"
+
+53
+00:03:33,227 --> 00:03:36,327
+-==FINAL DE TEMPORADA==-
+
+54
+00:03:36,351 --> 00:03:42,133
+Ripeo, Corrección y Edición:
+Fer611
+
+55
+00:04:27,381 --> 00:04:29,257
+Si tus propios
+seguidores no saben
+
+56
+00:04:29,282 --> 00:04:32,119
+cómo compartir tus enseñanzas
+o cómo vivir a partir de ellas,
+
+57
+00:04:32,144 --> 00:04:35,011
+¿cómo podría hacerlo alguien más?
+
+58
+00:04:45,730 --> 00:04:47,440
+Siéntense.
+
+59
+00:04:47,465 --> 00:04:49,091
+¿Esa es tu respuesta?
+
+60
+00:04:49,116 --> 00:04:51,054
+No digo ustedes,
+me refiero a mis estudiantes.
+
+61
+00:04:51,079 --> 00:04:52,514
+Siéntense conmigo.
+
+62
+00:04:52,539 --> 00:04:55,065
+- ¿Ahora?
+- Sí, por favor.
+
+63
+00:04:56,979 --> 00:04:58,752
+Hola, Simón.
+
+64
+00:05:01,872 --> 00:05:05,126
+Rabino, no hemos venido aquí
+a causar problemas.
+
+65
+00:05:05,151 --> 00:05:07,528
+Pero parece que
+los problemas nos han encontrado.
+
+66
+00:05:07,553 --> 00:05:09,263
+Entonces deberíamos abordarlos.
+
+67
+00:05:09,288 --> 00:05:11,216
+¿Y cómo propones
+hacer eso, Santiago el mayor?
+
+68
+00:05:11,241 --> 00:05:12,743
+Escúchalos.
+
+69
+00:05:14,009 --> 00:05:16,054
+Amigos, siéntense conmigo.
+
+70
+00:05:16,137 --> 00:05:20,245
+No podemos avanzar hasta que
+no estemos de acuerdo en algo.
+
+71
+00:05:21,351 --> 00:05:23,144
+Por favor.
+
+72
+00:05:39,786 --> 00:05:40,952
+Yo soy rabino...
+
+73
+00:05:41,037 --> 00:05:43,581
+y como estos hermanos judíos
+les pueden decir,
+
+74
+00:05:43,664 --> 00:05:46,684
+nos gusta enseñar
+haciendo preguntas...
+
+75
+00:05:46,709 --> 00:05:50,129
+y a todos nos gusta resolver
+los problemas hablando.
+
+76
+00:05:50,212 --> 00:05:53,341
+Y si comenzamos
+con un desacuerdo...
+
+77
+00:05:53,424 --> 00:05:55,184
+aún mejor.
+
+78
+00:05:55,717 --> 00:05:58,893
+Así que siéntanse libres
+de escuchar...
+
+79
+00:05:58,918 --> 00:06:02,241
+y si quieren discutir un poco,
+está bien también.
+
+80
+00:06:02,266 --> 00:06:03,976
+Rabino...
+
+81
+00:06:04,805 --> 00:06:07,591
+parecemos débiles e indefensos.
+
+82
+00:06:08,814 --> 00:06:11,901
+Cuando estábamos de camino
+a la casa de Jairo en Cafarnaúm,
+
+83
+00:06:11,984 --> 00:06:14,821
+¿qué pasó cuando la mujer,
+Verónica, me tocó?
+
+84
+00:06:14,904 --> 00:06:16,714
+El poder salió de ti.
+
+85
+00:06:16,739 --> 00:06:19,551
+No, me refiero a lo que
+le sucedió a ella.
+
+86
+00:06:19,576 --> 00:06:21,219
+Se curó.
+
+87
+00:06:21,244 --> 00:06:22,577
+¿Cómo?
+
+88
+00:06:22,602 --> 00:06:24,990
+Al tocar los flecos de tu ropa.
+
+89
+00:06:25,831 --> 00:06:27,124
+No.
+
+90
+00:06:27,207 --> 00:06:29,251
+Amigos míos, olvidan tan rápido.
+
+91
+00:06:29,334 --> 00:06:31,337
+Los quiero mucho...
+
+92
+00:06:31,421 --> 00:06:33,256
+pero tienen poca memoria.
+
+93
+00:06:33,339 --> 00:06:36,609
+Tú le dijiste, "Hija, vete en paz,
+tu fe te ha salvado".
+
+94
+00:06:36,634 --> 00:06:38,069
+¿Tu qué?
+
+95
+00:06:38,094 --> 00:06:39,288
+Fe.
+
+96
+00:06:39,313 --> 00:06:40,920
+Su fe.
+
+97
+00:06:41,722 --> 00:06:44,299
+Muchos de ustedes
+tienen miedo ahora mismo,
+
+98
+00:06:44,324 --> 00:06:48,329
+en lugar de elegir tener fe...
+en mí.
+
+99
+00:06:48,354 --> 00:06:50,731
+Pero, Rabino...
+
+100
+00:06:50,756 --> 00:06:53,142
+debes ver lo que está
+sucediendo a nuestro alrededor...
+
+101
+00:06:53,167 --> 00:06:55,627
+Por supuesto que lo ve,
+ese es el punto.
+
+102
+00:06:55,652 --> 00:06:59,382
+Rabino, ¡haz crecer nuestra fe!
+
+103
+00:06:59,407 --> 00:07:01,725
+Judas...
+
+104
+00:07:02,101 --> 00:07:06,105
+si ustedes tuvieran una fe tan pequeña
+como un grano de mostaza,
+
+105
+00:07:06,206 --> 00:07:08,076
+podrían decirle
+a un árbol de moras,
+
+106
+00:07:08,101 --> 00:07:11,227
+"Desarráigate y plántate en el mar”
+
+107
+00:07:11,283 --> 00:07:13,493
+y les obedecería.
+
+108
+00:07:14,506 --> 00:07:16,549
+¿Puede un árbol de moras
+crecer en el mar?
+
+109
+00:07:16,632 --> 00:07:17,884
+Intenta explicar algo.
+
+110
+00:07:17,967 --> 00:07:21,728
+Verdaderamente, si tuvieran una fe
+del tamaño de un grano de mostaza
+
+111
+00:07:21,753 --> 00:07:25,132
+podrían decirle a una montaña:
+"Trasládate de aquí para allá"
+
+112
+00:07:25,157 --> 00:07:27,409
+y se trasladaría.
+
+113
+00:07:27,434 --> 00:07:29,537
+Para ustedes nada
+sería imposible.
+
+114
+00:07:29,562 --> 00:07:30,746
+¿Cómo?
+
+115
+00:07:30,771 --> 00:07:32,623
+¿Cómo podemos hacerlo?
+
+116
+00:07:33,607 --> 00:07:37,236
+Como dijo Judas,
+¡Tú aumentas nuestra fe!
+
+117
+00:07:37,319 --> 00:07:40,072
+No se trata del tamaño, Felipe.
+
+118
+00:07:40,156 --> 00:07:43,034
+Se trata de sobre quién
+depositas tu fe.
+
+119
+00:07:43,117 --> 00:07:45,536
+Si tu fe está segura en Dios,
+
+120
+00:07:45,619 --> 00:07:47,412
+confiando en sus promesas,
+
+121
+00:07:47,496 --> 00:07:51,670
+cumpliendo su voluntad en tu vida,
+en lugar de la tuya...
+
+122
+00:07:52,076 --> 00:07:55,079
+una fe de este tamaño
+es suficiente.
+
+123
+00:07:55,921 --> 00:07:58,607
+Estas personas de las
+que nos estamos ocupando...
+
+124
+00:07:58,632 --> 00:08:02,069
+son como abejas
+revoloteando entre las flores,
+
+125
+00:08:02,094 --> 00:08:04,171
+esperando a que se abran,
+
+126
+00:08:04,196 --> 00:08:07,616
+para sorber el néctar
+y esparcirlo a otros.
+
+127
+00:08:07,641 --> 00:08:12,037
+Pero deben ver que tu fe no duda...
+
+128
+00:08:12,062 --> 00:08:13,572
+sea grande o pequeña.
+
+129
+00:08:13,598 --> 00:08:17,133
+Parece que tienes trabajo
+por hacer.
+
+130
+00:08:18,402 --> 00:08:21,882
+Tienes razón, maestro,
+ellos sí tienen poca memoria.
+
+131
+00:08:21,907 --> 00:08:22,982
+Disculpe.
+
+132
+00:08:23,007 --> 00:08:24,132
+¿Qué haces?
+
+133
+00:08:24,157 --> 00:08:26,076
+Atrás, estamos escuchando
+a nuestro Maestro.
+
+134
+00:08:26,101 --> 00:08:27,936
+- Yo también.
+- Ignóralo, Simón,
+
+135
+00:08:27,961 --> 00:08:29,694
+este momento
+es sobre nosotros y Jesús.
+
+136
+00:08:29,719 --> 00:08:31,815
+¿Qué es ese olor?
+
+137
+00:08:31,840 --> 00:08:33,634
+Rancio...
+
+138
+00:08:36,921 --> 00:08:38,714
+Es una infección, ¿sí?
+
+139
+00:08:38,797 --> 00:08:42,043
+Mi pierna está rota y se infectó.
+¡Métete en tus propios asuntos!
+
+140
+00:08:42,068 --> 00:08:46,325
+Debes conseguir que alguien
+te revise eso, está realmente mal.
+
+141
+00:08:48,474 --> 00:08:50,101
+- Tienes razón.
+- ¡Impuro!
+
+142
+00:08:50,126 --> 00:08:52,427
+- ¡Silencio!
+- No pedí que me rompieran una pierna.
+
+143
+00:08:52,452 --> 00:08:54,997
+Y no pedimos que Él viniera aquí
+para empeorar las cosas.
+
+144
+00:08:55,022 --> 00:08:56,374
+Hablaré contigo en un momento.
+
+145
+00:08:56,399 --> 00:08:59,175
+Vine para probar lo que Él dijo
+sobre la fe de la mujer sangrante.
+
+146
+00:08:59,200 --> 00:09:00,660
+Ya lo sé, hermano.
+
+147
+00:09:03,239 --> 00:09:04,985
+Te conozco.
+
+148
+00:09:47,116 --> 00:09:48,951
+En circunstancias normales,
+
+149
+00:09:49,034 --> 00:09:51,621
+te pediría estrictamente
+que no se lo digas a nadie.
+
+150
+00:09:51,704 --> 00:09:54,372
+En algunas regiones
+y con algunas personas,
+
+151
+00:09:54,456 --> 00:09:56,709
+este no es mi momento
+para mostrarme
+
+152
+00:09:56,792 --> 00:10:00,587
+y para que la tensión
+aumente demasiado pronto.
+
+153
+00:10:00,671 --> 00:10:03,447
+Pero parece que
+ya hemos pasado eso.
+
+154
+00:10:04,570 --> 00:10:08,658
+¡Ha pasado tanto tiempo
+desde la última vez que corrí!
+
+155
+00:10:17,562 --> 00:10:19,035
+Gracias.
+
+156
+00:10:19,060 --> 00:10:20,556
+Gracias.
+
+157
+00:10:21,434 --> 00:10:22,851
+Gracias.
+
+158
+00:10:47,301 --> 00:10:50,020
+Me alegro de que
+hayas venido, Simón.
+
+159
+00:10:50,721 --> 00:10:53,176
+Va a ser un día largo.
+
+160
+00:11:02,107 --> 00:11:03,942
+¡Dios!
+
+161
+00:11:03,967 --> 00:11:05,019
+Shalom.
+
+162
+00:11:05,044 --> 00:11:06,169
+Me alegro de verte, Eden.
+
+163
+00:11:06,194 --> 00:11:08,614
+¡Qué sorpresa!
+
+164
+00:11:08,697 --> 00:11:09,699
+¿Está todo bien?
+
+165
+00:11:09,782 --> 00:11:13,092
+¿Podríamos... hablar adentro?
+
+166
+00:11:15,162 --> 00:11:16,162
+Por supuesto.
+
+167
+00:11:22,002 --> 00:11:24,129
+¿Qué puedo ofrecerles
+para beber?
+
+168
+00:11:24,212 --> 00:11:26,382
+Por favor, Eden, estamos bien.
+
+169
+00:11:26,466 --> 00:11:28,411
+Vamos a sentarnos.
+
+170
+00:11:42,481 --> 00:11:44,569
+- ¿Ocurre algo?
+- Dínoslo tú.
+
+171
+00:11:44,594 --> 00:11:45,947
+¡Zeb!
+
+172
+00:11:48,612 --> 00:11:53,451
+Esta mañana me encontré con Simón
+en la antigua casa de Mateo.
+
+173
+00:11:53,534 --> 00:11:55,411
+Estaba de muy mal humor.
+
+174
+00:11:55,494 --> 00:11:58,372
+Bueno, él es así.
+
+175
+00:11:58,397 --> 00:11:59,405
+Él me pertenece.
+
+176
+00:11:59,430 --> 00:12:02,059
+Lo conozco desde que nació.
+
+177
+00:12:02,084 --> 00:12:04,784
+Esta vez no era Simón
+siendo Simón.
+
+178
+00:12:05,796 --> 00:12:09,801
+Eden, te queremos como
+la hija que nunca tuvimos...
+
+179
+00:12:09,826 --> 00:12:11,623
+Desde el día que te casaste
+con Simón,
+
+180
+00:12:11,648 --> 00:12:15,447
+todas nuestras vidas han cambiado
+mucho estos dos últimos años,
+
+181
+00:12:15,472 --> 00:12:16,974
+especialmente la tuya.
+
+182
+00:12:17,349 --> 00:12:20,811
+Y yo siento...
+nosotros sentimos...
+
+183
+00:12:20,836 --> 00:12:24,497
+que alguna parte de la
+consternación de Simón
+
+184
+00:12:24,522 --> 00:12:27,966
+tiene algo que ver
+con tu matrimonio.
+
+185
+00:12:28,319 --> 00:12:31,531
+No estamos
+diciendo que lo sea...
+
+186
+00:12:31,556 --> 00:12:34,491
+Solo queremos que sepas
+que puedes hablar con nosotros.
+
+187
+00:12:34,516 --> 00:12:37,360
+Estamos aquí para ti,
+sin importar lo que esté pasando.
+
+188
+00:12:37,385 --> 00:12:39,295
+El Señor sabe que nosotros
+no somos perfectos,
+
+189
+00:12:39,320 --> 00:12:41,623
+pero hemos estado casados
+mucho tiempo.
+
+190
+00:12:41,648 --> 00:12:44,142
+Y si hay algo que podamos
+hacer para ayudar,
+
+191
+00:12:44,167 --> 00:12:46,211
+queremos hacerlo.
+
+192
+00:12:48,339 --> 00:12:52,417
+Yo mismo no me estoy llevando
+muy bien con Simón en este momento.
+
+193
+00:12:52,442 --> 00:12:55,154
+Pero sé que es un buen hombre.
+
+194
+00:12:55,179 --> 00:12:58,366
+Pesqué con su padre Jonás
+durante 20 años
+
+195
+00:12:58,391 --> 00:13:01,928
+y nunca lo conocí verdaderamente,
+era tan difícil y distante.
+
+196
+00:13:01,953 --> 00:13:06,958
+Pero Simón ha intentado
+ser mejor que eso.
+
+197
+00:13:07,732 --> 00:13:09,317
+Y ahora está aprendiendo
+
+198
+00:13:09,342 --> 00:13:11,353
+una forma de vivir
+completamente diferente
+
+199
+00:13:11,378 --> 00:13:15,216
+que sería desconcertante
+para cualquier persona,
+
+200
+00:13:15,241 --> 00:13:16,471
+especialmente para Simón.
+
+201
+00:13:16,496 --> 00:13:18,465
+No solo para él.
+
+202
+00:13:18,494 --> 00:13:20,919
+Quiero decir, para los dos.
+
+203
+00:13:25,751 --> 00:13:30,047
+Pero si soy sincera...
+
+204
+00:13:32,424 --> 00:13:34,009
+empezó...
+
+205
+00:13:38,681 --> 00:13:41,363
+empezó cuando...
+
+206
+00:13:46,856 --> 00:13:49,024
+- ¿Estás herida?
+- No.
+
+207
+00:13:49,049 --> 00:13:50,126
+Es...
+
+208
+00:13:50,151 --> 00:13:54,030
+Zeb... danos un momento a solas.
+
+209
+00:13:55,876 --> 00:13:57,282
+Por supuesto.
+
+210
+00:14:03,825 --> 00:14:05,086
+Eden.
+
+211
+00:14:48,584 --> 00:14:49,587
+Toma.
+
+212
+00:14:49,612 --> 00:14:50,936
+¿Cómo podemos ayudar?
+
+213
+00:14:50,961 --> 00:14:52,754
+No lo sé.
+
+214
+00:14:52,779 --> 00:14:55,482
+Y Simón tampoco lo sabe
+y ese es nuestro problema.
+
+215
+00:14:55,507 --> 00:14:56,637
+Lo siento.
+
+216
+00:14:57,967 --> 00:14:59,011
+Eden...
+
+217
+00:14:59,036 --> 00:15:00,858
+no te conozco
+desde hace tanto tiempo.
+
+218
+00:15:00,883 --> 00:15:04,428
+Y no sé nada
+sobre el matrimonio, así que...
+
+219
+00:15:04,453 --> 00:15:07,046
+en realidad, ahora que lo pienso,
+probablemente no debería...
+
+220
+00:15:07,071 --> 00:15:09,287
+No, por favor.
+
+221
+00:15:09,312 --> 00:15:12,107
+Puede que no estés casada,
+pero has sufrido.
+
+222
+00:15:12,191 --> 00:15:14,526
+Has perdido a tu familia.
+
+223
+00:15:14,551 --> 00:15:19,489
+Igualmente, soy nueva
+en todo esto, ténganlo en cuenta...
+
+224
+00:15:19,514 --> 00:15:21,046
+Tú dices que has completado
+
+225
+00:15:21,071 --> 00:15:23,636
+los rituales de purificación
+correspondientes.
+
+226
+00:15:23,661 --> 00:15:26,722
+No en la mikve
+porque la cisterna estaba rota,
+
+227
+00:15:26,747 --> 00:15:28,682
+pero sí en el mar.
+
+228
+00:15:28,707 --> 00:15:30,459
+Y me aislé por siete días,
+
+229
+00:15:30,484 --> 00:15:32,952
+lo que no era muy difícil
+porque Simón se había ido.
+
+230
+00:15:32,977 --> 00:15:35,025
+Y estar limpia
+no ayudó para nada.
+
+231
+00:15:35,050 --> 00:15:37,066
+No, lo empeoró.
+
+232
+00:15:37,091 --> 00:15:40,999
+Porque no me devolvió a mi bebé
+y no ayudó con mi matrimonio.
+
+233
+00:15:41,024 --> 00:15:45,657
+Esa mujer, Verónica,
+a la que Jesús curó...
+
+234
+00:15:45,682 --> 00:15:48,894
+cuando se limpió en el mar
+tenía tanta alegría.
+
+235
+00:15:49,186 --> 00:15:51,412
+Acababa de ser curada
+de su enfermedad,
+
+236
+00:15:51,437 --> 00:15:52,890
+su angustia se había terminado.
+
+237
+00:15:52,915 --> 00:15:55,876
+Y tú recién estabas en el
+principio de tu dolor, niña.
+
+238
+00:15:55,901 --> 00:15:57,194
+Estás.
+
+239
+00:15:59,362 --> 00:16:01,566
+¿Has hablado con un rabino?
+
+240
+00:16:01,591 --> 00:16:03,587
+Con el que quiero
+hablar no está aquí
+
+241
+00:16:03,612 --> 00:16:05,646
+y mi marido tampoco está.
+
+242
+00:16:06,621 --> 00:16:09,497
+No sé cómo es pasar
+por lo que tú estás pasando...
+
+243
+00:16:09,581 --> 00:16:12,367
+pero he pasado por muchas cosas
+
+244
+00:16:12,392 --> 00:16:16,145
+como para saber que tú
+necesitas llorar.
+
+245
+00:16:27,891 --> 00:16:31,019
+Jesús la curó y le dio alegría,
+
+246
+00:16:31,102 --> 00:16:33,479
+pero no me ha dado eso a mí.
+
+247
+00:16:35,524 --> 00:16:37,612
+Entonces ve a la sinagoga.
+
+248
+00:16:38,221 --> 00:16:40,187
+Allí no se trata del rabino,
+
+249
+00:16:40,212 --> 00:16:44,174
+son las palabras de Dios
+que él puede darnos.
+
+250
+00:16:44,199 --> 00:16:46,536
+Eso es lo que Jesús me dio.
+
+251
+00:17:07,306 --> 00:17:09,891
+Entonces, ¿cuál es tu nombre?
+
+252
+00:17:09,916 --> 00:17:11,818
+- Fatiyah.
+- ¡Es nabatea!
+
+253
+00:17:11,843 --> 00:17:14,062
+No le pregunté su origen étnico.
+
+254
+00:17:14,146 --> 00:17:16,439
+Fatiyah, ayúdanos a entender
+
+255
+00:17:16,522 --> 00:17:18,984
+qué ha ocurrido exactamente
+en esta región.
+
+256
+00:17:19,067 --> 00:17:20,986
+Tus estudiantes
+predicaron en Naveh
+
+257
+00:17:21,069 --> 00:17:23,572
+sobre un reino que cautivó
+a muchos de esta región
+
+258
+00:17:23,597 --> 00:17:26,613
+que visitaban la ciudad...
+incluyendo al Augur de Abila,
+
+259
+00:17:26,638 --> 00:17:29,177
+que dejó de cumplir con sus
+deberes ceremoniales y cívicos
+
+260
+00:17:29,202 --> 00:17:30,871
+al regresar a la Decápolis.
+
+261
+00:17:30,896 --> 00:17:32,574
+El trabajo se paralizó.
+
+262
+00:17:32,599 --> 00:17:33,989
+La construcción se detuvo.
+
+263
+00:17:34,014 --> 00:17:37,007
+Los comerciantes no podían obtener
+permisos y los pozos se deshicieron.
+
+264
+00:17:37,032 --> 00:17:40,313
+¿Dices que la región se paralizó
+por la ausencia de un hombre?
+
+265
+00:17:40,338 --> 00:17:43,609
+Lo que Fatiyah no dijo es que los
+comerciantes que no obtuvieron permisos
+
+266
+00:17:43,634 --> 00:17:45,358
+secuestraron una caravana
+de exportaciones
+
+267
+00:17:45,383 --> 00:17:46,717
+de mis hermanos sirofenicios.
+
+268
+00:17:46,742 --> 00:17:49,687
+¡Teníamos un trato
+que tú incumpliste!
+
+269
+00:17:51,349 --> 00:17:53,894
+- ¿Cuál es tu nombre?
+- Eremis.
+
+270
+00:17:53,919 --> 00:17:55,253
+Soy un fundidor de bronce.
+
+271
+00:17:55,278 --> 00:17:58,039
+Pareces ser fuerte
+y tener buena salud.
+
+272
+00:17:58,064 --> 00:18:00,692
+Estás bien vestido
+de azul ateniense.
+
+273
+00:18:00,776 --> 00:18:02,402
+Hace juego con tus ojos.
+
+274
+00:18:03,027 --> 00:18:05,156
+Dime, Eremis,
+¿cuál es tu situación?
+
+275
+00:18:05,208 --> 00:18:06,960
+He comprado un terreno
+en el norte
+
+276
+00:18:06,985 --> 00:18:08,818
+y necesitaba una lectura
+de los auspicios
+
+277
+00:18:08,842 --> 00:18:10,758
+para saber si los dioses
+estaban de acuerdo
+
+278
+00:18:10,783 --> 00:18:14,386
+con la construcción de una
+nueva fundición.
+
+279
+00:18:14,411 --> 00:18:15,519
+Suena tan simple.
+
+280
+00:18:15,544 --> 00:18:17,450
+Pero luego de lo que
+dijeron esos judíos...
+
+281
+00:18:17,475 --> 00:18:20,562
+¡No vincules a estas personas
+con nuestra Orden!
+
+282
+00:18:20,587 --> 00:18:21,596
+Ustedes no hicieron nada
+
+283
+00:18:21,621 --> 00:18:24,251
+mientras advertíamos que sus
+enseñanzas envenenaban las mentes...
+
+284
+00:18:24,276 --> 00:18:27,236
+¡No sabes lo que hemos hecho
+y lo que no hemos hecho, Fatiyah!
+
+285
+00:18:27,261 --> 00:18:30,347
+¡Rechazamos enérgicamente
+todas sus enseñanzas!
+
+286
+00:18:30,431 --> 00:18:33,391
+¡Hemos sido castigados por
+crímenes que no cometimos!
+
+287
+00:18:33,416 --> 00:18:35,661
+- ¿Andrés? ¿Felipe?
+- ¿Sí, Rabino?
+
+288
+00:18:35,686 --> 00:18:38,095
+¿Han dirigido sus enseñanzas
+a los ciudadanos judíos?
+
+289
+00:18:38,120 --> 00:18:39,872
+Sí. Como usted ordenó, Maestro.
+
+290
+00:18:39,897 --> 00:18:43,050
+Pero el Augur de Abila los
+escuchó y se conmovió.
+
+291
+00:18:43,611 --> 00:18:44,794
+¿Eremis?
+
+292
+00:18:44,819 --> 00:18:47,197
+¿Qué te habría dicho
+la lectura del Augur?
+
+293
+00:18:47,222 --> 00:18:49,149
+Si había buenos o malos augurios.
+
+294
+00:18:49,174 --> 00:18:51,134
+¿No suena absurdo?
+
+295
+00:18:51,159 --> 00:18:54,221
+¿Nos acusas a nosotros
+de absurdos, judío?
+
+296
+00:18:54,246 --> 00:18:56,839
+¡Sus leyes sobre los alimentos
+y la pureza son irrisorias!
+
+297
+00:18:56,864 --> 00:18:58,122
+¡¿Qué?!
+
+298
+00:18:58,751 --> 00:19:00,836
+Siéntense, hermanos.
+
+299
+00:19:00,919 --> 00:19:04,131
+Lo último que esta gente
+necesita es violencia.
+
+300
+00:19:10,693 --> 00:19:12,332
+¿Cómo puedo construir un negocio
+
+301
+00:19:12,357 --> 00:19:14,733
+si no sé dónde quieren los dioses
+que construya...
+
+302
+00:19:14,758 --> 00:19:18,344
+Nazareno, si eres un rabino
+que se respeta a sí mismo,
+
+303
+00:19:18,369 --> 00:19:21,622
+no puedes validar esa
+pregunta con una respuesta.
+
+304
+00:19:21,647 --> 00:19:24,234
+La condescendencia
+de tu gente es infinita.
+
+305
+00:19:24,259 --> 00:19:27,323
+¿Y nunca ha habido una pizca
+de condescendencia en tu voz, Fatiyah?
+
+306
+00:19:27,348 --> 00:19:29,317
+No cambiemos de tema.
+
+307
+00:19:30,031 --> 00:19:33,259
+Aquí tenemos a Eremis,
+paralizado por el miedo
+
+308
+00:19:33,284 --> 00:19:34,966
+de que sus ambiciones
+empresariales
+
+309
+00:19:34,991 --> 00:19:38,161
+no sean aprobadas
+por los dioses de su religión.
+
+310
+00:19:38,999 --> 00:19:40,867
+¿Cómo puede esto
+llevar a la violencia?
+
+311
+00:19:40,892 --> 00:19:44,104
+La rebelión flagrante del Augur
+socavó la autoridad griega.
+
+312
+00:19:44,129 --> 00:19:46,381
+¡Y sin embargo, fue la
+comunidad judía la que recibió
+
+313
+00:19:46,406 --> 00:19:47,908
+una oleada brutal de ataques!
+
+314
+00:19:47,933 --> 00:19:50,652
+Mi gente fue la más afectada por
+no cumplir con el papeleo de Roma.
+
+315
+00:19:50,677 --> 00:19:53,170
+- ¡Y te convertiste en criminal!
+- ¡Por desesperación!
+
+316
+00:19:53,195 --> 00:19:56,349
+Por eso traje a Felipe y a Andrés
+para aclarar su mensaje.
+
+317
+00:19:56,432 --> 00:19:59,244
+Contaron una historia
+sobre la hospitalidad,
+
+318
+00:19:59,269 --> 00:20:03,022
+pero por alguna razón judíos y árabes
+terminaron peleando por ello.
+
+319
+00:20:03,047 --> 00:20:05,542
+Los primeros invitados
+al banquete en tu historia
+
+320
+00:20:05,567 --> 00:20:08,111
+tenían razones perfectamente
+válidas para no ir.
+
+321
+00:20:08,136 --> 00:20:09,754
+Que es otra forma de decir
+
+322
+00:20:09,779 --> 00:20:13,729
+que algunas personas creen que la vieja
+forma de hacer las cosas es mejor.
+
+323
+00:20:15,369 --> 00:20:17,037
+"Pregunten por los
+senderos antiguos.
+
+324
+00:20:17,121 --> 00:20:20,935
+Pregunten por el buen camino
+y no se aparten de él".
+
+325
+00:20:21,917 --> 00:20:23,226
+Conoces a tus profetas.
+
+326
+00:20:23,251 --> 00:20:24,494
+Por supuesto que sí.
+
+327
+00:20:24,519 --> 00:20:26,229
+¿E Isaías?
+
+328
+00:20:26,254 --> 00:20:29,091
+"Olviden las cosas de antaño,
+ya no vivan en el pasado..."
+
+329
+00:20:29,116 --> 00:20:31,729
+No enfrentes a los profetas
+unos contra otros,
+
+330
+00:20:31,754 --> 00:20:33,535
+especialmente en este tema.
+
+331
+00:20:34,346 --> 00:20:36,472
+La gente en los caminos
+y los cercos...
+
+332
+00:20:36,556 --> 00:20:38,976
+seguramente no te refieres
+a los gentiles.
+
+333
+00:20:39,001 --> 00:20:41,661
+Parece que no quisieras
+que vayamos al banquete.
+
+334
+00:20:41,686 --> 00:20:43,267
+El significado de la historia
+
+335
+00:20:43,292 --> 00:20:46,624
+es que Dios quiere su casa llena...
+
+336
+00:20:46,649 --> 00:20:50,654
+y todo el que cree en mí
+está invitado.
+
+337
+00:20:50,737 --> 00:20:52,864
+- Lisa y llanamente.
+- ¡Herejía!
+
+338
+00:20:52,889 --> 00:20:55,992
+Suenas igual que la gente
+del principio de la historia
+
+339
+00:20:56,017 --> 00:20:57,652
+que se negaron a asistir
+al banquete.
+
+340
+00:20:57,677 --> 00:21:00,347
+¡Ni muerto iría a un
+banquete contigo!
+
+341
+00:21:00,372 --> 00:21:03,667
+No me podría parar ante Dios
+si lo hiciera.
+
+342
+00:21:03,692 --> 00:21:04,780
+¿Ahora lo ves?
+
+343
+00:21:04,805 --> 00:21:06,054
+¿Me estás diciendo
+
+344
+00:21:06,079 --> 00:21:08,479
+que antes de la visita
+de Andrés y Felipe,
+
+345
+00:21:08,504 --> 00:21:11,757
+la Decápolis era un verdadero
+paraíso de paz y unidad?
+
+346
+00:21:11,782 --> 00:21:13,655
+Al menos los grupos
+se mantenían aislados.
+
+347
+00:21:13,680 --> 00:21:16,622
+Basta. Nuestra ciudad de Abila
+ha estado en tensión por décadas.
+
+348
+00:21:16,647 --> 00:21:20,388
+Siempre supimos que los judíos
+eran displicentes y estaban divididos,
+
+349
+00:21:20,413 --> 00:21:22,952
+pero en silencio
+dentro de su sinagoga.
+
+350
+00:21:22,977 --> 00:21:26,039
+Al menos vamos a Jerusalén
+a hacer nuestros sacrificios,
+
+351
+00:21:26,064 --> 00:21:27,386
+no como ustedes los griegos,
+
+352
+00:21:27,411 --> 00:21:29,744
+que dejan que sus ofrendas
+se pudran y apesten
+
+353
+00:21:29,769 --> 00:21:31,752
+en los altares públicos.
+
+354
+00:21:31,777 --> 00:21:34,839
+¿Alguna vez se preguntaron
+por qué Zeus nunca baja
+
+355
+00:21:34,864 --> 00:21:36,191
+a comer sus ofrendas?
+
+356
+00:21:36,216 --> 00:21:38,761
+Tal vez sea porque el vino
+está agrio y estropeado.
+
+357
+00:21:38,786 --> 00:21:41,704
+Tal vez sea porque
+no hay ningún Zeus.
+
+358
+00:21:41,787 --> 00:21:43,281
+El aprendiz del Augur
+
+359
+00:21:43,306 --> 00:21:46,351
+retira en secreto los exvotos
+con el amparo de la noche
+
+360
+00:21:46,376 --> 00:21:48,061
+cuando el hedor es insoportable.
+
+361
+00:21:48,086 --> 00:21:50,833
+Así que básicamente,
+tu religión es una farsa.
+
+362
+00:21:51,547 --> 00:21:54,788
+Otra vez ese espíritu despectivo.
+
+363
+00:21:55,663 --> 00:21:58,080
+¿Estás orgulloso de pertenecer
+a esta denigrante raza?
+
+364
+00:21:58,106 --> 00:22:00,358
+Eremis, por favor.
+
+365
+00:22:00,766 --> 00:22:02,934
+Jesús, tu fama es bien conocida.
+
+366
+00:22:03,017 --> 00:22:05,896
+Hemos escuchado que haces
+maravillas y que cambias vidas
+
+367
+00:22:05,979 --> 00:22:08,231
+y que diste un sermón
+en la meseta de Korazim,
+
+368
+00:22:08,256 --> 00:22:09,591
+que algunos dicen
+
+369
+00:22:09,616 --> 00:22:11,653
+que puede convertirse en el
+sermón más importante
+
+370
+00:22:11,678 --> 00:22:13,270
+que el mundo
+haya escuchado jamás.
+
+371
+00:22:13,295 --> 00:22:14,927
+No lo hice para hacerme famoso.
+
+372
+00:22:14,952 --> 00:22:17,549
+Es una pena, porque lo eres.
+
+373
+00:22:17,574 --> 00:22:21,064
+Y específicamente por tener éxito
+en todo lo que tocas.
+
+374
+00:22:24,456 --> 00:22:27,584
+Parece que has llegado
+a tu primer fracaso.
+
+375
+00:22:27,667 --> 00:22:29,877
+Jesús de Nazaret...
+
+376
+00:22:30,379 --> 00:22:33,966
+si tú eres quien dices que eres,
+
+377
+00:22:33,991 --> 00:22:37,314
+¿por qué inspiras y transformas
+a algunas personas,
+
+378
+00:22:37,339 --> 00:22:40,259
+pero otros se sienten
+amenazados y rechazados?
+
+379
+00:22:40,806 --> 00:22:42,740
+Déjame contarte una historia.
+
+380
+00:22:44,059 --> 00:22:45,852
+Lo sé, lo sé,
+
+381
+00:22:45,877 --> 00:22:48,079
+pero esta es otra cosa
+que hacemos los judíos
+
+382
+00:22:48,104 --> 00:22:51,149
+y ahora que lo pienso
+también los griegos,
+
+383
+00:22:51,399 --> 00:22:54,277
+así que escuchen todos.
+
+384
+00:22:54,569 --> 00:22:57,572
+Un sembrador salió a sembrar.
+
+385
+00:22:57,597 --> 00:23:00,934
+Mientras iba esparciendo la semilla,
+una parte cayó junto al camino,
+
+386
+00:23:00,959 --> 00:23:02,430
+<i>¡No te oímos!</i>
+
+387
+00:23:09,001 --> 00:23:10,593
+Más gente escuchando.
+
+388
+00:23:12,040 --> 00:23:15,352
+Voy a retroceder para que podamos acoger
+al mayor número de personas posible.
+
+389
+00:23:15,377 --> 00:23:18,484
+Estudiantes, por favor,
+disemínense y organicen a la gente
+
+390
+00:23:18,509 --> 00:23:21,476
+y ayuden a hacerles llegar mis palabras
+a los que están lejos.
+
+391
+00:23:21,501 --> 00:23:22,805
+Quieres enviarnos a...
+
+392
+00:23:22,830 --> 00:23:23,848
+Continúa.
+
+393
+00:23:23,873 --> 00:23:26,079
+Podemos confiar en él, Juan.
+
+394
+00:23:33,831 --> 00:23:37,292
+Zee, Santiago el mayor,
+quédense aquí por seguridad.
+
+395
+00:24:07,226 --> 00:24:09,227
+¿Has venido de Perea?
+
+396
+00:24:10,979 --> 00:24:12,664
+La Decápolis.
+
+397
+00:24:12,689 --> 00:24:14,183
+Eso lo explica todo.
+
+398
+00:24:14,208 --> 00:24:16,501
+- ¿Qué explica?
+- Borlas de oración.
+
+399
+00:24:16,526 --> 00:24:17,627
+No llevas ninguna.
+
+400
+00:24:17,652 --> 00:24:20,525
+Sí, no están de moda
+en las ciudades helenistas.
+
+401
+00:24:21,739 --> 00:24:23,049
+¿Qué te trae a Judea?
+
+402
+00:24:23,074 --> 00:24:24,817
+Un recado importante en Jerusalén.
+
+403
+00:24:24,842 --> 00:24:27,052
+Podrías considerar parar
+en Jericó en el camino
+
+404
+00:24:27,077 --> 00:24:28,496
+para recoger algunas borlas.
+
+405
+00:24:28,521 --> 00:24:30,217
+Si no llevas borlas
+en la Ciudad Santa...
+
+406
+00:24:30,242 --> 00:24:33,892
+Gracias, pero tengo asuntos
+más importantes que la moda.
+
+407
+00:24:34,547 --> 00:24:37,008
+Será mejor que te des prisa...
+
+408
+00:24:37,033 --> 00:24:38,799
+se avecina una tormenta.
+
+409
+00:24:40,314 --> 00:24:42,386
+Seguro que sí.
+
+410
+00:24:54,481 --> 00:24:58,526
+Este hombre, Leander,
+preguntó cómo puede ser
+
+411
+00:24:58,609 --> 00:25:01,696
+que yo inspire y transforme
+a algunas personas,
+
+412
+00:25:01,779 --> 00:25:05,759
+mientras que otras se sienten
+amenazadas y rechazadas.
+
+413
+00:25:05,784 --> 00:25:09,626
+Y así, como ya he dicho,
+me gustaría responder con una historia.
+
+414
+00:25:10,162 --> 00:25:13,082
+Un sembrador salió a sembrar.
+
+415
+00:25:13,107 --> 00:25:17,812
+Al esparcir las semillas, algunas
+cayeron al borde del camino
+
+416
+00:25:17,837 --> 00:25:21,632
+y los pájaros las comieron.
+
+417
+00:25:21,757 --> 00:25:24,944
+Otras cayeron
+en terreno pedregoso,
+
+418
+00:25:24,969 --> 00:25:27,447
+donde no había mucha tierra...
+
+419
+00:25:27,472 --> 00:25:29,766
+Otras cayeron
+en terreno pedregoso,
+
+420
+00:25:29,791 --> 00:25:31,300
+donde no había mucha tierra...
+
+421
+00:25:31,325 --> 00:25:34,055
+Brotaron enseguida,
+porque la tierra era poco profunda.
+
+422
+00:25:34,080 --> 00:25:35,956
+Y brotaron enseguida,
+
+423
+00:25:35,981 --> 00:25:38,140
+porque la tierra
+era poco profunda...
+
+424
+00:25:38,165 --> 00:25:40,292
+Pero, cuando salió el sol,
+
+425
+00:25:40,317 --> 00:25:42,279
+se quemaron...
+
+426
+00:25:42,362 --> 00:25:45,489
+y, por falta de raíz, se secaron.
+
+427
+00:25:45,574 --> 00:25:48,659
+Y, por falta de raíz, se secaron.
+
+428
+00:25:48,742 --> 00:25:50,787
+Y estas, al crecer,
+las ahogaron...
+
+429
+00:25:50,871 --> 00:25:53,789
+Otras cayeron entre espinas
+
+430
+00:25:53,874 --> 00:25:55,751
+y estas, al crecer, las ahogaron.
+
+431
+00:25:55,834 --> 00:25:58,502
+Y estas, al crecer, las ahogaron.
+
+432
+00:25:58,586 --> 00:26:03,341
+Otras cayeron en tierra buena
+y dieron fruto...
+
+433
+00:26:03,424 --> 00:26:09,364
+unas cien, otras sesenta,
+otras treinta.
+
+434
+00:26:09,389 --> 00:26:13,142
+Unas cien, otras sesenta,
+otras treinta.
+
+435
+00:26:13,167 --> 00:26:16,722
+El que tenga oídos para oír,
+que oiga.
+
+436
+00:26:16,747 --> 00:26:20,083
+El que tenga oídos para oír,
+que oiga.
+
+437
+00:26:27,782 --> 00:26:29,284
+¿Estás viendo esto?
+
+438
+00:26:31,286 --> 00:26:33,829
+Simón, esta multitud...
+
+439
+00:26:33,914 --> 00:26:35,999
+¡Estamos completamente rodeados!
+
+440
+00:26:36,024 --> 00:26:39,569
+Debe haber... miles.
+
+441
+00:26:46,676 --> 00:26:48,569
+¿Qué pasa?
+
+442
+00:26:48,594 --> 00:26:49,779
+<i>¡Rabino Shmuel!</i>
+
+443
+00:26:49,804 --> 00:26:51,097
+¡Ya voy!
+
+444
+00:26:56,811 --> 00:27:00,106
+Lamento molestarlo, Rabino,
+pero es urgente.
+
+445
+00:27:11,701 --> 00:27:15,204
+Rabino Shmuel, es un gran honor.
+
+446
+00:27:15,287 --> 00:27:16,497
+Perdón por la hora.
+
+447
+00:27:16,581 --> 00:27:19,789
+Mi nombre es Nashón,
+hijo de Eliab, de Abila.
+
+448
+00:27:19,914 --> 00:27:21,769
+Has recorrido
+una gran distancia.
+
+449
+00:27:21,794 --> 00:27:24,339
+¿Se te han caído las borlas
+por el camino?
+
+450
+00:27:24,364 --> 00:27:26,915
+Dios mío, sí,
+deben haberse caído.
+
+451
+00:27:26,940 --> 00:27:28,067
+Mis disculpas, yo...
+
+452
+00:27:28,092 --> 00:27:29,759
+Consígale de repuesto.
+
+453
+00:27:30,552 --> 00:27:31,846
+Por favor.
+
+454
+00:27:32,972 --> 00:27:35,224
+He oído que el gran Shammai
+ha emitido un edicto
+
+455
+00:27:35,249 --> 00:27:37,057
+sobre las profecías falsas,
+
+456
+00:27:37,082 --> 00:27:39,412
+para estar en alerta
+en caso de que algo así suceda.
+
+457
+00:27:39,437 --> 00:27:40,446
+Sí.
+
+458
+00:27:40,471 --> 00:27:41,806
+Acabo de encontrar un...
+
+459
+00:27:41,831 --> 00:27:43,541
+¿Qué es ese chaleco?
+
+460
+00:27:44,692 --> 00:27:46,765
+Fue un regalo de mi esposa.
+
+461
+00:27:47,069 --> 00:27:50,429
+Damasco, se llama así
+por Damasco, donde se fabrica.
+
+462
+00:27:50,454 --> 00:27:51,849
+Es un tejido de seda y lino,
+
+463
+00:27:51,874 --> 00:27:53,509
+muy popular en las
+ciudades helenistas.
+
+464
+00:27:53,534 --> 00:27:55,679
+¡Quítatelo de una vez!
+
+465
+00:27:55,704 --> 00:27:58,556
+- ¿Disculpe?
+- ¡Quítatelo!
+
+466
+00:27:58,581 --> 00:28:00,879
+- Yo...
+- La Ley de Moisés dice:
+
+467
+00:28:00,904 --> 00:28:04,031
+"No usen ropa tejida
+con dos clases distintas de hilo".
+
+468
+00:28:05,883 --> 00:28:07,357
+Pensé que era solo un viejo...
+
+469
+00:28:07,382 --> 00:28:09,109
+¿Un viejo qué?
+
+470
+00:28:09,134 --> 00:28:10,592
+Termina la frase.
+
+471
+00:28:12,679 --> 00:28:14,306
+No sé.
+
+472
+00:28:14,331 --> 00:28:16,676
+Algo para no imitar
+la cultura cananea.
+
+473
+00:28:16,701 --> 00:28:18,908
+Una prohibición cultural
+para su época.
+
+474
+00:28:18,933 --> 00:28:20,302
+No pensé que alguien
+realmente...
+
+475
+00:28:20,327 --> 00:28:22,204
+La Torá es atemporal.
+
+476
+00:28:22,229 --> 00:28:26,067
+Entiendo... nuevamente,
+le pido disculpas.
+
+477
+00:28:26,092 --> 00:28:27,603
+No tenía la intención de pecar...
+
+478
+00:28:27,628 --> 00:28:29,343
+Es como me lo esperaba
+en la Decápolis,
+
+479
+00:28:29,368 --> 00:28:32,022
+la influencia griega
+ha contaminado su fe.
+
+480
+00:28:33,157 --> 00:28:35,535
+Pero parece que no tanto
+
+481
+00:28:35,560 --> 00:28:39,271
+como para desconocer
+el edicto del juez Shammai.
+
+482
+00:28:40,874 --> 00:28:46,254
+Me encontré con un rabino judío
+que se junta con gentiles... multitudes.
+
+483
+00:28:46,279 --> 00:28:48,231
+¡Incluso curó
+a un gentil sordomudo!
+
+484
+00:28:48,256 --> 00:28:50,098
+Háblame del predicador.
+
+485
+00:28:51,009 --> 00:28:54,422
+Hace tres semanas, un par
+de estudiantes de Cafarnaúm
+
+486
+00:28:54,447 --> 00:28:55,739
+enseñaban en Naveh a un grupo
+
+487
+00:28:55,764 --> 00:28:59,101
+y no se dieron cuenta
+de que eran judíos y gentiles,
+
+488
+00:28:59,184 --> 00:29:01,452
+repetían las enseñanzas
+de su rabino,
+
+489
+00:29:01,477 --> 00:29:03,371
+cuyo nombre dijeron que era Jesús.
+
+490
+00:29:03,396 --> 00:29:04,825
+- ¿De...?
+- ¿Qué quiere decir?
+
+491
+00:29:04,873 --> 00:29:06,416
+¡¿Jesús de dónde?!
+
+492
+00:29:06,441 --> 00:29:08,932
+De una pequeña ciudad
+llamada Nazaret, si lo puede creer...
+
+493
+00:29:08,957 --> 00:29:11,404
+No preciso ninguna
+información adicional de tu parte.
+
+494
+00:29:11,429 --> 00:29:14,008
+Convoque a la guardia del templo,
+busque al rabino Yanni.
+
+495
+00:29:14,033 --> 00:29:15,804
+Reuniré a los representantes
+de Shammai.
+
+496
+00:29:15,829 --> 00:29:18,203
+Nos reuniremos
+en la escalera herodiana.
+
+497
+00:29:42,376 --> 00:29:45,187
+Catorce manos...
+manta ateniense...
+
+498
+00:29:45,212 --> 00:29:46,439
+¡Gracias a Dios!
+
+499
+00:29:46,464 --> 00:29:48,883
+Cuero de brida macedonio...
+
+500
+00:29:49,151 --> 00:29:52,277
+Zapatos de acero sirofenicios
+terminados a martillo...
+
+501
+00:29:52,612 --> 00:29:55,239
+Y la dejaste desatada,
+desatendida.
+
+502
+00:29:55,264 --> 00:29:57,643
+Estaba muy apurado...
+
+503
+00:29:57,784 --> 00:30:00,296
+Toma, por tus molestias,
+estoy muy agradecido.
+
+504
+00:30:00,321 --> 00:30:02,699
+No, está bien.
+Un placer, realmente.
+
+505
+00:30:03,664 --> 00:30:05,041
+Pero dime...
+
+506
+00:30:05,066 --> 00:30:06,376
+¿qué puede ser tan importante
+
+507
+00:30:06,401 --> 00:30:09,494
+como para dejar una belleza
+tan exótica vulnerable al robo
+
+508
+00:30:09,519 --> 00:30:11,481
+o a que se pierda?
+
+509
+00:30:11,506 --> 00:30:14,426
+Tenía un asunto importante
+con el rabino Shmuel.
+
+510
+00:30:14,509 --> 00:30:16,680
+¿El rabino Shmuel?
+
+511
+00:30:20,254 --> 00:30:22,875
+Me encantaría saber más.
+
+512
+00:30:24,186 --> 00:30:27,271
+Usted debe ser muy importante.
+
+513
+00:30:27,354 --> 00:30:28,772
+No.
+
+514
+00:30:30,399 --> 00:30:32,167
+Lo que estoy a punto de decir
+
+515
+00:30:32,192 --> 00:30:34,773
+es para los judíos
+y para los gentiles...
+
+516
+00:30:36,406 --> 00:30:40,611
+En tantas ciudades
+hace falta arrepentimiento
+
+517
+00:30:40,636 --> 00:30:42,512
+y rectitud.
+
+518
+00:30:42,537 --> 00:30:45,497
+Ya he predicado y hecho milagros
+
+519
+00:30:45,581 --> 00:30:49,322
+en varias ciudades,
+al igual que mis seguidores.
+
+520
+00:30:50,330 --> 00:30:52,731
+Y sin embargo
+ellos no dan abasto.
+
+521
+00:30:52,756 --> 00:30:55,591
+Muchos de ustedes están aquí,
+escuchándome,
+
+522
+00:30:56,155 --> 00:30:59,155
+deseosos de ser atraídos
+más cerca de Dios,
+
+523
+00:30:59,179 --> 00:31:02,849
+deseosos de encontrar la paz
+en sus almas.
+
+524
+00:31:03,455 --> 00:31:06,994
+Y al hacerlo,
+tienen más sabiduría
+
+525
+00:31:07,019 --> 00:31:09,572
+que la mayoría
+de los líderes religiosos
+
+526
+00:31:09,598 --> 00:31:12,429
+que se niegan a ser humildes.
+
+527
+00:31:16,279 --> 00:31:18,781
+Te alabo, Padre,
+
+528
+00:31:18,806 --> 00:31:21,134
+Señor del cielo y de la tierra,
+
+529
+00:31:21,159 --> 00:31:25,454
+por haber ocultado estas cosas
+a los sabios y a los prudentes
+
+530
+00:31:25,704 --> 00:31:28,749
+y haberlas revelado
+a los pequeños.
+
+531
+00:31:28,832 --> 00:31:29,959
+Sí, Padre,
+
+532
+00:31:30,001 --> 00:31:33,337
+porque así lo has querido.
+
+533
+00:31:33,421 --> 00:31:37,884
+Todo me ha sido dado
+por mi Padre...
+
+534
+00:31:37,967 --> 00:31:42,137
+y nadie conoce al Hijo
+sino el Padre...
+
+535
+00:31:42,221 --> 00:31:45,766
+y nadie conoce al Padre
+sino el Hijo...
+
+536
+00:31:45,849 --> 00:31:49,779
+y aquel a quien el Hijo
+se lo quiera revelar.
+
+537
+00:31:51,498 --> 00:31:55,626
+Y les estoy revelando
+al Padre ahora.
+
+538
+00:31:55,651 --> 00:31:58,779
+¡Judío y gentil!
+
+539
+00:31:58,804 --> 00:32:01,257
+Lo que se agita
+en sus corazones,
+
+540
+00:32:01,282 --> 00:32:04,869
+en medio de tal
+división y malestar,
+
+541
+00:32:04,894 --> 00:32:08,302
+es el Padre Dios
+que se revela ante ustedes.
+
+542
+00:32:09,957 --> 00:32:12,209
+Vengan a mí
+
+543
+00:32:12,234 --> 00:32:16,614
+todos los que están
+afligidos y agobiados...
+
+544
+00:32:16,779 --> 00:32:19,009
+y Yo los aliviaré.
+
+545
+00:32:20,676 --> 00:32:25,639
+Carguen mi yugo sobre ustedes
+y aprendan de mí,
+
+546
+00:32:25,722 --> 00:32:30,629
+porque soy paciente
+y humilde de corazón...
+
+547
+00:32:30,654 --> 00:32:33,643
+y así encontrarán alivio.
+
+548
+00:32:35,182 --> 00:32:39,462
+Porque mi yugo es suave...
+
+549
+00:32:39,487 --> 00:32:42,239
+y mi carga liviana.
+
+550
+00:32:49,622 --> 00:32:51,624
+Hablando de alivio...
+
+551
+00:32:53,126 --> 00:32:58,506
+todos lo necesitamos ahora,
+incluido yo.
+
+552
+00:32:58,531 --> 00:33:03,111
+Así que donde quieran reclinar
+la cabeza, vamos a dormir,
+
+553
+00:33:03,136 --> 00:33:05,651
+y continuaré por la mañana.
+
+554
+00:33:06,931 --> 00:33:08,987
+Shalom shalom.
+
+555
+00:33:25,824 --> 00:33:27,684
+Buenas noches, Mateo.
+
+556
+00:33:31,414 --> 00:33:33,624
+Judas, ¿tienes la cuenta?
+
+557
+00:33:33,707 --> 00:33:35,542
+Sí.
+
+558
+00:33:35,567 --> 00:33:37,394
+Hay al menos 1.000 al sur.
+
+559
+00:33:37,419 --> 00:33:40,189
+Había gente que seguía llegando
+después de la puesta del sol.
+
+560
+00:33:40,214 --> 00:33:41,799
+¿Han vuelto Andrés y Felipe?
+
+561
+00:33:41,882 --> 00:33:43,801
+No, pero antes de que oscureciera,
+
+562
+00:33:43,826 --> 00:33:45,857
+ambos puntos de la brújula
+tenían aproximadamente
+
+563
+00:33:45,882 --> 00:33:47,079
+la misma cantidad de gente.
+
+564
+00:33:47,104 --> 00:33:48,860
+- ¿Así que 2.000?
+- Y aún contando.
+
+565
+00:33:48,885 --> 00:33:51,429
+He dicho más o menos, pero sí.
+
+566
+00:33:54,979 --> 00:33:56,875
+Deberíamos ponernos en marcha.
+
+567
+00:33:58,357 --> 00:33:59,984
+Tenemos una situación.
+
+568
+00:34:00,067 --> 00:34:02,483
+- ¿Qué situación?
+- Los gentiles...
+
+569
+00:34:02,508 --> 00:34:03,645
+se han quedado sin comida.
+
+570
+00:34:03,670 --> 00:34:06,424
+Nadie creyó que la enseñanza
+iba a durar todo el día.
+
+571
+00:34:06,449 --> 00:34:07,826
+Nadie los obligó a quedarse.
+
+572
+00:34:07,909 --> 00:34:09,952
+Simón, están hambrientos
+de sus palabras.
+
+573
+00:34:10,036 --> 00:34:11,554
+Y ahora están
+hambrientos de comida.
+
+574
+00:34:11,579 --> 00:34:13,122
+No es nuestro problema.
+
+575
+00:34:13,147 --> 00:34:14,783
+¿No pueden volver a sus pueblos?
+
+576
+00:34:14,808 --> 00:34:16,851
+¡Fueron expulsados
+por la violencia!
+
+577
+00:34:16,876 --> 00:34:19,671
+¡Es de noche!
+¡Tienen que dormir en estos campos!
+
+578
+00:34:19,696 --> 00:34:20,793
+Él no lo entiende.
+
+579
+00:34:20,818 --> 00:34:23,813
+No entiende lo mal que estaban las
+cosas la primera vez que vinimos aquí.
+
+580
+00:34:23,838 --> 00:34:27,152
+Lo que haya pasado, no cambiará
+cómo fueron los hechos.
+
+581
+00:34:27,528 --> 00:34:30,323
+Veo que las cosas van
+tan bien aquí como ahí fuera.
+
+582
+00:34:30,348 --> 00:34:31,522
+¿Qué quieres decir?
+
+583
+00:34:31,547 --> 00:34:33,700
+Algunas personas fueron
+expulsadas de sus hogares
+
+584
+00:34:33,725 --> 00:34:35,469
+hace más de una semana.
+
+585
+00:34:35,494 --> 00:34:37,329
+Están hambrientas y cansadas.
+
+586
+00:34:37,354 --> 00:34:38,905
+No molestes a Simón
+con tus noticias,
+
+587
+00:34:38,930 --> 00:34:40,733
+su mente está en cualquier parte
+menos aquí.
+
+588
+00:34:40,758 --> 00:34:42,383
+Andrés, sé amable
+con tu hermano.
+
+589
+00:34:42,408 --> 00:34:43,414
+¿Amable?
+
+590
+00:34:43,439 --> 00:34:46,053
+Acaba de decir que el hambre
+de la gente no es nuestro problema
+
+591
+00:34:46,078 --> 00:34:47,604
+y que deberíamos enviarlos lejos.
+
+592
+00:34:47,629 --> 00:34:49,769
+- ¿De verdad dijiste eso, Simón?
+- Ahora no importa.
+
+593
+00:34:49,794 --> 00:34:52,204
+Importa que debemos resolverlo
+sin la ayuda de Simón.
+
+594
+00:34:52,228 --> 00:34:53,271
+¡No podemos!
+
+595
+00:34:53,296 --> 00:34:55,381
+Él no es el Mesías, Juan,
+Jesús lo es.
+
+596
+00:34:55,406 --> 00:35:01,146
+En eso no hay discusión.
+Pero Jesús me dijo que...
+
+597
+00:35:01,171 --> 00:35:04,735
+el éxito de este viaje
+depende de Simón.
+
+598
+00:35:05,257 --> 00:35:06,509
+¿Él dijo eso?
+
+599
+00:35:06,592 --> 00:35:08,027
+Por eso me quedé allá.
+
+600
+00:35:08,052 --> 00:35:10,179
+Jesús insistió en que
+me quedara allá,
+
+601
+00:35:10,221 --> 00:35:12,485
+para esperar a Simón
+y traerlo aquí.
+
+602
+00:35:16,905 --> 00:35:19,281
+- ¡Simón!
+- ¿Dijo cómo?
+
+603
+00:35:20,189 --> 00:35:21,428
+No.
+
+604
+00:35:22,521 --> 00:35:24,373
+Si todo depende de ti...
+
+605
+00:35:25,569 --> 00:35:27,196
+¿cuál es el plan?
+
+606
+00:35:27,279 --> 00:35:28,656
+Ninguno.
+
+607
+00:35:28,806 --> 00:35:29,824
+¿Qué?
+
+608
+00:35:29,849 --> 00:35:32,225
+Jesús es capaz
+de hacer lo que Él quiera.
+
+609
+00:35:32,250 --> 00:35:33,662
+Al final, eso es lo que hará.
+
+610
+00:35:33,687 --> 00:35:34,731
+Hermano...
+
+611
+00:35:34,756 --> 00:35:37,387
+Si Jesús quiere dar una solución
+para estas personas hambrientas,
+
+612
+00:35:37,412 --> 00:35:38,824
+eso es lo que va a pasar.
+
+613
+00:35:38,849 --> 00:35:40,517
+Estoy seguro de ello.
+
+614
+00:35:40,542 --> 00:35:43,521
+No pareces muy feliz
+de estar seguro de ello.
+
+615
+00:36:01,314 --> 00:36:05,002
+Ozem, despierta,
+me estás babeando.
+
+616
+00:36:06,444 --> 00:36:08,654
+¿Cuánto más lejos tenemos que ir?
+
+617
+00:36:08,737 --> 00:36:10,281
+Conoces la distancia
+a la Decápolis
+
+618
+00:36:10,364 --> 00:36:11,907
+y sabes la hora
+a la que salimos.
+
+619
+00:36:11,991 --> 00:36:13,742
+Una impía.
+
+620
+00:36:13,826 --> 00:36:16,204
+No existe tal cosa
+como una hora "impía".
+
+621
+00:36:16,287 --> 00:36:18,870
+Díselo a mi mujer.
+
+622
+00:36:19,183 --> 00:36:20,991
+Se suponía que llevaríamos
+a los niños
+
+623
+00:36:21,016 --> 00:36:23,436
+a ver a sus abuelos a Gaza hoy.
+
+624
+00:36:23,461 --> 00:36:25,582
+Primero servimos a Dios,
+luego a nuestras familias.
+
+625
+00:36:25,607 --> 00:36:29,066
+Servimos a Dios sirviendo
+a nuestras familias...
+
+626
+00:36:29,091 --> 00:36:31,504
+y tú no tienes familia,
+así que no me des un sermón.
+
+627
+00:36:31,529 --> 00:36:34,196
+El único sermón que oí
+últimamente ha sido a ti
+
+628
+00:36:34,221 --> 00:36:35,847
+repitiendo el refrán de Shamai
+
+629
+00:36:35,872 --> 00:36:38,682
+que dice que la fidelidad a la
+Ley de Dios al pie de la letra
+
+630
+00:36:38,707 --> 00:36:40,494
+es lo único que importa
+
+631
+00:36:40,519 --> 00:36:43,276
+y, sin embargo,
+aquí estás quejándote
+
+632
+00:36:43,301 --> 00:36:46,177
+de tener que actuar
+de acuerdo a esa convicción.
+
+633
+00:36:46,484 --> 00:36:48,361
+Cuando le presenté
+los informes a Shammai
+
+634
+00:36:48,569 --> 00:36:50,279
+sobre las curaciones en Shabat
+
+635
+00:36:50,321 --> 00:36:52,117
+mientras Jesús ordenaba
+a sus seguidores
+
+636
+00:36:52,142 --> 00:36:53,674
+comer espigas en Shabat,
+
+637
+00:36:53,699 --> 00:36:55,176
+tu propio Shammai me dijo
+
+638
+00:36:55,201 --> 00:36:56,832
+que deberíamos esperar
+para actuar
+
+639
+00:36:56,858 --> 00:36:59,822
+hasta saber que era
+"la hora de Dios".
+
+640
+00:37:00,039 --> 00:37:02,707
+Ojalá hubieras escuchado
+esa sabiduría.
+
+641
+00:37:02,732 --> 00:37:05,936
+Olvidas tu rango
+y categoría, Shmuel.
+
+642
+00:37:05,961 --> 00:37:07,004
+Al contrario.
+
+643
+00:37:07,046 --> 00:37:09,089
+Soy consciente de mi rango
+y de mi categoría,
+
+644
+00:37:09,114 --> 00:37:11,984
+le pregunté cómo sabríamos
+que era la hora de Dios.
+
+645
+00:37:12,009 --> 00:37:13,094
+¿Su respuesta?
+
+646
+00:37:13,119 --> 00:37:15,366
+Cuando las pruebas
+fueran abundantes.
+
+647
+00:37:15,391 --> 00:37:17,797
+Nashón dijo que las multitudes
+que vio en el camino
+
+648
+00:37:17,822 --> 00:37:20,659
+solo pueden describirse
+como multitudes de gentiles.
+
+649
+00:37:20,684 --> 00:37:24,539
+Ese es el otro tema
+de todo esto.
+
+650
+00:37:24,564 --> 00:37:26,106
+¿Gentiles?
+
+651
+00:37:27,942 --> 00:37:31,529
+¿Por qué nos entrometemos
+en la Decápolis?
+
+652
+00:37:31,612 --> 00:37:34,339
+Es la Ciudad Santa
+lo que importa.
+
+653
+00:37:34,364 --> 00:37:37,526
+Entonces... ¿un pecado
+solo es un pecado
+
+654
+00:37:37,551 --> 00:37:39,839
+si ocurre en Jerusalén
+o cerca de allí?
+
+655
+00:37:39,864 --> 00:37:43,099
+No, no.
+
+656
+00:37:43,124 --> 00:37:47,044
+Se trata de asignar recursos.
+
+657
+00:37:47,127 --> 00:37:51,257
+Hay más sincretismo
+e influencias helenistas
+
+658
+00:37:51,341 --> 00:37:55,027
+profanando las costumbres
+de nuestra gente en la Decápolis
+
+659
+00:37:55,052 --> 00:37:59,306
+de lo que podríamos abordar
+de manera significativa.
+
+660
+00:37:59,389 --> 00:38:03,269
+La molestia de ir a cazar
+a un solo judío
+
+661
+00:38:03,294 --> 00:38:06,497
+que quizás está liderando
+a algunas personas descarriadas
+
+662
+00:38:06,522 --> 00:38:10,402
+es miope y poco atractiva.
+
+663
+00:38:10,427 --> 00:38:13,412
+Lamento que las enseñanzas falsas
+sean una carga tan pesada para ti.
+
+664
+00:38:13,437 --> 00:38:15,605
+Lamento que sean una carga
+tan pesada para ti.
+
+665
+00:38:15,630 --> 00:38:17,674
+Ya es suficiente.
+
+666
+00:38:17,699 --> 00:38:20,827
+Creo que lo único en lo que
+todos podemos estar de acuerdo
+
+667
+00:38:20,911 --> 00:38:25,207
+es que si lo encontramos
+realizando algún truco de magia
+
+668
+00:38:25,291 --> 00:38:28,377
+o alguna brujería,
+tendremos que tomar medidas.
+
+669
+00:38:28,402 --> 00:38:29,928
+Ha pasado mucho tiempo
+
+670
+00:38:29,953 --> 00:38:32,689
+desde la última vez que
+procesé un caso de brujería.
+
+671
+00:38:32,714 --> 00:38:35,509
+Pueden ser difíciles de manejar,
+
+672
+00:38:35,592 --> 00:38:38,512
+por eso los dejo venir a mí,
+
+673
+00:38:38,596 --> 00:38:40,056
+no voy a buscarlos.
+
+674
+00:38:40,081 --> 00:38:42,015
+¿Hay alguna manera de ir
+más rápido?
+
+675
+00:38:42,040 --> 00:38:43,090
+<i>Sí, rabino.</i>
+
+676
+00:38:43,115 --> 00:38:45,677
+Solicitaste un carruaje
+en la mitad de la noche.
+
+677
+00:38:45,702 --> 00:38:49,248
+¿Esperabas que Caiaphus
+escogiera tus corceles?
+
+678
+00:38:50,759 --> 00:38:52,544
+Solo relájate.
+
+679
+00:39:01,267 --> 00:39:03,554
+Díganme qué piensan de esto.
+
+680
+00:39:03,579 --> 00:39:05,956
+Un hombre tenía dos hijos.
+
+681
+00:39:05,981 --> 00:39:07,949
+Se dirigió al primero y le dijo:
+
+682
+00:39:07,974 --> 00:39:11,854
+"Hijo, hoy ve a trabajar
+al viñedo".
+
+683
+00:39:11,879 --> 00:39:15,341
+Y él respondió: "No lo haré",
+
+684
+00:39:15,424 --> 00:39:19,594
+pero después cambió de idea
+y fue al viñedo.
+
+685
+00:39:19,679 --> 00:39:23,349
+Luego se dirigió al otro hijo
+y le dijo lo mismo.
+
+686
+00:39:23,432 --> 00:39:27,519
+Y él respondió: "Iré, señor",
+
+687
+00:39:27,602 --> 00:39:30,314
+pero no fue.
+
+688
+00:39:30,397 --> 00:39:33,186
+¿Cuál de los dos hijos cumplió
+con la voluntad del padre?
+
+689
+00:39:33,211 --> 00:39:35,088
+<i>El primero.</i>
+
+690
+00:39:44,871 --> 00:39:46,414
+¡Tú!
+
+691
+00:39:46,497 --> 00:39:48,082
+¿Dónde encontraste eso?
+
+692
+00:39:48,565 --> 00:39:50,726
+En el fondo de mi bolsa.
+
+693
+00:39:50,751 --> 00:39:53,212
+Olvidé que estaba ahí.
+
+694
+00:39:53,296 --> 00:39:55,964
+Está un poco rancio, pero sirve.
+
+695
+00:39:55,989 --> 00:39:59,676
+¿Has estado aquí por varios días
+y acabas de descubrirlo?
+
+696
+00:39:59,701 --> 00:40:01,821
+Seguí a unos hombres
+que me dijeron
+
+697
+00:40:01,846 --> 00:40:03,614
+que veníamos a ver una pelea.
+
+698
+00:40:03,639 --> 00:40:04,676
+¡¿Una pelea?!
+
+699
+00:40:04,701 --> 00:40:06,663
+Todo el mundo estaba tan apurado.
+
+700
+00:40:08,894 --> 00:40:10,437
+¿Alguien tiene comida?
+
+701
+00:40:11,772 --> 00:40:13,816
+¿No? ¿Comida?
+
+702
+00:40:14,399 --> 00:40:16,192
+Tu nombre es Andrés, ¿verdad?
+
+703
+00:40:16,276 --> 00:40:17,444
+Sí.
+
+704
+00:40:17,527 --> 00:40:20,114
+Quería agradecerte nuevamente
+por todo lo que...
+
+705
+00:40:20,139 --> 00:40:21,551
+Yo no soy quien curó a tu padre,
+
+706
+00:40:21,576 --> 00:40:24,844
+pero sí puedo hacerle llegar
+tu agradecimiento.
+
+707
+00:40:24,869 --> 00:40:27,054
+Has estado preguntando por comida.
+
+708
+00:40:27,079 --> 00:40:28,581
+Sí.
+
+709
+00:40:28,606 --> 00:40:30,848
+Quiero compartir lo que tengo.
+
+710
+00:40:34,336 --> 00:40:36,046
+Hijo, esto...
+
+711
+00:40:36,129 --> 00:40:39,049
+puede alimentar a una familia
+entre miles.
+
+712
+00:40:39,132 --> 00:40:40,217
+Yo solo...
+
+713
+00:40:40,301 --> 00:40:42,552
+quería hacer lo que estuviera
+a mi alcance.
+
+714
+00:40:42,636 --> 00:40:44,054
+El reino de los cielos...
+
+715
+00:40:44,137 --> 00:40:46,056
+- ¿Estás bien?
+- Estoy bien.
+
+716
+00:40:46,139 --> 00:40:47,824
+Es como un tesoro
+escondido en un campo,
+
+717
+00:40:47,849 --> 00:40:51,352
+cuando un hombre lo descubrió,
+lo volvió a esconder
+
+718
+00:40:51,479 --> 00:40:56,232
+y lleno de alegría fue y vendió
+todo lo que tenía
+
+719
+00:40:56,316 --> 00:40:58,861
+y compró ese campo.
+
+720
+00:40:58,944 --> 00:41:01,112
+¿Qué quieres decir con eso?
+
+721
+00:41:01,196 --> 00:41:03,007
+- ¿Qué haremos?
+- No sé.
+
+722
+00:41:03,032 --> 00:41:05,202
+Déjenme decirlo de otra manera.
+
+723
+00:41:05,284 --> 00:41:09,259
+Es como un comerciante que
+andaba buscando perlas finas...
+
+724
+00:41:09,579 --> 00:41:12,541
+cuando encontró una de gran valor,
+
+725
+00:41:12,624 --> 00:41:17,879
+fue y vendió todo lo que tenía
+y la compró.
+
+726
+00:41:17,962 --> 00:41:19,841
+Escuchen con atención,
+
+727
+00:41:19,924 --> 00:41:21,926
+porque esto les sirve
+a todos ustedes,
+
+728
+00:41:22,009 --> 00:41:25,679
+sin distinción de raza o credo.
+
+729
+00:41:25,762 --> 00:41:29,016
+El reino es tan valioso,
+
+730
+00:41:29,099 --> 00:41:31,267
+que una vez que lo han
+vislumbrado,
+
+731
+00:41:31,351 --> 00:41:33,646
+vale la pena separarse
+de todo lo que uno tiene
+
+732
+00:41:33,729 --> 00:41:35,606
+para llegar a él,
+
+733
+00:41:35,689 --> 00:41:38,542
+aunque para otros
+puedas parecer un tonto...
+
+734
+00:41:38,567 --> 00:41:40,294
+tirando los ahorros de tu vida
+
+735
+00:41:40,319 --> 00:41:42,487
+para comprar lo que
+para otros puede ser
+
+736
+00:41:42,571 --> 00:41:45,157
+un campo anodino.
+
+737
+00:41:45,241 --> 00:41:48,994
+Pero tú sabes
+de ese tesoro escondido...
+
+738
+00:41:49,019 --> 00:41:51,193
+y eso hace que todo lo valga.
+
+739
+00:41:54,582 --> 00:41:56,877
+¿Te has acercado para oír mejor?
+
+740
+00:41:56,961 --> 00:41:59,393
+No, hay un problema.
+
+741
+00:42:04,426 --> 00:42:06,804
+Amigos míos, si me disculpan,
+
+742
+00:42:06,829 --> 00:42:09,927
+debo hablar con mis estudiantes
+un momento.
+
+743
+00:42:13,602 --> 00:42:16,606
+Rabino, la gente
+se ha quedado sin comida.
+
+744
+00:42:16,631 --> 00:42:18,468
+Algunos llevan días sin comer.
+
+745
+00:42:18,493 --> 00:42:20,730
+Otros han recorrido
+grandes distancias.
+
+746
+00:42:21,736 --> 00:42:24,321
+Entonces... denles algo de comer.
+
+747
+00:42:24,404 --> 00:42:27,699
+Nos hemos quedado sin comida,
+ellos no tienen comida.
+
+748
+00:42:27,782 --> 00:42:29,352
+¿Es hora de enviarlos a casa?
+
+749
+00:42:29,377 --> 00:42:31,612
+En este momento, están
+tan hambrientos y cansados,
+
+750
+00:42:31,637 --> 00:42:34,764
+que si los enviamos a sus casas
+se desmayarán en el camino.
+
+751
+00:42:34,789 --> 00:42:36,066
+¿Sabías que tenían hambre?
+
+752
+00:42:36,091 --> 00:42:39,499
+Sí, Judas, puedo verlos
+mientras hablo.
+
+753
+00:42:42,631 --> 00:42:46,259
+Bueno, esta es difícil.
+
+754
+00:42:46,384 --> 00:42:49,096
+¿Dónde podemos comprar pan
+para toda esta gente?
+
+755
+00:42:49,179 --> 00:42:52,724
+Solo vinimos con un poco más
+de 200 denarios.
+
+756
+00:42:52,807 --> 00:42:55,619
+Rabino, eso no es suficiente
+para conseguir algo para todos.
+
+757
+00:42:55,644 --> 00:42:57,496
+Ni siquiera sabría
+cómo calcularlo.
+
+758
+00:42:57,521 --> 00:43:01,066
+Mateo y yo podemos calcularlo,
+eso es realmente fácil...
+
+759
+00:43:02,609 --> 00:43:04,236
+Quizá si vamos a las ciudades,
+
+760
+00:43:04,319 --> 00:43:06,487
+podemos negociar algo a crédito.
+
+761
+00:43:06,572 --> 00:43:08,407
+Sí, sí, eso podría funcionar.
+
+762
+00:43:08,491 --> 00:43:09,951
+¿Negociar con quién?
+
+763
+00:43:10,034 --> 00:43:14,746
+La ciudad más cercana es Abila
+y toda su población está aquí.
+
+764
+00:43:14,829 --> 00:43:18,376
+Está a nueve millas e incluso si
+fuéramos a todas las casas de la ciudad,
+
+765
+00:43:18,401 --> 00:43:20,667
+tendríamos que encontrar
+una manera de traerlo aquí
+
+766
+00:43:20,692 --> 00:43:24,022
+y aun así solo alimentaríamos
+a una fracción de las masas.
+
+767
+00:43:24,047 --> 00:43:25,591
+¿Puedes traerme algo?
+
+768
+00:43:26,759 --> 00:43:28,944
+Seguro que hay
+algo de comida de alguien,
+
+769
+00:43:28,969 --> 00:43:31,132
+aunque sea una pequeña cantidad.
+
+770
+00:43:32,847 --> 00:43:37,061
+Cinco panes y dos peces.
+
+771
+00:43:39,939 --> 00:43:42,541
+Pero... ¿qué es esto para tantos?
+
+772
+00:43:42,566 --> 00:43:44,261
+Panes de cebada.
+
+773
+00:43:46,612 --> 00:43:50,949
+Dos peces y cinco panes de cebada,
+gracias por aclarar.
+
+774
+00:43:51,032 --> 00:43:53,536
+- Esto es humillante.
+- Juan...
+
+775
+00:43:55,912 --> 00:43:58,824
+Él se encargará de esto
+si Él quiere.
+
+776
+00:43:59,807 --> 00:44:01,769
+Pareces asustado.
+
+777
+00:44:01,794 --> 00:44:03,449
+¿De qué tienes miedo?
+
+778
+00:44:06,381 --> 00:44:11,322
+Temo que... los escoja a ellos.
+
+779
+00:44:16,017 --> 00:44:18,117
+Este es un pan
+maravilloso, Telémaco.
+
+780
+00:44:18,142 --> 00:44:19,436
+Sé que no es suficiente.
+
+781
+00:44:19,519 --> 00:44:21,479
+Es suficiente para mí.
+
+782
+00:44:21,562 --> 00:44:23,732
+Puedo hacer mucho con esto.
+
+783
+00:44:23,816 --> 00:44:25,276
+Gracias.
+
+784
+00:44:29,989 --> 00:44:33,717
+Bendito seas Tú, Señor Dios nuestro,
+Rey del universo
+
+785
+00:44:33,742 --> 00:44:36,276
+que produces el pan de la tierra.
+
+786
+00:44:37,037 --> 00:44:39,717
+¿Encontraron algo de pan?
+
+787
+00:44:50,634 --> 00:44:54,581
+Si tienen pan, prepárate...
+probablemente seamos los primeros.
+
+788
+00:44:55,264 --> 00:44:56,870
+Denles de comer.
+
+789
+00:44:59,267 --> 00:45:00,769
+¿Qué ha cambiado?
+
+790
+00:45:00,794 --> 00:45:01,846
+¿Estamos...?
+
+791
+00:45:01,871 --> 00:45:05,416
+Organicen a la gente
+en grupos de 50 y 100,
+
+792
+00:45:05,441 --> 00:45:09,319
+junten 12 cestas para distribuir
+los panes y los peces.
+
+793
+00:45:12,114 --> 00:45:14,014
+¿No he sido claro?
+
+794
+00:45:15,784 --> 00:45:18,991
+No, esto me resulta familiar.
+
+795
+00:45:19,912 --> 00:45:21,342
+Tal vez.
+
+796
+00:45:23,082 --> 00:45:24,584
+Vámonos.
+
+797
+00:45:36,387 --> 00:45:37,989
+Denles de comer.
+
+798
+00:45:38,014 --> 00:45:39,336
+Sí.
+
+799
+00:45:43,186 --> 00:45:46,982
+El reino de los cielos
+es como un grano de mostaza
+
+800
+00:45:47,066 --> 00:45:50,861
+que un hombre sembró
+en su campo.
+
+801
+00:45:50,944 --> 00:45:54,114
+Aunque es la más pequeña
+de todas las semillas,
+
+802
+00:45:54,197 --> 00:45:55,991
+cuando crece...
+
+803
+00:45:56,074 --> 00:45:59,161
+es la más grande de las hortalizas
+
+804
+00:45:59,244 --> 00:46:01,012
+y se convierte en árbol,
+
+805
+00:46:01,037 --> 00:46:05,751
+de modo que vienen las aves
+y anidan en sus ramas.
+
+806
+00:46:27,397 --> 00:46:28,524
+Eso es mejor que la cola.
+
+807
+00:46:28,607 --> 00:46:29,857
+Eso es lo último.
+
+808
+00:46:29,941 --> 00:46:31,567
+Sí, eso es lo último.
+
+809
+00:46:34,321 --> 00:46:37,265
+Telemachus, ya puedes
+llevarte tu cesta...
+
+810
+00:46:57,761 --> 00:46:58,888
+¿Qué?
+
+811
+00:47:14,152 --> 00:47:15,404
+¿Está llena tu cesta?
+
+812
+00:47:15,487 --> 00:47:17,281
+¿De verdad?
+
+813
+00:47:17,364 --> 00:47:19,450
+¿Estás viendo todo esto?
+
+814
+00:47:44,599 --> 00:47:49,146
+Los mantuve aquí todo este tiempo,
+dándoles alimento espiritual.
+
+815
+00:47:49,229 --> 00:47:52,524
+Pero está claro que ahora
+necesitan alimentos reales...
+
+816
+00:47:52,607 --> 00:47:53,817
+¡así que a comer!
+
+817
+00:49:15,274 --> 00:49:17,192
+Rabino Yussif.
+
+818
+00:49:17,276 --> 00:49:18,694
+Hay dos mujeres
+que quieren verlo.
+
+819
+00:49:18,777 --> 00:49:21,071
+Es el horario de visita
+del Rabino Joziah.
+
+820
+00:49:21,154 --> 00:49:22,281
+¿Él no puedo ayudar?
+
+821
+00:49:22,364 --> 00:49:23,991
+Estoy en medio de algo
+muy importante.
+
+822
+00:49:24,016 --> 00:49:27,902
+Una dice que le diga que es la
+esposa de Simón, el hijo de Jonás.
+
+823
+00:49:28,417 --> 00:49:30,306
+Uno de los discípulos
+de Jesús...
+
+824
+00:49:30,331 --> 00:49:33,074
+Sí, por favor, dígales que pasen.
+
+825
+00:49:38,881 --> 00:49:45,554
+Tienes mi... más sentido pésame.
+
+826
+00:49:45,679 --> 00:49:48,724
+Me temo que la Torá
+no tiene mucho que decir
+
+827
+00:49:48,807 --> 00:49:52,160
+sobre este tema en particular.
+
+828
+00:49:52,185 --> 00:49:55,618
+Pero la pena es pena.
+
+829
+00:49:55,643 --> 00:49:57,398
+Especialmente cuando tu marido...
+
+830
+00:49:57,423 --> 00:49:58,665
+Se fue.
+
+831
+00:49:59,567 --> 00:50:03,362
+Puede ser, yo iba
+a decir que está distraído.
+
+832
+00:50:03,446 --> 00:50:05,782
+Suceden muchas cosas
+alrededor de Jesús...
+
+833
+00:50:05,866 --> 00:50:09,869
+y de muchas maneras,
+el mundo está cambiando...
+
+834
+00:50:09,952 --> 00:50:12,497
+y Simón está en el medio.
+
+835
+00:50:13,581 --> 00:50:16,851
+Estoy intentando encontrarle
+sentido por mí mismo...
+
+836
+00:50:16,876 --> 00:50:19,909
+tal vez he estado
+demasiado distraído.
+
+837
+00:50:21,547 --> 00:50:22,757
+Es fácil olvidar
+
+838
+00:50:22,799 --> 00:50:24,717
+que aún hay asuntos
+de gran importancia
+
+839
+00:50:24,801 --> 00:50:27,052
+para atender en el hogar.
+
+840
+00:50:30,437 --> 00:50:32,442
+¿Estás enfadada con él?
+
+841
+00:50:38,356 --> 00:50:39,826
+Sí.
+
+842
+00:50:42,069 --> 00:50:43,709
+Entiendo.
+
+843
+00:50:45,906 --> 00:50:49,867
+Mencionaste que hiciste
+tu purificación en el mar.
+
+844
+00:50:50,494 --> 00:50:52,871
+Ahora que ha pasado algo
+de tiempo,
+
+845
+00:50:52,954 --> 00:50:55,164
+¿qué te parece realizar
+una nueva limpieza,
+
+846
+00:50:55,247 --> 00:50:56,999
+pero esta vez en la mikve?
+
+847
+00:50:57,042 --> 00:50:59,727
+Con un estado de ánimo piadoso,
+
+848
+00:50:59,752 --> 00:51:02,881
+tal vez esto pueda ser parte
+de un nuevo camino a seguir.
+
+849
+00:51:02,964 --> 00:51:04,382
+Pero la cisterna...
+
+850
+00:51:04,466 --> 00:51:05,967
+Hemos recibido noticias
+esta mañana
+
+851
+00:51:06,092 --> 00:51:08,486
+de que estará funcionando
+al atardecer.
+
+852
+00:51:08,511 --> 00:51:13,008
+De hecho, creo que Simón
+ayudó a repararla rápidamente.
+
+853
+00:51:13,033 --> 00:51:15,076
+Quizá cuando ella esté lista.
+
+854
+00:51:15,101 --> 00:51:18,312
+Esperábamos poder escuchar
+una lectura de la Torá hoy.
+
+855
+00:51:18,396 --> 00:51:19,981
+Por supuesto.
+
+856
+00:51:20,064 --> 00:51:22,526
+¿Tienes algo en mente?
+
+857
+00:51:23,317 --> 00:51:26,446
+¿Quizás algo
+emocionante y alegre, rabino?
+
+858
+00:51:28,866 --> 00:51:32,072
+No estoy seguro de que
+eso sea veraz.
+
+859
+00:51:39,626 --> 00:51:43,712
+Hay muchos salmos sobre la angustia,
+incluso sobre el enojo...
+
+860
+00:51:43,797 --> 00:51:48,301
+y todos son tan
+importantes como los demás.
+
+861
+00:51:48,384 --> 00:51:51,658
+De hecho, algunos de los
+salmos más desesperados
+
+862
+00:51:51,683 --> 00:51:54,437
+nos acercan más a Dios.
+
+863
+00:51:56,809 --> 00:52:01,814
+Uno de los principales músicos
+de David, Asaf,
+
+864
+00:52:01,839 --> 00:52:05,259
+solía escribir sobre este
+tipo de cuestiones...
+
+865
+00:52:06,486 --> 00:52:09,614
+como en este pasaje:
+
+866
+00:52:09,739 --> 00:52:14,049
+"Cuando estoy angustiado,
+recurro al Señor...
+
+867
+00:52:14,411 --> 00:52:18,456
+sin cesar elevo mis manos
+por las noches".
+
+868
+00:52:20,459 --> 00:52:24,659
+Este salmo tiene desesperación...
+incluso enojo.
+
+869
+00:52:25,672 --> 00:52:27,341
+¿Sabes quién más
+
+870
+00:52:27,424 --> 00:52:30,406
+seguramente tiene enojo
+y desesperación?
+
+871
+00:52:32,512 --> 00:52:33,883
+Simón.
+
+872
+00:52:35,974 --> 00:52:38,059
+Lo conozco un poco...
+
+873
+00:52:38,142 --> 00:52:41,396
+y estoy seguro de que está
+muy enfadado...
+
+874
+00:52:41,479 --> 00:52:45,481
+y se lo hace saber a los demás.
+
+875
+00:52:49,321 --> 00:52:55,264
+Quizá puedas orar sobre esto
+con él... y por él.
+
+876
+00:53:02,834 --> 00:53:08,441
+"Pero me niego a recibir consuelo.
+
+877
+00:53:10,424 --> 00:53:15,471
+Me acuerdo de Dios y me lamento...
+
+878
+00:53:15,556 --> 00:53:21,144
+medito en Él y desfallezco.
+
+879
+00:53:21,227 --> 00:53:24,439
+No me dejas conciliar el sueño...
+
+880
+00:53:27,442 --> 00:53:32,406
+<i>tan preocupado estoy
+que ni hablar puedo.</i>
+
+881
+00:53:32,431 --> 00:53:34,866
+<i>¿Nos rechazará el Señor
+para siempre?</i>
+
+882
+00:53:34,891 --> 00:53:37,841
+<i>¿No volverá a mostrarnos
+su buena voluntad?</i>
+
+883
+00:53:41,039 --> 00:53:45,586
+<i>¿Se habrá agotado
+su gran amor eterno...</i>
+
+884
+00:53:45,611 --> 00:53:50,491
+<i>y sus promesas
+por todas las generaciones?</i>
+
+885
+00:53:50,516 --> 00:53:53,192
+<i>¿Se habrá olvidado Dios
+de sus bondades...</i>
+
+886
+00:53:53,217 --> 00:53:58,056
+<i>y en su enojo ya no quiere
+tenernos compasión?"</i>
+
+887
+00:54:01,267 --> 00:54:04,913
+Pero eso no es todo el Salmo, ¿verdad?
+
+888
+00:54:09,442 --> 00:54:14,489
+"Y me pongo a pensar:
+Esto es lo que me duele,
+
+889
+00:54:14,614 --> 00:54:19,494
+que haya cambiado
+la diestra del Altísimo.
+
+890
+00:54:19,577 --> 00:54:22,539
+Prefiero recordar
+las hazañas del Señor,
+
+891
+00:54:22,564 --> 00:54:28,111
+traer a la memoria
+sus milagros de antaño.
+
+892
+00:54:28,252 --> 00:54:30,462
+Meditaré sobre todas
+sus proezas...
+
+893
+00:54:30,546 --> 00:54:34,134
+evocaré sus obras poderosas.
+
+894
+00:54:34,159 --> 00:54:40,248
+Santos, Dios, son tus caminos...
+
+895
+00:54:41,307 --> 00:54:45,561
+<i>¿qué dios hay tan excelso
+como nuestro Dios?</i>
+
+896
+00:54:45,586 --> 00:54:49,631
+<i>Tú eres el Dios
+que realiza maravillas...</i>
+
+897
+00:54:49,774 --> 00:54:53,569
+<i>el que despliega su poder
+entre los pueblos.</i>
+
+898
+00:54:53,652 --> 00:54:57,741
+<i>Con tu brazo poderoso
+redimiste a tu pueblo,</i>
+
+899
+00:54:57,824 --> 00:55:01,952
+<i>a los descendientes
+de Jacob y de José".</i>
+
+900
+00:55:02,036 --> 00:55:05,074
+Santiago el menor, ¿qué pasó?
+¡Tu cesta parece más pesada que antes!
+
+901
+00:55:05,099 --> 00:55:07,267
+Todo el mundo comió
+y quedó satisfecho.
+
+902
+00:55:07,292 --> 00:55:09,060
+No querían más, estaban llenos.
+
+903
+00:55:09,085 --> 00:55:10,606
+Nos diste más
+de lo que necesitábamos.
+
+904
+00:55:10,631 --> 00:55:13,435
+Te acostumbrarás a este tipo
+de matemáticas, Judas.
+
+905
+00:55:13,460 --> 00:55:15,763
+- Cuenten conmigo.
+- Gracias, rabino.
+
+906
+00:55:16,759 --> 00:55:18,469
+No puedo creer
+que hayamos dudado.
+
+907
+00:55:18,552 --> 00:55:20,471
+Yo fui el que causó su hambre...
+
+908
+00:55:20,554 --> 00:55:22,766
+Debería ser el que
+se los satisfaga, ¿no?
+
+909
+00:55:22,849 --> 00:55:24,960
+Ya no estoy sorprendido.
+
+910
+00:55:26,061 --> 00:55:27,396
+Eres un nuevo Mateo.
+
+911
+00:55:27,479 --> 00:55:29,064
+¡Lo siento!
+
+912
+00:55:29,147 --> 00:55:31,624
+Pero lo decía en serio.
+
+913
+00:55:31,649 --> 00:55:34,807
+Es siempre así,
+no sé por qué estoy sorprendido.
+
+914
+00:55:35,611 --> 00:55:39,940
+Es justo como Simón
+dijo que sería.
+
+915
+00:55:56,799 --> 00:55:58,384
+Juan.
+
+916
+00:56:23,867 --> 00:56:25,202
+No estaba exagerando.
+
+917
+00:56:25,286 --> 00:56:28,039
+Esto es más de lo que pensaba.
+
+918
+00:56:28,122 --> 00:56:30,751
+¡Esa es una túnica nabatea!
+
+919
+00:56:30,834 --> 00:56:33,544
+Ese es un tocado árabe.
+
+920
+00:56:33,627 --> 00:56:36,064
+Estamos en un mar de gentiles.
+
+921
+00:56:36,089 --> 00:56:37,775
+¡Conductor, deténgase!
+
+922
+00:56:43,885 --> 00:56:46,157
+¿Qué es esto?
+¿Qué ha pasado?
+
+923
+00:56:46,182 --> 00:56:48,059
+¡El Maestro de Nazaret!
+
+924
+00:56:48,142 --> 00:56:50,644
+¿Cuánto tiempo llevas aquí
+escuchando al Maestro?
+
+925
+00:56:50,729 --> 00:56:51,780
+¡Dos días!
+
+926
+00:56:51,805 --> 00:56:54,099
+Pero estamos a varios
+kilómetros de cualquier ciudad.
+
+927
+00:56:54,124 --> 00:56:55,249
+¿Cómo se han alimentado?
+
+928
+00:56:55,274 --> 00:56:57,527
+Él multiplicó los panes y los peces
+para alimentarnos.
+
+929
+00:56:57,611 --> 00:56:58,861
+Miles de nosotros.
+
+930
+00:56:58,944 --> 00:57:00,739
+¿Qué quieres decir
+con "multiplicó"?
+
+931
+00:57:00,822 --> 00:57:03,741
+¡Solo aparecían más y más,
+de sus manos!
+
+932
+00:57:03,824 --> 00:57:05,076
+¡Un milagro!
+
+933
+00:57:05,159 --> 00:57:08,026
+Necesitamos la evidencia
+de tres testigos.
+
+934
+00:57:08,721 --> 00:57:09,989
+Eso no será difícil.
+
+935
+00:57:10,014 --> 00:57:12,517
+¿Él y sus seguidores
+también participaron?
+
+936
+00:57:12,542 --> 00:57:13,601
+Por supuesto.
+
+937
+00:57:13,626 --> 00:57:16,518
+¿Él comparte el pan
+con los gentiles?
+
+938
+00:57:18,797 --> 00:57:21,967
+Les digo que Dios ha hecho
+un milagro y ellos dicen:
+
+939
+00:57:21,992 --> 00:57:24,337
+"¡Él comió con la
+la gente equivocada!"
+
+940
+00:57:24,362 --> 00:57:28,182
+Ya sabíamos que una mujer etíope
+viaja con Él y sus estudiantes.
+
+941
+00:57:28,224 --> 00:57:31,462
+Pero, ¿compartir el pan?
+¡Eso es peor de lo que pensaba!
+
+942
+00:57:31,487 --> 00:57:34,194
+¡Les repito...
+necesitamos testigos!
+
+943
+00:57:38,817 --> 00:57:40,877
+¿Fariseos de Judea?
+
+944
+00:57:41,635 --> 00:57:43,805
+Llegan un poco tarde,
+se han perdido el espectáculo.
+
+945
+00:57:43,830 --> 00:57:44,940
+Nombra al Maestro.
+
+946
+00:57:44,965 --> 00:57:47,134
+Jesús de Nazaret.
+
+947
+00:57:47,159 --> 00:57:49,371
+Un nombre que nunca olvidaré.
+
+948
+00:57:49,454 --> 00:57:50,579
+¿Qué predicó?
+
+949
+00:57:50,662 --> 00:57:52,999
+¿Algo de lo que dijo
+es contrario a la Torá?
+
+950
+00:57:53,082 --> 00:57:54,626
+Predicó sobre el reino
+de los cielos.
+
+951
+00:57:54,709 --> 00:57:56,252
+¿Qué es eso?
+
+952
+00:57:56,336 --> 00:57:57,336
+Todo.
+
+953
+00:57:57,419 --> 00:58:00,214
+Una semilla de mostaza,
+una perla de gran valor,
+
+954
+00:58:00,239 --> 00:58:01,774
+un tesoro escondido en un campo.
+
+955
+00:58:01,799 --> 00:58:02,967
+Pero lo mejor de todo...
+
+956
+00:58:03,051 --> 00:58:04,886
+Él dijo que en el reino
+de los cielos
+
+957
+00:58:04,969 --> 00:58:06,762
+la gente vendría de Oriente
+y de Occidente
+
+958
+00:58:06,846 --> 00:58:08,832
+junto con Abraham,
+Isaac y Jacob.
+
+959
+00:58:08,857 --> 00:58:10,382
+Eso nos incluye a todos...
+
+960
+00:58:10,407 --> 00:58:13,327
+Judíos y gentiles juntos
+en una mesa.
+
+961
+00:58:13,352 --> 00:58:15,679
+- ¿Qué ha dicho?
+- Necesitamos un tercer testigo.
+
+962
+00:58:15,704 --> 00:58:17,624
+Jesús de Nazaret
+puede ser el primer judío
+
+963
+00:58:17,649 --> 00:58:20,474
+en compartir el pan con los gentiles,
+pero no será el último.
+
+964
+00:58:20,499 --> 00:58:24,087
+Y será junto con sus patriarcas,
+Abraham, Isaac y Jacob.
+
+965
+00:58:24,112 --> 00:58:25,572
+Blasfemias.
+
+966
+00:58:26,824 --> 00:58:29,577
+¡Has herido a nuestro pueblo!
+
+967
+00:58:29,661 --> 00:58:33,041
+Nos hemos hecho daño
+los unos a los otros.
+
+968
+00:58:33,066 --> 00:58:35,150
+¡Pero Él nos está curando!
+
+969
+00:58:44,049 --> 00:58:46,429
+¡Necesitamos tres testigos!
+
+970
+00:58:48,007 --> 00:58:50,230
+¿Qué dijo el Maestro acerca
+
+971
+00:58:50,255 --> 00:58:53,175
+de los gentiles que se sientan
+a la mesa con los patriarcas?
+
+972
+00:58:53,200 --> 00:58:54,838
+¿Qué dijo el Maestro?
+
+973
+00:58:55,080 --> 00:58:56,696
+¿Qué dijo el Maestro
+sobre los gentiles
+
+974
+00:58:56,721 --> 00:58:59,332
+que se sientan en la mesa
+con los patriarcas?
+
+975
+00:58:59,357 --> 00:59:00,774
+¿Qué dijo el Maestro?
+
+976
+00:59:01,109 --> 00:59:03,652
+Bien, me sirve.
+
+977
+00:59:03,677 --> 00:59:05,196
+No es perfecta, pero servirá.
+
+978
+00:59:05,221 --> 00:59:07,056
+No, no, no quiero redes
+ni peces, nada.
+
+979
+00:59:07,081 --> 00:59:08,232
+Solo quiero el barco.
+
+980
+00:59:08,257 --> 00:59:10,953
+Quiero que haya cuatro remos
+adentro cuando vuelva.
+
+981
+00:59:10,978 --> 00:59:13,137
+Escucha, ¿cuánto quieres?
+
+982
+00:59:13,287 --> 00:59:16,603
+Porque tengo prisa,
+es un gran negocio para ti, ¿sí?
+
+983
+00:59:27,134 --> 00:59:29,387
+¿Qué hacemos ahora?
+
+984
+00:59:29,471 --> 00:59:31,936
+Es una caminata de 13 millas
+para volver a Cafarnaúm,
+
+985
+00:59:31,961 --> 00:59:35,936
+hay que bordear el mar bajo
+la lluvia y en la oscuridad.
+
+986
+00:59:36,019 --> 00:59:38,229
+Con todo lo que tuvimos
+que hacer hoy,
+
+987
+00:59:38,312 --> 00:59:40,899
+llevando las cestas
+y distribuyendo la comida...
+
+988
+00:59:40,982 --> 00:59:42,776
+Haré lo que pueda.
+
+989
+00:59:42,859 --> 00:59:44,861
+No te dejaremos atrás, Santiago.
+
+990
+00:59:44,986 --> 00:59:46,446
+No vamos a ir caminando.
+
+991
+00:59:46,862 --> 00:59:47,989
+Iremos remando.
+
+992
+00:59:48,072 --> 00:59:50,282
+Son solo ocho millas,
+tengo un barco
+
+993
+00:59:50,307 --> 00:59:52,727
+y podemos llegar más rápido
+remando que caminando.
+
+994
+00:59:52,752 --> 00:59:56,097
+Vamos, Santiago el mayor,
+sabes que somos buenos en esto.
+
+995
+00:59:56,122 --> 00:59:58,869
+Excelente estrategia, Simón.
+
+996
+00:59:58,894 --> 01:00:00,726
+Simón tiene razón.
+
+997
+01:00:00,751 --> 01:00:03,979
+Todos vayan al barco y remen
+de vuelta hasta Cafarnaúm.
+
+998
+01:00:04,004 --> 01:00:05,297
+¿Y tú?
+
+999
+01:00:07,507 --> 01:00:09,386
+Han sido tres largos días.
+
+1000
+01:00:09,469 --> 01:00:11,012
+Necesito un tiempo a solas
+para orar.
+
+1001
+01:00:11,037 --> 01:00:12,825
+Pero hay nubes de tormenta
+en el horizonte.
+
+1002
+01:00:12,850 --> 01:00:15,866
+Déjame quedarme contigo,
+rabino, yo vigilaré.
+
+1003
+01:00:15,891 --> 01:00:17,226
+Estaré bien.
+
+1004
+01:00:17,251 --> 01:00:19,354
+Vayan todos, deprisa.
+
+1005
+01:00:19,437 --> 01:00:21,516
+Sigan a Simón.
+
+1006
+01:00:22,397 --> 01:00:25,026
+Lo han hecho muy bien hoy.
+
+1007
+01:00:25,317 --> 01:00:26,877
+Shalom shalom.
+
+1008
+01:00:26,902 --> 01:00:28,875
+Shalom shalom.
+
+1009
+01:00:35,670 --> 01:00:38,125
+¿Me retrasé para que
+pudieras conseguirnos un barco?
+
+1010
+01:00:38,150 --> 01:00:40,404
+No me interpondré en tu camino
+por mucho tiempo, Juan.
+
+1011
+01:00:40,429 --> 01:00:42,695
+- Ten fe, Simón.
+- La fe no es mi problema.
+
+1012
+01:00:42,720 --> 01:00:44,640
+¡Creo que yo fui un error!
+
+1013
+01:00:46,214 --> 01:00:48,015
+Hasta Dios los comete, ¿verdad?
+
+1014
+01:00:51,594 --> 01:00:52,721
+Ve.
+
+1015
+01:00:58,559 --> 01:01:01,215
+Ya lo han oído.
+Vamos.
+
+1016
+01:01:51,612 --> 01:01:53,704
+Me resultas familiar.
+
+1017
+01:01:55,907 --> 01:01:57,159
+Yo...
+
+1018
+01:01:57,242 --> 01:01:59,161
+Más concretamente,
+
+1019
+01:01:59,244 --> 01:02:01,706
+y sin ánimos de ofender,
+
+1020
+01:02:01,789 --> 01:02:03,851
+pareces preocupado.
+
+1021
+01:02:05,334 --> 01:02:06,789
+Lo estoy.
+
+1022
+01:02:08,462 --> 01:02:11,757
+Voy a subir a esta colina a orar.
+
+1023
+01:02:11,782 --> 01:02:14,317
+¿Te gustaría acompañarme?
+
+1024
+01:02:14,342 --> 01:02:17,889
+No tenemos que hablar de nada
+si no quieres.
+
+1025
+01:02:17,972 --> 01:02:21,117
+Sé que a veces la gente
+que tiene problemas
+
+1026
+01:02:21,142 --> 01:02:24,856
+solo necesita que alguien
+se siente con ellos en silencio.
+
+1027
+01:02:25,271 --> 01:02:26,522
+Como Job.
+
+1028
+01:02:28,395 --> 01:02:29,917
+¿Es tan malo?
+
+1029
+01:02:29,942 --> 01:02:32,236
+No del todo...
+
+1030
+01:02:32,319 --> 01:02:33,904
+más bien como David.
+
+1031
+01:02:35,631 --> 01:02:37,307
+Dime.
+
+1032
+01:02:38,326 --> 01:02:42,496
+"¿Hasta cuándo
+he de estar angustiado
+
+1033
+01:02:42,914 --> 01:02:47,229
+y he de sufrir cada día
+en mi corazón?
+
+1034
+01:02:48,794 --> 01:02:52,479
+¿Hasta cuándo mi enemigo
+seguirá siendo exaltado sobre mí?"
+
+1035
+01:02:54,257 --> 01:02:56,654
+Estás pasando algo por alto.
+
+1036
+01:03:01,056 --> 01:03:03,209
+Yo sé cómo te sientes.
+
+1037
+01:03:04,894 --> 01:03:07,334
+¿Qué es lo que tú
+estás perdiendo?
+
+1038
+01:03:09,272 --> 01:03:10,779
+Tiempo.
+
+1039
+01:03:12,986 --> 01:03:14,319
+Ven.
+
+1040
+01:03:14,402 --> 01:03:16,906
+Ora conmigo por un rato.
+
+1041
+01:03:17,031 --> 01:03:20,076
+¿Hablarás conmigo después?
+
+1042
+01:03:20,159 --> 01:03:21,994
+Lo haré...
+
+1043
+01:03:22,077 --> 01:03:24,871
+si todavía quieres interrogarme
+después de orar.
+
+1044
+01:04:14,839 --> 01:04:17,674
+¡Hermanos, no estamos yendo
+a ningún lado!
+
+1045
+01:04:17,799 --> 01:04:19,761
+Los vientos
+son demasiado fuertes.
+
+1046
+01:04:19,844 --> 01:04:21,262
+¡Debemos dar la vuelta!
+
+1047
+01:04:21,346 --> 01:04:23,097
+¡Podemos llegar, sigan remando!
+
+1048
+01:04:23,122 --> 01:04:24,949
+¡Simón, es la cuarta guardia
+de la noche
+
+1049
+01:04:24,974 --> 01:04:28,403
+y hemos estado atascados
+en el mismo lugar por horas!
+
+1050
+01:04:28,602 --> 01:04:30,112
+Estoy bien.
+
+1051
+01:04:36,067 --> 01:04:38,112
+¡No podemos aguantar
+mucha más agua!
+
+1052
+01:04:38,237 --> 01:04:39,864
+¡Nos vamos a hundir!
+
+1053
+01:04:39,889 --> 01:04:45,221
+¡Mejor mojados y con frío en tierra
+que ahogados y muertos aquí fuera!
+
+1054
+01:05:10,602 --> 01:05:12,894
+¡Juan, sigue remando!
+¿Qué haces?
+
+1055
+01:05:12,919 --> 01:05:15,288
+¿Alguien acaba de ver eso?
+
+1056
+01:05:17,776 --> 01:05:19,171
+¡Allí!
+
+1057
+01:05:21,489 --> 01:05:23,074
+No veo nada.
+
+1058
+01:05:23,157 --> 01:05:24,701
+¿Qué estamos buscando?
+
+1059
+01:05:24,784 --> 01:05:26,330
+Yo...
+
+1060
+01:05:31,122 --> 01:05:33,844
+- ¡Es un fantasma!
+- ¿Un qué?
+
+1061
+01:05:35,461 --> 01:05:37,547
+No puede ser.
+
+1062
+01:05:51,394 --> 01:05:53,079
+¡Tenemos que salir de aquí!
+
+1063
+01:05:53,104 --> 01:05:54,638
+¡Todos remen!
+
+1064
+01:05:58,359 --> 01:06:00,986
+¡Remen más rápido! ¡Vamos!
+
+1065
+01:06:01,069 --> 01:06:02,737
+¡Que nadie se mueva!
+
+1066
+01:06:02,762 --> 01:06:05,532
+- Simón, ¿qué?
+- ¡Dije que todo el mundo pare!
+
+1067
+01:06:05,557 --> 01:06:06,734
+¡Paren, paren!
+
+1068
+01:06:06,759 --> 01:06:08,344
+¡Que nadie se mueva!
+
+1069
+01:06:08,369 --> 01:06:09,787
+No es un fantasma.
+
+1070
+01:06:09,812 --> 01:06:11,204
+¿Estás loco?
+
+1071
+01:06:24,969 --> 01:06:28,306
+¡No tengan miedo, soy yo!
+
+1072
+01:06:29,222 --> 01:06:31,116
+¿Jesús? ¿Cómo?
+
+1073
+01:06:31,141 --> 01:06:32,802
+Imposible.
+
+1074
+01:06:35,488 --> 01:06:38,379
+¿Cómo puede ser que esto
+sea la segunda cosa
+
+1075
+01:06:38,404 --> 01:06:40,855
+más increíble que he visto hoy?
+
+1076
+01:06:43,529 --> 01:06:45,197
+¿Los sorprende?
+
+1077
+01:06:46,197 --> 01:06:48,576
+¿No han aprendido nada hoy?
+
+1078
+01:06:48,659 --> 01:06:50,327
+Si eres tú,
+
+1079
+01:06:50,411 --> 01:06:52,662
+ordéname que vaya
+a buscarte en el agua.
+
+1080
+01:06:52,687 --> 01:06:53,855
+¡Simón, no!
+
+1081
+01:06:53,880 --> 01:06:55,174
+¿Estás loco?
+
+1082
+01:06:55,374 --> 01:07:00,212
+Si eres quien dices ser,
+pídeme que salga de este barco.
+
+1083
+01:07:01,422 --> 01:07:03,882
+¿Tienes la fe para caminar
+sobre estas aguas?
+
+1084
+01:07:03,966 --> 01:07:05,717
+¡Por supuesto!
+
+1085
+01:07:05,742 --> 01:07:07,503
+Puedes hacer cualquier cosa
+que ordenes
+
+1086
+01:07:07,528 --> 01:07:09,446
+y si tú le ordenas al agua
+que me sostenga,
+
+1087
+01:07:09,471 --> 01:07:11,276
+¡caminaré sobre ella!
+
+1088
+01:07:11,682 --> 01:07:15,186
+Si te pido que vengas a mí,
+¿darías un paso de fe?
+
+1089
+01:07:15,269 --> 01:07:16,311
+¡Sí!
+
+1090
+01:07:16,354 --> 01:07:17,979
+Entonces, ¿por qué estás
+tan molesto?
+
+1091
+01:07:18,022 --> 01:07:20,499
+¿Por qué estás yendo a los gentiles
+
+1092
+01:07:20,524 --> 01:07:23,548
+cuando tu propia gente
+tiene problemas?
+
+1093
+01:07:23,573 --> 01:07:26,158
+¿Cuando tú mismo
+tienes problemas?
+
+1094
+01:07:27,072 --> 01:07:31,076
+He estado aquí, delante de ti,
+creyendo en ti...
+
+1095
+01:07:31,159 --> 01:07:34,325
+¿y tú estás separando peleas
+en la Decápolis?
+
+1096
+01:07:37,778 --> 01:07:40,144
+Entonces ven a mí.
+
+1097
+01:07:40,169 --> 01:07:43,797
+Tú, cansado y cargado...
+
+1098
+01:07:43,881 --> 01:07:46,192
+Yo te daré descanso.
+
+1099
+01:07:59,271 --> 01:08:00,647
+¡Simón! ¡No!
+
+1100
+01:08:31,471 --> 01:08:33,181
+¿Todavía tienes fe?
+
+1101
+01:08:34,306 --> 01:08:37,309
+¡La fe no ha sido mi problema!
+
+1102
+01:08:37,392 --> 01:08:40,021
+Lo dejé todo para seguirte,
+
+1103
+01:08:40,104 --> 01:08:43,107
+pero estás curando a
+completos desconocidos.
+
+1104
+01:08:43,316 --> 01:08:47,236
+Bendito eres Tú,
+Señor Dios nuestro,
+
+1105
+01:08:47,319 --> 01:08:49,781
+Rey del Universo,
+
+1106
+01:08:49,864 --> 01:08:51,991
+quien da y quita.
+
+1107
+01:08:58,664 --> 01:09:00,999
+¿Por qué crees que permito
+estas pruebas?
+
+1108
+01:09:01,082 --> 01:09:02,542
+No sé.
+
+1109
+01:09:02,626 --> 01:09:05,754
+¡Porque ellas demuestran
+la autenticidad de tu fe!
+
+1110
+01:09:05,837 --> 01:09:07,297
+¡Te fortalecen!
+
+1111
+01:09:07,381 --> 01:09:10,134
+¡Esto te está fortaleciendo!
+
+1112
+01:09:10,217 --> 01:09:12,561
+¡Y a Eden también!
+
+1113
+01:09:12,586 --> 01:09:15,381
+¡Solo mantén tus ojos en mí!
+
+1114
+01:09:16,724 --> 01:09:20,227
+Quién nos consuela
+en nuestro dolor
+
+1115
+01:09:20,311 --> 01:09:23,689
+y cura las heridas de aquellos
+que tienen el corazón quebrantado.
+
+1116
+01:09:35,576 --> 01:09:39,412
+Quien llora con nosotros
+por la vida que no pudo ser.
+
+1117
+01:09:54,552 --> 01:09:57,664
+¡Me hundo!
+¡Señor, sálvame, me hundo!
+
+1118
+01:09:58,224 --> 01:10:01,445
+A la sombra de tus alas
+nos refugiamos.
+
+1119
+01:10:39,472 --> 01:10:42,184
+No me dejes, Señor.
+
+1120
+01:10:42,267 --> 01:10:45,153
+- Por favor.
+- Ya te tengo.
+
+1121
+01:10:50,942 --> 01:10:52,652
+- Te tengo.
+- No me dejes ir.
+
+1122
+01:10:52,736 --> 01:10:54,212
+- Te tengo.
+- Por favor.
+
+1123
+01:10:54,237 --> 01:10:57,699
+Tú, de poca fe.
+¿Por qué dudas?
+
+1124
+01:11:00,598 --> 01:11:02,438
+No me dejes ir.
+
+1125
+01:11:08,209 --> 01:11:11,704
+Tengo muchos planes para ti, Simón,
+
+1126
+01:11:11,729 --> 01:11:13,965
+que incluyen cosas difíciles.
+
+1127
+01:11:15,259 --> 01:11:17,552
+Solo mantén tus ojos en mí.
+
+1128
+01:11:17,636 --> 01:11:19,272
+Te lo prometo.
+
+1129
+01:11:25,852 --> 01:11:27,931
+Vamos, ayúdenlo.
+
+1130
+01:11:29,147 --> 01:11:30,524
+Por favor.
+
+1131
+01:11:33,402 --> 01:11:35,154
+Por favor.
+
+1132
+01:11:35,237 --> 01:11:37,697
+¡No me sueltes, por favor!
+
+1133
+01:11:37,781 --> 01:11:39,241
+Lo siento.
+
+1134
+01:11:40,995 --> 01:11:43,274
+¡No me sueltes, por favor!
+
+1135
+01:11:44,037 --> 01:11:46,594
+Lo siento, por favor,
+no me dejes ir.
+
+1136
+01:11:46,619 --> 01:11:49,039
+¡Paz! ¡Cálmate!
+
+1137
+01:12:09,854 --> 01:12:11,564
+Por favor...
+
+1138
+01:12:13,901 --> 01:12:16,077
+no me dejes ir.
+
+1139
+01:12:17,404 --> 01:12:22,024
+Estoy aquí...
+siempre voy a estar aquí.
+
+1140
+01:12:24,327 --> 01:12:27,664
+Dejo que la gente pase hambre...
+
+1141
+01:12:27,747 --> 01:12:29,541
+pero les doy de comer.
+
+1142
+01:12:33,337 --> 01:12:35,589
+Por favor.
+
+1143
+01:12:35,614 --> 01:12:37,755
+Por favor, no me dejes ir.
+
+1144
+01:12:39,926 --> 01:12:41,344
+No me dejes ir.
+
+1145
+01:12:42,721 --> 01:12:44,264
+No lo dejes ir.
+
+1146
+01:12:46,099 --> 01:12:49,269
+Por favor... no lo dejes ir.
+
+1147
+01:13:08,329 --> 01:13:10,582
+<i>Esto es lo que me duele,</i>
+
+1148
+01:13:10,666 --> 01:13:15,085
+<i>que haya cambiado
+la diestra del Altísimo.</i>
+
+1149
+01:13:19,924 --> 01:13:23,011
+<i>Prefiero recordar
+las hazañas del Señor,</i>
+
+1150
+01:13:23,094 --> 01:13:27,682
+<i>traer a la memoria
+sus milagros de antaño.</i>
+
+1151
+01:13:27,766 --> 01:13:30,769
+<i>Meditaré sobre todas
+sus proezas...</i>
+
+1152
+01:13:30,852 --> 01:13:34,647
+<i>evocaré sus obras poderosas.</i>
+
+1153
+01:13:34,731 --> 01:13:39,819
+<i>Santos, Dios, son tus caminos...</i>
+
+1154
+01:14:04,427 --> 01:14:08,932
+<i>¿qué dios hay tan excelso
+como nuestro Dios?</i>
+
+1155
+01:14:09,016 --> 01:14:12,769
+<i>Tú eres el Dios
+que realiza maravillas...</i>
+
+1156
+01:14:12,852 --> 01:14:17,149
+<i>el que despliega su poder
+entre los pueblos.</i>
+
+1157
+01:14:17,232 --> 01:14:21,152
+<i>Con tu brazo poderoso
+redimiste a tu pueblo,</i>
+
+1158
+01:14:21,236 --> 01:14:24,978
+<i>a los descendientes
+de Jacob y José.</i>
+
+1159
+01:14:55,312 --> 01:14:58,732
+<i>Las aguas te vieron, Dios,</i>
+
+1160
+01:14:58,816 --> 01:15:01,819
+<i>las aguas te vieron
+y se agitaron...</i>
+
+1161
+01:15:01,902 --> 01:15:05,656
+<i>el propio abismo
+se estremeció con violencia.</i>
+
+1162
+01:15:05,739 --> 01:15:07,949
+<i>Derramaron su lluvia las nubes,</i>
+
+1163
+01:15:08,032 --> 01:15:10,952
+<i>retumbaron con estruendo
+los cielos...</i>
+
+1164
+01:15:10,994 --> 01:15:14,456
+<i>rasgaron el espacio tus centellas.</i>
+
+1165
+01:15:14,539 --> 01:15:17,459
+<i>Tu estruendo retumbó
+en el torbellino...</i>
+
+1166
+01:15:17,542 --> 01:15:20,629
+<i>y tus relámpagos
+iluminaron el mundo...</i>
+
+1167
+01:15:20,712 --> 01:15:24,174
+<i>la tierra se estremeció
+con temblores.</i>
+
+1168
+01:15:24,257 --> 01:15:26,927
+<i>Te abriste camino en el mar...</i>
+
+1169
+01:15:27,011 --> 01:15:30,639
+<i>te hiciste paso
+entre las muchas aguas</i>
+
+1170
+01:15:30,722 --> 01:15:35,167
+<i>y no se hallaron tus huellas.</i>
+
+1171
+01:15:56,414 --> 01:15:58,156
+Creo que ya está listo.
+
+1172
+01:15:59,057 --> 01:16:05,354
+Ripeo, Corrección y Edición:
+Fer611
+
+1173
+01:31:08,909 --> 01:31:10,244
+¿A quién tengo que honrar?
+
+1174
+01:31:10,286 --> 01:31:12,704
+- Invitados de honor.
+- Por supuesto.
+
+1175
+01:31:14,624 --> 01:31:16,917
+¡Es la segunda palabra!
+
+1176
+01:31:17,001 --> 01:31:19,497
+Además, mi padre
+aún no es creyente.
+
+1177
+01:31:19,522 --> 01:31:21,731
+Eso es lo que Jesús dijo.
+
+1178
+01:31:21,756 --> 01:31:23,924
+Lo siento.
+
+1179
+01:31:24,007 --> 01:31:26,177
+- ¡Ya sabes que puedes entrar!
+- Lo sé.
+
+1180
+01:31:26,261 --> 01:31:28,429
+¿Eres... qué... do...?
+
+1181
+01:31:30,014 --> 01:31:31,215
+¡Sabes que puedes entrar!
+
+1182
+01:31:31,661 --> 01:31:35,244
+No se trata de...
+
+1183
+01:31:35,269 --> 01:31:37,104
+¡Una vez más!
+
+1184
+01:31:37,187 --> 01:31:38,356
+Quería decírtelo yo mismo.
+
+1185
+01:31:38,439 --> 01:31:39,899
+Vas a pedirle permiso
+a mi padre...
+
+1186
+01:31:39,982 --> 01:31:41,234
+para perfmish...
+
+1187
+01:31:45,946 --> 01:31:47,725
+¿Por qué no entras?
+
+1188
+01:31:48,074 --> 01:31:50,006
+Tú puedes hacerlo,
+sabes que puedes...
+
+1189
+01:31:53,746 --> 01:31:54,914
+Consideraré eso como un no.
+
+1190
+01:31:54,997 --> 01:31:58,376
+Por decreto de Quintus...
+
+1191
+01:31:58,501 --> 01:32:00,377
+él hace algo aquí.
+
+1192
+01:32:00,461 --> 01:32:02,671
+Siempre recuerdo ese momento.
+
+1193
+01:32:04,507 --> 01:32:05,966
+Pero...
+
+1194
+01:32:06,759 --> 01:32:12,589
+a veces se me olvida...
+
+1195
+01:32:12,614 --> 01:32:14,246
+mi línea.
+
+1196
+01:32:14,418 --> 01:32:16,977
+Después de que la alegría
+por tu partida se desvaneció,
+
+1197
+01:32:17,061 --> 01:32:20,149
+Eden empezó a echarte de menos
+de verdad.
+
+1198
+01:32:20,174 --> 01:32:24,637
+Así que ustedes dos,
+salgan de aquí...
+
+1199
+01:32:27,404 --> 01:32:29,472
+No recuerdo la línea.
+
+1200
+01:32:31,542 --> 01:32:33,198
+Tómate un descanso.
+
+1201
+01:32:35,329 --> 01:32:37,372
+Estuve cerca.
+
+1202
+01:32:37,456 --> 01:32:39,082
+Consigan una habitación.
+
+1203
+01:32:40,501 --> 01:32:43,785
+Por favor, respeten su privacidad...
+
+1204
+01:32:46,757 --> 01:32:49,051
+Bendícenos, Señor...
+
+1205
+01:32:49,134 --> 01:32:50,386
+Señor nuestro Dios...
+
+1206
+01:32:50,469 --> 01:32:52,596
+Lo siento, plegaria equivocada.
+
+1207
+01:32:55,182 --> 01:32:59,061
+Sin comida, sin refugio,
+ni ropa.
+
+1208
+01:32:59,144 --> 01:33:00,479
+Adéntrate en tierras extrañas.
+
+1209
+01:33:00,504 --> 01:33:01,772
+Dijo que no tuvieras miedo.
+
+1210
+01:33:01,797 --> 01:33:03,534
+El miedo no es algo
+que se pueda detener.
+
+1211
+01:33:03,559 --> 01:33:04,684
+<i>Pausa un segundo,</i>
+
+1212
+01:33:04,709 --> 01:33:07,437
+<i>sin defensas, sin comida,
+sin refugio.</i>
+
+1213
+01:33:07,462 --> 01:33:08,493
+Sin defensas.
+
+1214
+01:33:08,518 --> 01:33:10,379
+<i>Tú estarás vestido.</i>
+
+1215
+01:33:10,404 --> 01:33:11,549
+De acuerdo.
+
+1216
+01:33:11,574 --> 01:33:12,909
+Sin ropa.
+
+1217
+01:33:12,992 --> 01:33:14,367
+¿Eso fue lo que dijo?
+
+1218
+01:33:14,451 --> 01:33:16,036
+Sin ropa.
+
+1219
+01:33:20,149 --> 01:33:22,001
+Lo siento, chicos... sin palabras.
+
+1220
+01:33:22,084 --> 01:33:23,502
+Vamos de vuelta...
+
+1221
+01:33:25,671 --> 01:33:27,172
+Comienza desde...
+
+1222
+01:33:28,466 --> 01:33:30,384
+Me voy a la cama.
+
+1223
+01:33:30,426 --> 01:33:32,052
+¿Qué?
+
+1224
+01:33:32,136 --> 01:33:33,304
+¿Qué?
+
+1225
+01:33:33,387 --> 01:33:35,284
+Es tu problema, no el mío.
+
+1226
+01:33:35,764 --> 01:33:37,891
+Gracias, María.
+
+1227
+01:33:38,809 --> 01:33:41,227
+Que tengas buenas noches.
+
+1228
+01:33:54,157 --> 01:33:55,867
+Gracias, María.
+
+1229
+01:34:05,502 --> 01:34:06,587
+¡Hadad!
+
+1230
+01:34:06,712 --> 01:34:07,837
+Te había perdido.
+
+1231
+01:34:07,921 --> 01:34:10,174
+Y yo corría como una
+especie de loco.
+
+1232
+01:34:10,257 --> 01:34:11,319
+Un poco, yo...
+
+1233
+01:34:12,176 --> 01:34:16,069
+Supongo que podría hacer
+algunos arreglos.
+
+1234
+01:34:16,687 --> 01:34:19,147
+Algunos... lo siento.
+
+1235
+01:34:19,172 --> 01:34:21,224
+Me entró un insecto
+en la boca, lo siento.
+
+1236
+01:34:21,249 --> 01:34:22,827
+No.
+
+1237
+01:34:22,852 --> 01:34:23,896
+Escúpelo.
+
+1238
+01:34:23,979 --> 01:34:25,322
+No...
+
+1239
+01:34:27,316 --> 01:34:28,942
+- Es una buena proteína...
+- Sí.
+
+1240
+01:34:29,026 --> 01:34:30,027
+Es bueno para ti.
+
+1241
+01:34:30,111 --> 01:34:31,612
+Me voy.
+
+1242
+01:34:31,696 --> 01:34:32,703
+¡Renuncio!
+
+1243
+01:34:32,728 --> 01:34:34,764
+Todos, deténgase,
+mantengan sus posiciones.
+
+1244
+01:34:34,789 --> 01:34:36,696
+Y también envenené tu pan.
+
+1245
+01:34:36,721 --> 01:34:37,775
+¿Qué?
+
+1246
+01:34:37,800 --> 01:34:39,704
+- Sí, fue muy duro.
+- ¿Me has envenenado?
+
+1247
+01:34:39,787 --> 01:34:41,562
+Tuve que remojarlo por...
+
+1248
+01:34:48,629 --> 01:34:49,714
+¿Eso es...?
+
+1249
+01:34:49,739 --> 01:34:50,876
+Una revisión de la acción.
+
+1250
+01:34:50,901 --> 01:34:51,924
+Entendido.
+
+1251
+01:34:51,949 --> 01:34:53,432
+¿Preparados para
+empezar de nuevo?
+
+1252
+01:34:55,917 --> 01:34:57,429
+Estaba listo
+para empezar de nuevo.
+
+1253
+01:34:57,454 --> 01:34:58,509
+Otra vez.
+
+1254
+01:34:58,534 --> 01:35:00,574
+Jairo, entremos.
+
+1255
+01:35:00,599 --> 01:35:02,059
+Por favor, quédate aquí.
+
+1256
+01:35:03,625 --> 01:35:04,677
+Por favor.
+
+1257
+01:35:04,702 --> 01:35:05,787
+Lo siento.
+
+1258
+01:35:05,812 --> 01:35:07,522
+Soy Leander de Naveh.
+
+1259
+01:35:11,402 --> 01:35:13,571
+Déjenme intentarlo otra vez.
+
+1260
+01:35:15,447 --> 01:35:16,824
+Es...
+
+1261
+01:35:18,576 --> 01:35:20,702
+Sí, yo...
+
+1262
+01:35:20,786 --> 01:35:23,801
+me olvidé que está bien
+que lo arruine.
+
+1263
+01:35:24,161 --> 01:35:26,668
+La puerta también estaba abierta,
+así que podrías haber...
+
+1264
+01:35:26,693 --> 01:35:27,770
+Sí, lo siento...
+
+1265
+01:35:27,795 --> 01:35:30,129
+¿Estás en tu...?
+¿De qué lado estás?
+
+1266
+01:35:30,212 --> 01:35:32,089
+Estoy muy cansado.
+Me acabo de despertar.
+
+1267
+01:35:32,114 --> 01:35:34,073
+Pasaron muchas cosas.
+Debía agarrar un cuchillo.
+
+1268
+01:35:34,098 --> 01:35:35,109
+¿Qué hora es?
+
+1269
+01:35:35,134 --> 01:35:37,123
+¿Necesitas un poco de agua?
+
+1270
+01:35:37,149 --> 01:35:38,229
+¡Adelante!
+
+1271
+01:35:38,254 --> 01:35:39,865
+¿Alguien tiene tiene
+un reloj de sol?
+
+1272
+01:35:39,889 --> 01:35:42,057
+¿Esto es mucho pecho para ellos?
+
+1273
+01:35:42,082 --> 01:35:43,426
+¡Es mucho pecho para mi!
+
+1274
+01:35:43,451 --> 01:35:45,244
+Es mucho pecho
+para todos nosotros.
+
+1275
+01:35:45,269 --> 01:35:46,737
+Estás muy hermosa.
+
+1276
+01:35:50,815 --> 01:35:52,984
+Hay más de donde vino eso.
+
+1277
+01:35:53,652 --> 01:35:55,404
+Vamos.
+
+1278
+01:35:55,487 --> 01:35:56,739
+Tres, cuatro, cuatro.
+
+1279
+01:35:56,822 --> 01:35:58,699
+Ahora jugamos.
+
+1280
+01:35:58,782 --> 01:36:00,076
+Un ala y una oración.
+
+1281
+01:36:02,577 --> 01:36:04,037
+¡Ni siquiera estaba listo!
+
+1282
+01:36:04,121 --> 01:36:05,664
+¡Ni siquiera estaba mirando!
+
+1283
+01:36:05,689 --> 01:36:07,899
+¡Dices eso todo el tiempo!
+
+1284
+01:36:07,924 --> 01:36:08,951
+Desde que éramos niños.
+
+1285
+01:36:08,976 --> 01:36:10,269
+Eso es...
+
+1286
+01:36:10,294 --> 01:36:13,506
+No puedes... eso no...
+Eso no es cierto.
+
+1287
+01:36:13,531 --> 01:36:15,299
+Realmente vas... de acuerdo.
+
+1288
+01:36:15,324 --> 01:36:17,526
+¿Ya está?
+¿Así es como se gana el juego?
+
+1289
+01:36:17,551 --> 01:36:19,614
+Trampa de principio a fin.
+
+1290
+01:36:19,639 --> 01:36:22,447
+Lo siento, Aaron,
+no es mi fuerte.
+
+1291
+01:36:22,472 --> 01:36:23,969
+¡Claramente!
+
+1292
+01:36:25,176 --> 01:36:28,812
+Bebé Santiago,
+¿que piensas de ese odre?
+
+1293
+01:36:31,953 --> 01:36:32,996
+¿Bebé?
+
+1294
+01:36:35,444 --> 01:36:37,121
+Sigan, casi lo logramos...
+
+1295
+01:36:37,146 --> 01:36:38,930
+- Vamos...
+- Gracias.
+
+1296
+01:36:41,451 --> 01:36:43,161
+Lo logramos...
+
+1297
+01:36:44,602 --> 01:36:45,660
+¿Tieso?
+
+1298
+01:36:45,685 --> 01:36:47,479
+No es muy flexible.
+
+1299
+01:36:48,883 --> 01:36:50,251
+Un avión.
+
+1300
+01:36:50,276 --> 01:36:51,665
+Aquí volamos.
+
+1301
+01:36:51,690 --> 01:36:53,694
+¡Ya veo lo que hiciste!
+
+1302
+01:36:55,047 --> 01:36:56,131
+Tú.
+
+1303
+01:36:57,132 --> 01:36:58,384
+Gafas de sol.
+
+1304
+01:37:08,144 --> 01:37:09,644
+Jesús lo ve todo.
+
+1305
+01:37:09,727 --> 01:37:11,187
+Lo ve todo.
+
+1306
+01:37:22,366 --> 01:37:24,159
+Así es como me bajo la bata.
+
+1307
+01:37:24,242 --> 01:37:25,244
+<i>¡Acción!</i>
+
+1308
+01:37:26,002 --> 01:37:27,079
+<i>¡Acción!</i>
+
+1309
+01:37:27,162 --> 01:37:29,706
+Y luego haces
+el baile de "hokey-pokey".
+
+1310
+01:37:29,789 --> 01:37:31,249
+Ya casi llegamos.
+
+1311
+01:37:31,332 --> 01:37:32,542
+Solo abre la puerta.
+
+1312
+01:37:33,669 --> 01:37:34,921
+Bienvenidos de nuevo.
+
+1313
+01:37:38,841 --> 01:37:40,176
+¿Vuelves otra vez?
+
+1314
+01:37:41,708 --> 01:37:42,877
+¡Adiós!
+
+1315
+01:37:42,902 --> 01:37:44,237
+¡Reiniciando!
+
+1316
+01:37:44,262 --> 01:37:46,472
+Esa visita fue rápida.
+
+1317
+01:37:46,557 --> 01:37:48,892
+Haciendo comida para
+los sin techo...
+
+1318
+01:37:48,976 --> 01:37:50,098
+<i>¡Y... acción!</i>
+
+1319
+01:37:50,977 --> 01:37:53,439
+¡Vaya, un chacal!
+
+1320
+01:37:53,464 --> 01:37:55,008
+Lo estás haciendo muy bien.
+
+1321
+01:37:55,149 --> 01:37:57,218
+No he empezado todavía.
+
+1322
+01:37:57,243 --> 01:37:58,922
+Digamos que lo hacemos
+¿otra vez?
+
+1323
+01:37:58,947 --> 01:38:00,491
+Que sea corto.
+
+1324
+01:38:01,279 --> 01:38:02,822
+Mi baile fue perfecto antes.
+
+1325
+01:38:02,847 --> 01:38:03,872
+¿Quieres...?
+
+1326
+01:38:03,897 --> 01:38:06,504
+Eden, puedes... ponerlo...
+
+1327
+01:38:06,529 --> 01:38:08,357
+que los pepinillos
+queden delante de mí...
+
+1328
+01:38:08,382 --> 01:38:09,738
+- los pepinos delante...
+- No.
+
+1329
+01:38:09,763 --> 01:38:11,015
+Bien, gracias.
+
+1330
+01:38:15,711 --> 01:38:18,214
+Eema, hay ovejas en...
+
+1331
+01:38:21,801 --> 01:38:23,092
+Me encantan los banquetes.
+
+1332
+01:38:26,764 --> 01:38:28,974
+Justo iba a usar esto.
+
+1333
+01:38:28,999 --> 01:38:31,459
+Solo nosotros 12...
+
+1334
+01:38:31,484 --> 01:38:32,886
+¿Alguien movió mi trípode?
+
+1335
+01:38:32,911 --> 01:38:37,916
+Podemos hacerlo si lo intentamos,
+solo nosotros 12...
+
+1336
+01:38:37,941 --> 01:38:39,944
+Ustedes y yo.
+
+1337
+01:38:41,069 --> 01:38:42,696
+Shalom, hijo mío.
+
+1338
+01:38:42,779 --> 01:38:44,031
+Shalom.
+
+1339
+01:38:55,376 --> 01:38:58,635
+Siempre hago lo mismo.
+
+1340
+01:38:59,546 --> 01:39:00,666
+<i>Corten.</i>
+
