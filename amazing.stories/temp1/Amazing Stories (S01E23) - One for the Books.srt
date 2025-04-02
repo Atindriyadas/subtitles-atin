@@ -1,0 +1,911 @@
+1
+00:01:06,633 --> 00:01:11,496
+HECHO MEMORABLE
+
+2
+00:01:19,679 --> 00:01:23,154
+UNIVERSIDAD PIERPOINT
+
+3
+00:02:39,566 --> 00:02:41,240
+AULA 5
+
+4
+00:04:21,935 --> 00:04:23,667
+Buenos días, cariño.
+
+5
+00:04:27,745 --> 00:04:29,133
+¿Qué?
+
+6
+00:04:35,226 --> 00:04:37,242
+¿Qué dijiste?
+
+7
+00:04:38,497 --> 00:04:40,441
+Dije...
+
+8
+00:04:41,628 --> 00:04:43,360
+¿Qué dije?
+
+9
+00:04:44,933 --> 00:04:47,531
+Sonó como...
+
+10
+00:04:54,571 --> 00:04:59,257
+- ¿Fred, qué es eso?
+- No sé.
+
+11
+00:05:01,182 --> 00:05:06,223
+Sonó como a... ¿francés?
+
+12
+00:05:08,975 --> 00:05:10,291
+¿Francés?
+
+13
+00:05:16,943 --> 00:05:20,490
+¿Qué significa, Fred?
+Nunca habías hablado en francés.
+
+14
+00:05:21,084 --> 00:05:22,294
+Lo sé.
+
+15
+00:05:30,461 --> 00:05:34,980
+Descubramos qué pasó.
+Di otra cosa en francés.
+
+16
+00:05:35,053 --> 00:05:37,485
+Veremos qué tenemos aquí.
+
+17
+00:05:52,171 --> 00:05:54,081
+- ¿Fred?
+- ¿Qué?
+
+18
+00:05:54,781 --> 00:05:56,999
+¿Sabes qué dijiste?
+
+19
+00:05:58,886 --> 00:06:00,096
+Sí.
+
+20
+00:06:01,809 --> 00:06:07,023
+Se oyó un gemido.
+Sus mastines comenzaron a ladrar.
+
+21
+00:06:07,723 --> 00:06:11,021
+Estos guantes me quedan.
+
+22
+00:06:11,099 --> 00:06:15,370
+Él pronto tendrá 15 años y...
+
+23
+00:06:17,431 --> 00:06:21,595
+Mandó hacer una copia exacta
+del monstruo.
+
+24
+00:06:40,482 --> 00:06:42,036
+Rayos.
+
+25
+00:06:58,679 --> 00:07:01,348
+CIENCIAS NATURALES
+
+26
+00:07:01,427 --> 00:07:05,591
+LABORATORIO
+
+27
+00:09:19,591 --> 00:09:23,031
+Eva, ¿qué haces despierta, amor?
+
+28
+00:09:24,776 --> 00:09:26,792
+Estaba preocupada por ti.
+
+29
+00:09:29,125 --> 00:09:33,288
+- ¿Aún hablas francés?
+- Peor que eso.
+
+30
+00:09:34,517 --> 00:09:35,940
+¿Por qué? ¿Qué sucedió?
+
+31
+00:09:36,013 --> 00:09:38,610
+Realmente es increíble.
+
+32
+00:09:38,692 --> 00:09:42,654
+El principal progreso en
+la producción de partículas rápidas...
+
+33
+00:09:42,728 --> 00:09:47,942
+se hizo usando voltajes relativamente
+pequeños y aceleraciones repetidas.
+
+34
+00:09:47,946 --> 00:09:51,943
+En la mayoría de los instrumentos
+usados, las partículas cargadas se...
+
+35
+00:09:52,016 --> 00:09:53,369
+¿Qué? ¿Qué estás diciendo?
+
+36
+00:09:54,975 --> 00:09:56,956
+No sé.
+
+37
+00:09:57,027 --> 00:10:00,360
+Simplemente está en mi mente.
+
+38
+00:10:03,012 --> 00:10:06,487
+¿Sabes? Anoche...
+
+39
+00:10:08,752 --> 00:10:11,812
+limpié un aula donde enseñan francés.
+
+40
+00:10:11,883 --> 00:10:15,394
+Ahora hablo francés.
+Luego, esta noche...
+
+41
+00:10:15,467 --> 00:10:20,674
+limpié un laboratorio de física y
+un aula en el edificio de matemáticas.
+
+42
+00:10:20,756 --> 00:10:23,362
+Y ahora sé Física.
+
+43
+00:10:23,364 --> 00:10:25,450
+Sé Matemáticas.
+Sé Trigonometría.
+
+44
+00:10:25,523 --> 00:10:28,061
+Iremos a ver
+al profesor Fetlock por la mañana.
+
+45
+00:10:29,281 --> 00:10:30,977
+¿De Psicología?
+
+46
+00:10:31,438 --> 00:10:34,736
+Lo que te pasa
+ocurre en tu cerebro, ¿no?
+
+47
+00:10:34,812 --> 00:10:35,951
+Sí, supongo.
+
+48
+00:10:36,030 --> 00:10:40,265
+Pero, Eva, no crees
+que estoy enloqueciendo, ¿o sí?
+
+49
+00:10:40,345 --> 00:10:45,208
+Ay, no, cariño.
+Claro que no estás enloqueciendo.
+
+50
+00:10:50,157 --> 00:10:53,632
+<i>Los logaritmos naturales
+de los números enteros...</i>
+
+51
+00:10:54,783 --> 00:10:58,188
+del 10 al 200.
+
+52
+00:10:58,263 --> 00:11:02,261
+Número uno, cero.
+
+53
+00:11:02,960 --> 00:11:08,168
+2,3026.
+
+54
+00:11:09,275 --> 00:11:10,663
+Uno.
+
+55
+00:11:12,232 --> 00:11:17,618
+2,3979.
+
+56
+00:11:18,460 --> 00:11:20,713
+2,4...
+
+57
+00:11:30,550 --> 00:11:33,326
+Lo lamento.
+Esto me parece difícil de creer.
+
+58
+00:11:33,404 --> 00:11:36,702
+- ¿Ves a qué me refiero? No tiene caso...
+- No, Fred. Por favor.
+
+59
+00:11:41,684 --> 00:11:46,477
+- ¿Qué dijo?
+- Dije: "Estoy dispuesto a su consejo".
+
+60
+00:11:46,555 --> 00:11:48,109
+Ya lo creo.
+
+61
+00:11:48,111 --> 00:11:50,815
+- ¿Nunca estudió francés?
+- No, señor.
+
+62
+00:11:50,894 --> 00:11:54,013
+- ¿Y nunca fue a Francia?
+- No, señor.
+
+63
+00:11:54,756 --> 00:11:57,947
+No se golpeó la cabeza, ¿o sí?
+
+64
+00:11:58,026 --> 00:12:03,482
+- No.
+- ¿Podría decir algo de Física?
+
+65
+00:12:04,359 --> 00:12:07,479
+En la pila de Volta,
+dos metales distintos en contacto...
+
+66
+00:12:07,560 --> 00:12:09,363
+aumentan un flujo de electrones...
+
+67
+00:12:09,439 --> 00:12:13,188
+que son conducidos de
+una celda a otra.
+
+68
+00:12:16,433 --> 00:12:17,713
+¿Matemáticas?
+
+69
+00:12:17,789 --> 00:12:20,387
+La suma de los ángulos interiores
+de cualquier polígono...
+
+70
+00:12:20,468 --> 00:12:25,783
+puede determinarse usando la cantidad
+"n" menos dos veces 180 grados...
+
+71
+00:12:25,861 --> 00:12:29,859
+donde "n" es el número de
+lados del polígono.
+
+72
+00:12:33,134 --> 00:12:34,687
+Lo que voy a hacer...
+
+73
+00:12:34,769 --> 00:12:39,419
+es hablar con algunos de mis colegas.
+
+74
+00:12:39,501 --> 00:12:45,100
+Lo hablaré a fondo con ellos
+y luego me comunicaré con usted.
+
+75
+00:12:45,172 --> 00:12:47,841
+- ¿Le parece bien?
+- ¿No puede decirnos algo ahora?
+
+76
+00:12:47,920 --> 00:12:50,174
+En este momento no, Sra. Elderman. No.
+
+77
+00:12:50,251 --> 00:12:54,414
+Salvo, claro, que es fascinante.
+
+78
+00:13:00,445 --> 00:13:03,399
+<i>No fue exactamente
+el Expreso Montreal...</i>
+
+79
+00:13:03,472 --> 00:13:06,070
+<i>sólo un aviso de que el tren
+estaba en la estación.</i>
+
+80
+00:13:06,151 --> 00:13:08,749
+Come un poco, cariño.
+
+81
+00:13:10,814 --> 00:13:13,067
+Quizá no deberías de ir a trabajar hoy.
+
+82
+00:13:13,145 --> 00:13:16,964
+Ay, Eva. No podemos darnos el lujo
+de que falte al trabajo ahora.
+
+83
+00:13:17,041 --> 00:13:18,773
+Lo sé.
+
+84
+00:13:20,348 --> 00:13:23,123
+Intenta no entrar en las aulas.
+
+85
+00:13:25,671 --> 00:13:28,102
+Qué buena idea.
+
+86
+00:13:28,175 --> 00:13:30,607
+En serio, qué buena idea.
+
+87
+00:13:31,376 --> 00:13:36,240
+¿Sabes? Cambiaré el trabajo con Brady.
+Yo haré el suyo.
+
+88
+00:13:36,317 --> 00:13:38,855
+Ay, qué bien. Qué bien.
+Eso está bien.
+
+89
+00:13:54,306 --> 00:13:58,825
+UNIVERSIDAD PIERPOINT
+BIBLIOTECA PRINCIPAL
+
+90
+00:14:26,489 --> 00:14:29,443
+- Vine tan pronto como pude.
+- Gracias por venir.
+
+91
+00:14:30,142 --> 00:14:32,740
+¿Dijo que su esposo
+tuvo una especie de ataque?
+
+92
+00:14:32,821 --> 00:14:35,668
+Eso dijo él cuando llegó a casa anoche.
+
+93
+00:14:35,744 --> 00:14:39,563
+- ¿Cuando llegó de dónde?
+- De la biblioteca principal.
+
+94
+00:14:40,720 --> 00:14:42,629
+¿De la biblioteca principal?
+
+95
+00:14:43,468 --> 00:14:48,154
+- ¿Puedo verlo?
+- Sí, claro. Aquí.
+
+96
+00:14:51,158 --> 00:14:53,828
+Cariño, vino el Dr. Fetlock.
+
+97
+00:14:59,021 --> 00:15:00,966
+Buenos días, Fred.
+
+98
+00:15:03,475 --> 00:15:07,473
+- Ahora es italiano.
+- ¿Puedo...
+
+99
+00:15:11,025 --> 00:15:14,216
+¿Cómo ocurrió el ataque?
+
+100
+00:15:15,270 --> 00:15:19,433
+Pues, entré en la sala de lectura
+de la biblioteca...
+
+101
+00:15:19,515 --> 00:15:21,531
+para limpiar, ¿sabe?
+
+102
+00:15:23,063 --> 00:15:26,538
+Y, como una tonelada de ladrillos,
+me cayó encima.
+
+103
+00:15:28,003 --> 00:15:29,391
+En la cabeza.
+
+104
+00:15:29,465 --> 00:15:32,727
+No, en la mente.
+
+105
+00:15:32,805 --> 00:15:35,960
+Ayer saqué un libro
+de la biblioteca. Era un...
+
+106
+00:15:37,815 --> 00:15:40,591
+No le diré de qué trata el libro.
+
+107
+00:15:40,668 --> 00:15:43,859
+El número de catálogo es...
+
+108
+00:15:43,938 --> 00:15:46,024
+429,2.
+
+109
+00:15:46,026 --> 00:15:47,250
+¿Podría citar de ese libro?
+
+110
+00:15:47,801 --> 00:15:53,152
+Leibniz presentó la teoría
+de que todas las lenguas proceden...
+
+111
+00:15:53,230 --> 00:15:58,022
+no de una fuente históricamente
+documentada, sino del protolenguaje.
+
+112
+00:15:58,100 --> 00:16:02,264
+Los expertos han contado
+más de 3000 lenguas en el mundo...
+
+113
+00:16:02,345 --> 00:16:05,820
+sólo de dialectos y de formas
+locales, 13 de las cuales...
+
+114
+00:16:05,893 --> 00:16:07,910
+¡Fred, basta!
+
+115
+00:16:07,981 --> 00:16:12,323
+El indostánico tiene más de 300 millones
+de hablantes, el chino, más de 750.
+
+116
+00:16:12,400 --> 00:16:16,571
+<i>La fuente de la lengua, 1979.
+3,4 millones...</i>
+
+117
+00:16:16,579 --> 00:16:18,239
+¡Alto! ¡Alto!
+
+118
+00:16:25,694 --> 00:16:27,248
+¿Qué pasa? ¿Qué ocurre?
+
+119
+00:16:27,329 --> 00:16:30,663
+Le diré lo que creo que es, Fred.
+
+120
+00:16:30,739 --> 00:16:32,471
+Telepatía.
+
+121
+00:16:33,174 --> 00:16:37,860
+Transferencia de pensamiento.
+Alguna forma de ella.
+
+122
+00:16:38,950 --> 00:16:42,841
+- Esto es increíble.
+- Espere, doctor, ¿no puede decirme...
+
+123
+00:16:42,917 --> 00:16:47,567
+Ningún hombre ha utilizado el potencial
+de aprendizaje total del cerebro.
+
+124
+00:16:48,553 --> 00:16:51,542
+- Quizá usted es el primero.
+- ¿Qué debe de hacer Fred ahora?
+
+125
+00:16:52,659 --> 00:16:57,178
+Eso no lo sé. Sin embargo, reuniré...
+
+126
+00:16:57,251 --> 00:17:02,530
+un grupo del profesorado
+esta noche para interrogarlo.
+
+127
+00:17:02,610 --> 00:17:05,738
+Por favor, usted debe de saber algo
+sobre lo que me ocurrió.
+
+128
+00:17:05,776 --> 00:17:07,508
+Se revelará.
+
+129
+00:17:10,752 --> 00:17:12,555
+Estoy muy asustado, Eva.
+
+130
+00:17:13,605 --> 00:17:16,381
+- Ay, no. No, cariño.
+- Lo digo en serio.
+
+131
+00:17:16,458 --> 00:17:18,534
+- Aquí estoy. Aquí estoy.
+- No sé.
+
+132
+00:17:19,659 --> 00:17:22,435
+Mi cerebro es
+como una esponja, ¿sabes?
+
+133
+00:17:23,137 --> 00:17:27,728
+No deja de absorber más y más
+y más, y no sé por qué.
+
+134
+00:17:27,799 --> 00:17:30,753
+No sé por qué.
+
+135
+00:17:35,351 --> 00:17:37,533
+Señoras y señores.
+
+136
+00:17:37,612 --> 00:17:42,618
+¿Me prestan su atención, por favor?
+Gracias por venir esta noche.
+
+137
+00:17:42,709 --> 00:17:47,086
+Me gustaría presentarles
+al Sr. Fred Elderman.
+
+138
+00:17:47,162 --> 00:17:50,461
+Uno de los encargados del mantenimiento
+en la universidad.
+
+139
+00:17:50,538 --> 00:17:52,270
+Durante 16 años.
+
+140
+00:17:53,877 --> 00:17:55,645
+Y a la Sra. Elderman.
+
+141
+00:17:56,696 --> 00:17:59,994
+Antes de comenzar, quiero recalcar
+que el Sr. Elderman...
+
+142
+00:18:00,071 --> 00:18:03,547
+no tiene una educación formal
+más allá del bachillerato.
+
+143
+00:18:03,619 --> 00:18:07,510
+Todo el conocimiento extra
+en su cerebro lo adquirió...
+
+144
+00:18:07,586 --> 00:18:10,706
+sólo Dios sabe cómo o por qué...
+
+145
+00:18:10,787 --> 00:18:13,907
+durante los últimos cuatro días.
+
+146
+00:18:16,249 --> 00:18:17,778
+Ahora bien...
+
+147
+00:18:19,311 --> 00:18:22,265
+¿a alguien le gustaría
+comenzar el interrogatorio?
+
+148
+00:18:22,338 --> 00:18:26,680
+La ruta entre Au Sable
+y Tarva en el estado de Nueva York.
+
+149
+00:18:27,453 --> 00:18:30,751
+Profesor, por favor.
+Le pido que sea serio.
+
+150
+00:18:31,454 --> 00:18:34,715
+Entre Au Sable y Tarva, la ruta
+pasa por un terreno talado típico...
+
+151
+00:18:34,793 --> 00:18:36,743
+que estuvo cubierto
+con pinos vírgenes...
+
+152
+00:18:36,812 --> 00:18:39,694
+y que ahora sólo tiene robles,
+pinos y álamos inferiores.
+
+153
+00:18:39,769 --> 00:18:43,271
+- ¿Es un truco?
+- Le aseguro que no. Sigan.
+
+154
+00:18:43,320 --> 00:18:47,175
+- Hagan sus preguntas.
+- El Sol dentro de 15 millones de años.
+
+155
+00:18:47,251 --> 00:18:50,833
+Si continúa irradiando
+a su actual nivel 15 millones de años...
+
+156
+00:18:50,904 --> 00:18:53,537
+su peso entero
+se transformará en radiación.
+
+157
+00:18:53,617 --> 00:18:54,721
+¿Qué es una tónica?
+
+158
+00:18:54,801 --> 00:18:57,054
+En unidades armónicas,
+los tonos constitutivos...
+
+159
+00:18:57,131 --> 00:18:58,791
+tienen valores desiguales.
+
+160
+00:18:58,872 --> 00:19:01,576
+Diga los cinco órdenes
+de la arquitectura romana.
+
+161
+00:19:01,655 --> 00:19:04,287
+Toscano, dórico, corintio,
+jónico, compuesto.
+
+162
+00:19:04,369 --> 00:19:06,622
+El toscano es el dórico simplificado.
+
+163
+00:19:06,699 --> 00:19:10,145
+Los romanos comían lenguas de flamencos.
+L.A. Es más grande que Rhode Island.
+
+164
+00:19:10,146 --> 00:19:13,858
+Efecto secundario: Presentación
+de conocimiento no solicitado.
+
+165
+00:19:13,937 --> 00:19:16,641
+"Hace un momento", en francés.
+
+166
+00:19:17,625 --> 00:19:20,400
+Para los romanos era un pecado
+comer pájaros carpinteros.
+
+167
+00:19:23,296 --> 00:19:24,339
+Por favor.
+
+168
+00:19:24,340 --> 00:19:28,053
+- Capacidad reguladora.
+- La capacidad de una solución...
+
+169
+00:19:28,132 --> 00:19:30,670
+puede definirse como dx sobre
+dpH donde dx es...
+
+170
+00:19:30,741 --> 00:19:32,722
+¿Las ecuaciones de dispersión
+de Rutherford?
+
+171
+00:19:32,794 --> 00:19:35,742
+Los dientes de una rata crecen siempre.
+La Luna: 81000000000 de t.
+
+172
+00:19:35,749 --> 00:19:38,110
+- El cerebro.
+- Un tejido moderadamente compresible.
+
+173
+00:19:38,184 --> 00:19:40,471
+Es ilegal cazar camellos en Arizona.
+
+174
+00:19:40,546 --> 00:19:44,092
+- La teoría unificada de Einstein.
+- Explicó la gravitación.
+
+175
+00:19:44,164 --> 00:19:46,521
+- Gravitación. Gravitación.
+- ¿Qué es la gravitación?
+
+176
+00:19:47,225 --> 00:19:48,268
+Basta.
+
+177
+00:19:51,315 --> 00:19:53,011
+Necesitamos su ayuda.
+
+178
+00:19:58,064 --> 00:20:00,911
+¿Por qué le ocurre esto a mi esposo?
+
+179
+00:20:00,987 --> 00:20:02,896
+¿Por qué?
+
+180
+00:20:02,970 --> 00:20:06,790
+Sra. Elderman, debemos examinar
+el fenómeno en todos sus aspectos...
+
+181
+00:20:06,867 --> 00:20:08,943
+antes de poder formular un juicio.
+
+182
+00:20:16,330 --> 00:20:17,754
+¿A dónde va?
+
+183
+00:20:19,287 --> 00:20:20,711
+Fred, ¿a dónde va?
+
+184
+00:20:22,941 --> 00:20:25,373
+- ¿Cariño?
+- ¿Qué ocurre?
+
+185
+00:20:26,177 --> 00:20:27,730
+No tengo idea.
+
+186
+00:20:46,703 --> 00:20:49,135
+Fred, ¿dónde estás?
+
+187
+00:22:50,081 --> 00:22:52,583
+Fred, ¿qué sucede?
+¿Qué ocurre?
+
+188
+00:22:52,655 --> 00:22:54,387
+Habla. Habla.
+
+189
+00:22:58,605 --> 00:23:00,337
+¿Qué hacemos aquí?
+
+190
+00:23:01,598 --> 00:23:04,931
+- ¿Por qué estamos en el estadio?
+- ¿No lo sabes?
+
+191
+00:23:05,007 --> 00:23:06,917
+¿Saber qué?
+
+192
+00:23:10,817 --> 00:23:11,921
+Vamos...
+
+193
+00:23:15,794 --> 00:23:19,614
+- Di algo en francés.
+- ¿Qué?
+
+194
+00:23:19,691 --> 00:23:22,573
+- ¿Puedes hablar en francés?
+- Eva, ¿de qué hablas?
+
+195
+00:23:24,318 --> 00:23:27,758
+- ¿Física?
+- Mi cielo, ¿qué te ocurre?
+
+196
+00:23:29,502 --> 00:23:33,773
+Nada. Nada de nada. Anda.
+
+197
+00:23:33,851 --> 00:23:36,768
+Mi vida, vamos a casa.
+
+198
+00:23:36,843 --> 00:23:40,141
+- Ah, sí. Ah, sí.
+- No lo entiendo.
+
+199
+00:23:40,218 --> 00:23:42,400
+Lo que le pasó a todo.
+
+200
+00:23:49,672 --> 00:23:51,925
+Me exprimieron.
+
+201
+00:23:55,065 --> 00:23:58,363
+Descuida.
+Anda. Descuida.
+
+202
+00:23:58,439 --> 00:24:02,080
+Vamos a casa. Iremos a casa.
+
+203
+00:24:03,136 --> 00:24:05,153
+Descuida. Anda.
+
