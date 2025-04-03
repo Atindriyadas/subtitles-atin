@@ -1,0 +1,21 @@
+msubtitles:
+  - source: https://github.com/Atindriyadas/subtitles-atin/raw/refs/heads/main/the.chosen/temp4
+    subtitles:
+      - season: 3
+        items:
+          - path: The.Chosen.S04E01.720p.WEB.h264-DiRT.srt
+            episode: 1
+          - path: The.Chosen.S04E02.720p.WEB.h264-DiRT.srt
+            episode: 2
+          - path: The.Chosen.S04E03.720p.WEB.h264-DiRT.srt
+            episode: 3
+          - path: The.Chosen.S04E04.720p.WEB.h264-DiRT.srt
+            episode: 4
+          - path: The.Chosen.S04E05.720p.WEB.h264-DiRT.srt
+            episode: 5
+          - path: The.Chosen.S04E06.720p.WEB.h264-DiRT.srt
+            episode: 6
+          - path: The.Chosen.S04E07.720p.WEB.h264-DiRT.srt
+            episode: 7
+          - path: The.Chosen.S04E08.720p.WEB.h264-DiRT.srt
+            episode: 8
