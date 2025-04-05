@@ -1,0 +1,15 @@
+msubtitles:
+  - source: https://github.com/Atindriyadas/subtitles-atin/raw/refs/heads/main/the.chosen/temp1/
+    subtitles:
+      - season: 1
+        items:
+          - path: The.Chosen.S01E04.720p.AMZN.WEBRip.DDP5.1.x264-AlfaHD.srt
+            episode: 4
+          - path: The.Chosen.S01E05.720p.AMZN.WEBRip.DDP5.1.x264-AlfaHD.srt
+            episode: 5
+          - path: The.Chosen.S01E06.720p.AMZN.WEBRip.DDP5.1.x264-AlfaHD.srt
+            episode: 6
+          - path: The.Chosen.S01E07.720p.AMZN.WEBRip.DDP5.1.x264-AlfaHD.srt
+            episode: 7
+          - path: The.Chosen.S01E08.720p.AMZN.WEBRip.DDP5.1.x264-AlfaHD.srt
+            episode: 8

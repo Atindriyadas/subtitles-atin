@@ -1,0 +1,21 @@
+msubtitles:
+  - source: https://github.com/Atindriyadas/subtitles-atin/raw/refs/heads/main/the.chosen/temp2
+    subtitles:
+      - season: 2
+        items:
+          - path: The.Chosen.(2017).S02E01.x264-Adicts.srt
+            episode: 1
+          - path: The.Chosen.(2017).S02E02.x264-Adicts.srt
+            episode: 2
+          - path: The.Chosen.(2017).S02E03.x264-Adicts.srt
+            episode: 3
+          - path: The.Chosen.(2017).S02E04.x264-Adicts.srt
+            episode: 4
+          - path: The.Chosen.(2017).S02E05.x264-Adicts.srt
+            episode: 5
+          - path: The.Chosen.(2017).S02E06.x264-Adicts.srt
+            episode: 6
+          - path: The.Chosen.(2017).S02E07.x264-Adicts.srt
+            episode: 7
+          - path: The.Chosen.(2017).S02E08.x264-Adicts.srt
+            episode: 8
