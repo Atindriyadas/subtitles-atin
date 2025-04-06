@@ -1,0 +1,23 @@
+msubtitles:
+  - source: https://github.com/Atindriyadas/subtitles-atin/raw/refs/heads/main/Gangs%20of%20London/temp1
+    subtitles:
+      - season: 1
+        items:
+          - path: Gangs.Of.London.S01E01.INTERNAL.1080p.AHDTV.x264-FaiLED.srt
+            episode: 1
+          - path: Gangs.Of.London.S01E02.INTERNAL.1080p.AHDTV.x264-FaiLED.srt
+            episode: 2
+          - path: Gangs.Of.London.S01E03.INTERNAL.1080p.AHDTV.x264-FaiLED.srt
+            episode: 3
+          - path: Gangs.Of.London.S01E04.INTERNAL.1080p.AHDTV.x264-FaiLED.srt
+            episode: 4
+          - path: Gangs.Of.London.S01E05.INTERNAL.1080p.AHDTV.x264-FaiLED.srt
+            episode: 5
+          - path: Gangs.Of.London.S01E06.INTERNAL.1080p.AHDTV.x264-FaiLED.srt
+            episode: 6
+          - path: Gangs.Of.London.S01E07.INTERNAL.1080p.AHDTV.x264-FaiLED.srt
+            episode: 7
+          - path: Gangs.Of.London.S01E08.REPACK.INTERNAL.1080p.AHDTV.x264-FaiLED.srt
+            episode: 8
+          - path: Gangs.Of.London.S01E09.INTERNAL.1080p.AHDTV.x264-FaiLED.srt
+            episode: 9

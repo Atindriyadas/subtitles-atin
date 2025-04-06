@@ -1,0 +1,21 @@
+msubtitles:
+  - source: https://github.com/Atindriyadas/subtitles-atin/raw/refs/heads/main/Gangs%20of%20London/temp3
+    subtitles:
+      - season: 3
+        items:
+          - path: Gangs%20of%20London%203x01%20-%20Episode%201.LAZYCUNTS.es-es.srt
+            episode: 1
+          - path: Gangs%20of%20London%203x02%20-%20Episode%202.NHTFS.es-es.srt
+            episode: 2
+          - path: Gangs%20of%20London%203x03%20-%20Episode%203.720p%20y%201080p%20RAWR.es-es.srt
+            episode: 3
+          - path: Gangs%20of%20London%203x04%20-%20Episode%204.720p%20y%201080p%20RAWR.es-es.srt
+            episode: 4
+          - path: Gangs%20of%20London%203x05%20-%20Episode%205.2160p%20RAWR_Kitsune.es-es.srt
+            episode: 5
+          - path: Gangs%20of%20London%203x06%20-%20Episode%206.720p%20y%201080p%20RAWR.es-es.srt
+            episode: 6
+          - path: Gangs%20of%20London%203x07%20-%20Episode%207.720p%20y%201080p%20RAWR.es-es.srt
+            episode: 7
+          - path: Gangs%20of%20London%203x08%20-%20Episode%208.720p%20y%201080p%20RAWR.es-es.srt
+            episode: 8
