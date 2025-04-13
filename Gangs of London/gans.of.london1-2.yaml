@@ -1,0 +1,25 @@
+msubtitles:
+  - source: https://github.com/Atindriyadas/subtitles-atin/raw/refs/heads/main/Gangs%20of%20London/temp1
+    subtitles:
+      - season: 1
+        items:
+          - path: Gangs.of.London.S01E01.Part.1.2160p.WEB.H265-GGWP.srt
+            episode: 1
+          - path: Gangs.of.London.S01E01.Part.2.2160p.WEB.H265-GGWP.srt
+            episode: 1
+          - path: Gangs.of.London.S01E02.2160p.WEB.H265-GGWP.srt
+            episode: 2
+          - path: Gangs.of.London.S01E03.2160p.WEB.H265-GGWP.srt
+            episode: 3
+          - path: Gangs.of.London.S01E04.2160p.WEB.H265-GGWP.srt
+            episode: 4
+          - path: Gangs.of.London.S01E05.2160p.WEB.H265-GGWP.srt
+            episode: 5
+          - path: Gangs.of.London.S01E06.2160p.WEB.H265-GGWP.srt
+            episode: 6
+          - path: Gangs.of.London.S01E07.2160p.WEB.H265-GGWP.srt
+            episode: 7
+          - path: Gangs.of.London.S01E08.2160p.WEB.H265-GGWP.srt
+            episode: 8
+          - path: Gangs.of.London.S01E09.2160p.WEB.H265-GGWP.srt
+            episode: 9
