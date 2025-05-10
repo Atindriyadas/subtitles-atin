@@ -1,0 +1,19 @@
+msubtitles:
+  - source: https://github.com/Atindriyadas/subtitles-atin/raw/refs/heads/main/mobland
+    subtitles:
+      - season: 1
+        items:
+          - path: MobLand.S01E01.1080p.WEB.H264-SuccessfulCrab.srt
+            episode: 1
+          - path: MobLand.S01E02.1080p.WEB.H264-SuccessfulCrab.srt
+            episode: 2
+          - path: MobLand.S01E03.1080p.WEB.H264-SuccessfulCrab.srt
+            episode: 3
+          - path: MobLand.S01E04.1080p.WEB.H264-SuccessfulCrab.srt
+            episode: 4
+          - path: MobLand.S01E05.1080p.WEB.H264-SuccessfulCrab.srt
+            episode: 5
+          - path: MobLand.S01E06.1080p.WEB.H264-SuccessfulCrab.srt
+            episode: 6
+
+            
