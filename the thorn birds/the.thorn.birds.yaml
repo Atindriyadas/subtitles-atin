@@ -1,0 +1,13 @@
+msubtitles:
+  - source: https://github.com/Atindriyadas/subtitles-atin/raw/refs/heads/main/the%20thorn%20birds
+    subtitles:
+      - season: 1
+        items:
+          - path: The.Thorn.Birds.S01E01.1080p.WEB-DL.AAC2.0.H264-QWERTZ.srt
+            episode: 1
+          - path: The.Thorn.Birds.S01E02.1080p.WEB-DL.AAC2.0.H264-QWERTZ.srt
+            episode: 2
+          - path: The.Thorn.Birds.S01E03.1080p.WEB-DL.AAC2.0.H264-QWERTZ.srt
+            episode: 3
+          - path: The.Thorn.Birds.S01E04.1080p.WEB-DL.AAC2.0.H264-QWERTZ.srt
+            episode: 4
