@@ -1,0 +1,21 @@
+msubtitles:
+  - source: https://github.com/Atindriyadas/subtitles-atin/raw/refs/heads/main/the%20long%20shadow
+    subtitles:
+      - season: 1
+        items:
+          - path: The.Long.Shadow.S01E01.ESP.srt
+            episode: 1
+          - path: The.Long.Shadow.S01E02.ESP.srt
+            episode: 2
+          - path: The.Long.Shadow.S01E03.ESP.srt
+            episode: 3
+          - path: The.Long.Shadow.S01E04.ESP.srt
+            episode: 4
+          - path: The.Long.Shadow.S01E05.ESP.srt
+            episode: 5
+          - path: The.Long.Shadow.S01E06.ESP.srt
+            episode: 6
+          - path: The.Long.Shadow.S01E07.ESP.srt
+            episode: 7
+
+            
