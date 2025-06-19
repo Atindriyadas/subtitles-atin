@@ -1,0 +1,27 @@
+msubtitles:
+  - source: https://github.com/Atindriyadas/subtitles-atin/raw/refs/heads/main/poker.face
+    subtitles:
+      - season: 1
+        items:
+          - path: Poker Face - 1x01.srt
+            episode: 1
+          - path: Poker Face - 1x02.srt
+            episode: 2
+          - path: Poker Face - 1x03.srt
+            episode: 3
+          - path: Poker Face - 1x04.srt
+            episode: 4
+          - path: Poker Face - 1x05.srt
+            episode: 5
+          - path: Poker Face - 1x06.srt
+            episode: 6
+          - path: Poker Face - 1x07.srt
+            episode: 7
+          - path: Poker Face - 1x08.srt
+            episode: 8
+          - path: Poker Face - 1x09.srt
+            episode: 9
+          - path: Poker Face - 1x10.srt
+            episode: 10
+
+            
