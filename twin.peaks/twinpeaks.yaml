@@ -1,0 +1,41 @@
+msubtitles:
+  - source: https://github.com/Atindriyadas/subtitles-atin/raw/refs/heads/main/twin.peaks
+    subtitles:
+      - season: 1
+        items:
+          - path: Twin.Peaks.S03E01.The.Return.Part1.&.2.720p.HDTV.x264-AVS.srt
+            episode: 1
+          - path: Twin.Peaks.S03E02.The.Return.Part2.iNTERNAL.720p.WEBRip.x264-MOROSE.srt
+            episode: 2
+          - path: Twin.Peaks.S03E03.The.Return.Part3.720p.WEBRip.x264-MOROSE.srt
+            episode: 3
+          - path: Twin.Peaks.S03E04.The.Return.Part4.720p.WEBRip.x264-MOROSE.srt
+            episode: 4
+          - path: Twin.Peaks.S03E05.The.Return.Part5.720p.HDTV.x264-AVS.srt
+            episode: 5
+          - path: Twin.Peaks.S03E06.The.Return.Part6.720p.HDTV.x264-AVS.srt
+            episode: 6
+          - path: Twin.Peaks.S03E07.The.Return.Part7.720p.HDTV.x264-AVS.srt
+            episode: 7
+          - path: Twin.Peaks.S03E08.The.Return.Part8.720p.HDTV.x264-AVS.srt
+            episode: 8
+          - path: Twin.Peaks.S03E09.The.Return.Part9.720p.HDTV.x264-AVS.srt
+            episode: 9
+          - path: Twin.Peaks.S03E10.The.Return.Part10.PROPER.720p.HDTV.x264-AVS.srt
+            episode: 10
+          - path: Twin.Peaks.S03E11.The.Return.Part11.720p.HDTV.x264-AVS.srt
+            episode: 11
+          - path: Twin.Peaks.S03E12.The.Return.Part12.720p.HDTV.x264-AVS.srt
+            episode: 12
+          - path: Twin.Peaks.S03E13.The.Return.Part13.720p.HDTV.x264-AVSsrt
+            episode: 13
+          - path: Twin.Peaks.S03E14.The.Return.Part14.720p.HDTV.x264-FLEET.srt
+            episode: 14
+          - path: Twin.Peaks.S03E15.The.Return.Part15.720p.HDTV.x264-FLEET.srt
+            episode: 15
+          - path: Twin.Peaks.S03E16.The.Return.Part16.720p.HDTV.x264-FLEET.srt
+            episode: 16
+          - path: Twin.Peaks.S03E17.The.Return.Part17.720p.WEB.H264-STRiFE.srt
+            episode: 17
+          - path: Twin.Peaks.S03E18.The.Return.Part18.720p.WEB.H264-STRiFE.srt
+            episode: 18
