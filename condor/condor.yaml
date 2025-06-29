@@ -1,0 +1,28 @@
+msubtitles:
+  - source: https://github.com/Atindriyadas/subtitles-atin/raw/refs/heads/main/condor/temp2
+    subtitles:
+      - season: 2
+        items:
+          - path: Condor.S02E01.Exile.is.a.Dream.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.srt
+            episode: 1
+          - path: Condor.S02E02.If.it.Serves.a.Greater.Good.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.srt
+            episode: 2
+          - path: Condor.S02E03.A.Former.KGB.Man.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.srt
+            episode: 3
+          - path: Condor.S02E04.Not.What.He.Thinks.He.Is.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.srt
+            episode: 4
+          - path: Condor.S02E05.Out.of.His.Exile.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.srt
+            episode: 5
+          - path: Condor.S02E06.An.Offer.of.Enrollment.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.srt
+            episode: 6
+          - path: Condor.S02E07.A.Perspective.Not.the.Truth.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.srt
+            episode: 7
+          - path: Condor.S02E08.The.Road.We.Take.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.srt
+            episode: 8
+          - path: Condor.S02E09.The.Greatest.Hazard.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.srt
+            episode: 9
+          - path: Condor.S02E10.Not.Necessarily.to.Lose.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.srt
+            episode: 10
+
+
+            
