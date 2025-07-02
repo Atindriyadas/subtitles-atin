@@ -1,0 +1,1528 @@
+1
+00:01:28,950 --> 00:01:31,120
+LA VENGANZA DE KHYRON
+
+2
+00:01:31,320 --> 00:01:35,900
+En el último episodio, el Capitán Gloval
+envió a sus tropas a una misión junto a Breetai.
+
+3
+00:01:36,100 --> 00:01:39,900
+Debían persuadir a los Zentraedi que quedaban
+en una remota fábrica Robotech...
+
+4
+00:01:40,100 --> 00:01:45,100
+...de que se les unieran en su cruzada por la libertad.
+La misión no resultó exactamente como debía.
+
+5
+00:01:45,300 --> 00:01:50,410
+Transporte UN, puede aterrizar en plataforma 1-7.
+Invierta propulsores. Cambio.
+
+6
+00:01:51,160 --> 00:01:54,580
+Enterado, torre. Espero órdenes.
+Me acerco a plataforma 1-7.
+
+7
+00:01:55,280 --> 00:01:59,620
+Inicio conteo... 5, 4, 3...
+
+8
+00:02:00,250 --> 00:02:03,110
+...2, 1, apague motores.
+
+9
+00:02:03,800 --> 00:02:07,710
+Bienvenido a la fábrica Robotech.
+Los pasajeros pueden desembarcar.
+
+10
+00:02:07,910 --> 00:02:13,260
+Gloval conoce la capacidad de la fábrica
+para producir las armas que necesitan.
+
+11
+00:02:13,500 --> 00:02:17,740
+Porque para la gente de la Tierra, esas armas hacen
+la diferencia entre la supervivencia y la destrucción.
+
+12
+00:02:18,320 --> 00:02:23,690
+Unidades 152 a 158, estén listas para
+ajustes protobólticos y soldadura láser.
+
+13
+00:02:24,270 --> 00:02:28,310
+Las unidades 159 a 165 están en línea
+para codificación de cripto-radio.
+
+14
+00:02:29,000 --> 00:02:33,090
+Aunque las presentaciones iniciales que se le dieron
+a Gloval salieron bien...
+
+15
+00:02:33,290 --> 00:02:37,990
+...el resultado de los daños causados por el último
+ataque Zentraedi, pronto se hizo evidente.
+
+16
+00:02:38,560 --> 00:02:40,800
+¡Peligro, apaguen los sistemas, peligro!
+
+17
+00:02:41,280 --> 00:02:43,990
+Apaguen la Protocultura.
+
+18
+00:02:44,430 --> 00:02:46,370
+El equipo Robotech ha dejado
+de funcionar nuevamente.
+
+19
+00:02:46,570 --> 00:02:51,010
+Aunque la producción de las unidades de defensa
+no aseguraría la seguridad ante un ataque...
+
+20
+00:02:51,510 --> 00:02:54,720
+...la situación actualmente es desesperante.
+
+21
+00:02:55,460 --> 00:02:57,960
+– Ya llega el informe, Almirante.
+– Aquí estaré.
+
+22
+00:02:58,210 --> 00:03:00,070
+Mantenimiento a Centro de Procesamiento.
+
+23
+00:03:00,480 --> 00:03:04,010
+– ¿Cómo está, Almirante?
+– No tan bien como me gustaría.
+
+24
+00:03:04,830 --> 00:03:08,910
+– ¿Cuándo pueden empezar a operar de nuevo?
+– La situación es peor de lo que creíamos.
+
+25
+00:03:09,110 --> 00:03:11,040
+Quizá no volvamos a operar nunca.
+
+26
+00:03:11,890 --> 00:03:13,970
+¿Está seguro de que
+el informe es correcto, Exedore?
+
+27
+00:03:16,730 --> 00:03:18,910
+Nuestra defensa depende
+de la operación continua.
+
+28
+00:03:19,530 --> 00:03:23,320
+No importa. Hagan lo que pueden
+y háganlo rápido. Prosigan.
+
+29
+00:03:23,920 --> 00:03:27,120
+Mientras tanto, a 20 años luz de distancia.
+
+30
+00:03:27,390 --> 00:03:31,400
+Creo que el mejor plan es instruir
+por completo a otro tejido...
+
+31
+00:03:31,600 --> 00:03:33,960
+...para que parezca Microniano
+cuando lleguemos a la Tierra.
+
+32
+00:03:34,160 --> 00:03:38,110
+¿Por qué crees que este clon sería diferente
+a los otros que han fracasado?
+
+33
+00:03:38,310 --> 00:03:42,960
+¡Insolente! ¿Te has olvidado del proceso básico
+de generación de la matriz?
+
+34
+00:03:43,160 --> 00:03:48,290
+Debemos comenzar ahora para intentar de nuevo
+con los tejidos restantes si algo fallara.
+
+35
+00:03:48,880 --> 00:03:54,020
+Solo quedan 14 en el tanque. ¿Cuántos de nosotros
+crees que sobreviviremos el viaje hasta la Tierra?
+
+36
+00:03:54,320 --> 00:03:57,410
+– Debemos proceder ahora.
+– Está bien, pero una cosa más.
+
+37
+00:03:58,040 --> 00:04:00,910
+¿Por qué no revisamos los números de la matriz
+sobre la Protocultura restante?
+
+38
+00:04:01,340 --> 00:04:03,670
+¿Por qué? Ya fueron revisados.
+
+39
+00:04:04,040 --> 00:04:07,550
+No es suficiente para realizar un salto hiperespacial
+al sistema solar de la Tierra.
+
+40
+00:04:07,750 --> 00:04:11,160
+Entonces no nos queda más que proceder
+con tu nuevo plan.
+
+41
+00:04:11,520 --> 00:04:16,100
+Comenzaremos el viaje con potencia de impulso
+y el tejido celular completará la misión.
+
+42
+00:04:16,640 --> 00:04:20,100
+Es la única manera de recuperar el control
+de la Protocultura.
+
+43
+00:04:20,520 --> 00:04:23,310
+Después de todo, miren lo que queda de su cultura.
+
+44
+00:04:23,510 --> 00:04:26,630
+Observen los restos de la que solía ser
+una gran civilización.
+
+45
+00:04:26,830 --> 00:04:30,810
+¡Debemos conseguir el horno de Protocultura,
+si es que no ha sido destruido!
+
+46
+00:04:31,240 --> 00:04:34,160
+Y así tendremos lo que necesitamos
+para controlar todo el universo.
+
+47
+00:04:34,360 --> 00:04:37,010
+Entonces, aunque nos tome 20 años...
+
+48
+00:04:37,210 --> 00:04:42,230
+...y el último de los clones en desarrollo,
+debemos proceder. No veo otra solución.
+
+49
+00:04:42,530 --> 00:04:44,000
+¿Algo más?
+
+50
+00:04:44,200 --> 00:04:46,020
+El Consejo de Ancianos te apoya.
+
+51
+00:04:46,220 --> 00:04:49,960
+Reconocemos tu sabiduría y apreciamos
+tu generosidad, Anciano.
+
+52
+00:04:50,160 --> 00:04:54,910
+Tomamos nuestra decisión sobre la base de nuestra
+lealtad hacia ti y hacia nuestros ancestros.
+
+53
+00:04:55,110 --> 00:05:00,010
+Entendemos la importancia de la misión, no solo
+para nosotros sino para toda la vida inteligente.
+
+54
+00:05:00,250 --> 00:05:05,100
+Procedan, pero no puede haber errores.
+
+55
+00:05:05,300 --> 00:05:09,210
+El futuro de todas las culturas, incluso
+el de la nuestra, está en sus manos.
+
+56
+00:05:09,940 --> 00:05:13,510
+Mientras tanto, la lucha por la paz en la Tierra
+se vuelve más agresiva.
+
+57
+00:05:14,200 --> 00:05:18,470
+Líder de escuadrón Veritech, hay disturbios
+en Nueva Detroit. ¿Puede acudir?
+
+58
+00:05:18,670 --> 00:05:21,960
+Enterado, control. Estamos aproximadamente
+a 3 minutos de Nueva Detroit.
+
+59
+00:05:22,370 --> 00:05:25,460
+Escuchen, estamos en alerta.
+Síganme.
+
+60
+00:05:26,260 --> 00:05:27,910
+Aquí vamos otra vez.
+
+61
+00:05:29,660 --> 00:05:33,470
+Los cazas Veritech se dirigen a mitigar
+una revuelta aparentemente normal...
+
+62
+00:05:33,670 --> 00:05:39,090
+...pero la gravedad del caos en Nueva Detroit
+sigue creciendo a cada momento.
+
+63
+00:05:39,380 --> 00:05:43,210
+¡Se robaron la cámara de Protocultura!
+¡Deténgalos!
+
+64
+00:05:43,770 --> 00:05:45,810
+¡De prisa! ¡Muévanse, muévanse!
+
+65
+00:05:46,320 --> 00:05:48,200
+No puedo conducir más rápido.
+
+66
+00:05:49,270 --> 00:05:51,600
+– Dispárenle a la cámara.
+– Enseguida.
+
+67
+00:05:57,760 --> 00:06:00,710
+– ¡Corran por sus vidas!
+– ¡Dispárenle a todo lo que se mueva!
+
+68
+00:06:01,040 --> 00:06:02,610
+¡Ahora somos libres!
+
+69
+00:06:03,510 --> 00:06:06,910
+Ya llegamos al lugar de los disturbios, control.
+Puedo verlos.
+
+70
+00:06:07,270 --> 00:06:10,260
+– Flanco izquierdo, baja y dales una advertencia.
+– Enterado.
+
+71
+00:06:10,530 --> 00:06:11,810
+¡Vamos!
+
+72
+00:06:13,990 --> 00:06:17,660
+¡Aviones detrás de nosotros! ¡Disparen!
+
+73
+00:06:18,450 --> 00:06:21,170
+Flanco izquierdo, baja al artillero
+de la unidad principal.
+
+74
+00:06:21,370 --> 00:06:25,210
+– Enterado. Voy bajando.
+– ¡Cuidado, dispárenle!
+
+75
+00:06:29,620 --> 00:06:31,630
+¡Detengan el vehículo!
+
+76
+00:06:32,970 --> 00:06:36,130
+¡Agárrense! ¡Cuidado!
+
+77
+00:06:37,200 --> 00:06:39,160
+No se muevan o serán destruidos.
+
+78
+00:06:39,930 --> 00:06:44,600
+No se resistan. Están rodeados.
+Deben comprender que su comportamiento...
+
+79
+00:06:44,800 --> 00:06:48,570
+...es inaceptable según los cánones humanos
+y que serán castigados. Háganse a un lado.
+
+80
+00:06:48,770 --> 00:06:50,920
+Vamos a asegurar la cámara de Protocultura.
+
+81
+00:06:51,340 --> 00:06:54,720
+Más al norte, bajo el hielo y la nieve,
+las naves de Khyron han aterrizado...
+
+82
+00:06:54,920 --> 00:06:59,830
+...y se ocultan de las fuerzas de la Tierra. Afuera,
+los alienígenas se preparan para combatir...
+
+83
+00:07:00,030 --> 00:07:01,610
+...pero adentro...
+
+84
+00:07:01,920 --> 00:07:04,680
+Idiota. Tu pobre plan ha vuelto a fracasar.
+
+85
+00:07:05,170 --> 00:07:09,200
+Lo siento, pero no pudieron eliminar ni el centro
+de comunicaciones ni a los Veritechs.
+
+86
+00:07:09,400 --> 00:07:13,150
+¡Basta, Grel! Nuestros soldados no pudieron
+siquiera defenderse.
+
+87
+00:07:13,350 --> 00:07:14,970
+Si me dejara--
+
+88
+00:07:15,170 --> 00:07:18,910
+¡Cállate, Grel! Tus habilidades de liderazgo
+han empeorado día a día.
+
+89
+00:07:19,340 --> 00:07:21,220
+Yo no diría--
+
+90
+00:07:21,420 --> 00:07:25,280
+¡No interrumpas! No deberías haber tenido problemas
+para capturar la cámara de Protocultura.
+
+91
+00:07:26,800 --> 00:07:29,980
+¡Sé que parece mi culpa,
+pero la verdad es que--!
+
+92
+00:07:30,180 --> 00:07:32,550
+¡No quiero más excusas!
+
+93
+00:07:32,750 --> 00:07:36,140
+¡Azonia, deja de discutir!
+¡Grel, quiero que me escuches!
+
+94
+00:07:36,340 --> 00:07:37,750
+Estoy escuchando.
+
+95
+00:07:37,950 --> 00:07:42,260
+Necesito esa cámara para salvar mi reputación...
+
+96
+00:07:42,460 --> 00:07:44,630
+...porque si no, el que pagará serás tú.
+
+97
+00:07:45,140 --> 00:07:48,490
+– ¿Me entiendes? ¡Ahora lárgate!
+– Sí, señor.
+
+98
+00:07:48,690 --> 00:07:51,550
+– Ahora, Grel.
+– Sí, señor, estoy yendo.
+
+99
+00:07:52,190 --> 00:07:55,860
+Entre nosotros, Khyron,
+¿crees que podrá hacerlo?
+
+100
+00:07:56,360 --> 00:08:00,640
+Por nuestro bien, espero que pueda
+hacer lo que dije.
+
+101
+00:08:00,960 --> 00:08:04,710
+– Tú sí sabes manejar a tus soldados, Khyron.
+– ¡Basta, Azonia!
+
+102
+00:08:05,480 --> 00:08:09,370
+Escucha, hay algo que no quise decir
+delante de Grel.
+
+103
+00:08:09,570 --> 00:08:13,730
+Iré por esa cámara de Protocultura yo mismo.
+No puedo confiar en que lo haga él.
+
+104
+00:08:13,930 --> 00:08:17,280
+Quiero que te quedes al mando aquí
+mientras yo no estoy.
+
+105
+00:08:17,530 --> 00:08:19,270
+Esto empieza a ponerse bueno.
+
+106
+00:08:20,770 --> 00:08:21,920
+Eso es.
+
+107
+00:08:22,120 --> 00:08:23,870
+Eso es. Solo un poco más.
+
+108
+00:08:24,880 --> 00:08:26,290
+¡Mira eso!
+
+109
+00:08:27,370 --> 00:08:29,800
+Muy bien. Sigan así.
+
+110
+00:08:30,230 --> 00:08:33,610
+Ahora despacio.
+Despacio, despacio.
+
+111
+00:08:34,710 --> 00:08:38,550
+Ahora bájenlo.
+Muy bien, muy bien.
+
+112
+00:08:39,150 --> 00:08:41,750
+Perfecto, perfecto.
+Un poquito más.
+
+113
+00:08:45,260 --> 00:08:46,450
+Es Minmei.
+
+114
+00:08:46,870 --> 00:08:50,050
+Mira, Minmei, ¿no es
+tu amigo, el Capitán Hunter?
+
+115
+00:08:50,250 --> 00:08:51,980
+Sí, es él.
+
+116
+00:08:52,700 --> 00:08:56,470
+Disculpe, Capitán Hunter, soy el Alcalde.
+¿Algún problema?
+
+117
+00:08:56,670 --> 00:08:59,020
+– Sí, señor.
+– ¿Puedo ayudar?
+
+118
+00:08:59,220 --> 00:09:02,710
+Sí, gracias. Necesito que provea
+la seguridad para este aparato.
+
+119
+00:09:02,910 --> 00:09:04,410
+Imposible.
+
+120
+00:09:04,610 --> 00:09:08,750
+Como puede ver, la mayoría de la población
+aquí es Zentraedi.
+
+121
+00:09:08,950 --> 00:09:13,500
+Me temo que este aparato, como Ud. lo llama,
+solo causaría desacuerdo entre la gente.
+
+122
+00:09:13,700 --> 00:09:15,390
+Todos saben para qué es.
+
+123
+00:09:15,590 --> 00:09:21,080
+Sí, estoy seguro de que Ud. sabe para qué es.
+Por eso necesito su ayuda.
+
+124
+00:09:21,750 --> 00:09:24,630
+Esta cámara de Protocultura
+debe ser protegida adecuadamente.
+
+125
+00:09:26,030 --> 00:09:28,860
+Algunos querrán abusar del poder
+si les damos la oportunidad.
+
+126
+00:09:29,060 --> 00:09:32,300
+Y el poder de esta cámara puede ser muy peligroso
+en las manos equivocadas.
+
+127
+00:09:34,480 --> 00:09:36,100
+¿Comprende mi problema?
+
+128
+00:09:36,300 --> 00:09:41,720
+Sé que Ud. no quiere problemas en Nueva Detroit,
+pero hay algo sobre lo que no quedan dudas.
+
+129
+00:09:41,920 --> 00:09:45,040
+– El mal uso de la cámara podría ser desastroso.
+– ¿Y qué puedo hacer?
+
+130
+00:09:45,240 --> 00:09:48,000
+Debemos colaborar todos para proteger
+la cámara de Protocultura.
+
+131
+00:09:48,200 --> 00:09:51,260
+– Ud. debe hacer su parte.
+– ¡Entonces di toda la verdad!
+
+132
+00:09:51,870 --> 00:09:54,580
+Este es un asunto castrense, Kyle.
+No interrumpas.
+
+133
+00:09:55,140 --> 00:09:57,430
+Es un asunto de todos.
+
+134
+00:09:57,630 --> 00:10:02,240
+Estamos hablando del derecho de los Zentraedi
+de volver a ser gigantes cuando quieran.
+
+135
+00:10:02,440 --> 00:10:06,910
+– ¿Estás bromeando?
+– Si eso crees, eres más tonto de lo que creía.
+
+136
+00:10:07,170 --> 00:10:10,910
+Y estoy seguro de que muchos en esta ciudad
+opinan como yo, ¿no es cierto?
+
+137
+00:10:11,910 --> 00:10:14,550
+Rick, vete de aquí antes
+de que haya problemas.
+
+138
+00:10:15,160 --> 00:10:18,320
+– ¿Ves lo que digo?
+– Oh, Minmei.
+
+139
+00:10:20,020 --> 00:10:21,710
+¿Lo entiendes?
+
+140
+00:10:23,130 --> 00:10:26,100
+¿Así que sigues enamorado de ella?
+
+141
+00:10:27,180 --> 00:10:28,580
+¡Escuchen!
+
+142
+00:10:28,780 --> 00:10:32,890
+¡Si les quitan el derecho de usar la cámara
+de Protocultura, será el primer paso hacia la ley marcial!
+
+143
+00:10:33,090 --> 00:10:36,180
+¡Debe ser controlada por ustedes!
+
+144
+00:10:36,800 --> 00:10:38,300
+¡Eso es, Kyle!
+
+145
+00:10:39,000 --> 00:10:40,600
+¡Escúchennos!
+
+146
+00:10:40,800 --> 00:10:44,180
+Súbete a tu avión y vete mientras puedas.
+
+147
+00:10:44,970 --> 00:10:48,920
+Por favor, escúchenme. Gracias.
+Sería mejor que estuviera a salvo...
+
+148
+00:10:49,120 --> 00:10:52,290
+...de los que la usarían en contra de Uds.
+y no poner en riesgo la ciudad.
+
+149
+00:10:52,490 --> 00:10:54,690
+Tus mentiras me dan náuseas.
+
+150
+00:10:58,000 --> 00:10:59,630
+¡Ya no toleraremos esto!
+
+151
+00:10:59,830 --> 00:11:01,480
+Están hablando en serio.
+
+152
+00:11:01,680 --> 00:11:05,080
+¡Ya oí suficiente!
+¡Esto es equipamiento militar!
+
+153
+00:11:05,280 --> 00:11:10,580
+¡Me han ordenado protegerla para que no caiga
+en las manos equivocadas y eso es lo que haré!
+
+154
+00:11:10,780 --> 00:11:12,370
+– ¿Ah, sí?
+– Eso lo veremos.
+
+155
+00:11:12,570 --> 00:11:15,680
+– Fue tu última advertencia.
+– ¡Que se vaya!
+
+156
+00:11:15,880 --> 00:11:17,510
+¡Que se vaya!
+
+157
+00:11:20,520 --> 00:11:22,380
+Por favor, Capitán, tiene que irse.
+
+158
+00:11:24,380 --> 00:11:25,980
+¡Que se vaya!
+
+159
+00:11:26,480 --> 00:11:29,780
+¿Cómo puedes hacerme esto, Kyle?
+
+160
+00:11:30,880 --> 00:11:33,880
+¡Rick, oh, Rick!
+¡Rick!
+
+161
+00:11:35,380 --> 00:11:39,180
+Los soldados de Khyron se reúnen para el ataque
+que amenaza con destruir Nueva Detroit.
+
+162
+00:11:39,380 --> 00:11:42,580
+Escúchenme. Somos los últimos
+verdaderos Zentraedi.
+
+163
+00:11:42,780 --> 00:11:45,470
+Debemos capturar la cámara de Protocultura.
+
+164
+00:11:45,770 --> 00:11:48,180
+Y si debemos sacrificarnos, lo haremos.
+
+165
+00:11:48,380 --> 00:11:51,280
+¡Habremos de tener éxito!
+¡Síganme!
+
+166
+00:12:01,620 --> 00:12:05,830
+...será interrumpido
+por estos mensajes urgentes
+
+167
+00:12:08,430 --> 00:12:12,300
+...retoma su transmisión
+
+168
+00:12:13,940 --> 00:12:17,740
+Más tarde, ese mismo día, dentro del Centro
+de Exposiciones de Nueva Detroit...
+
+169
+00:12:17,940 --> 00:12:21,040
+...la cámara de Protocultura
+es ubicada en su nuevo hogar.
+
+170
+00:12:22,640 --> 00:12:23,710
+Muy bien.
+
+171
+00:12:23,910 --> 00:12:25,240
+Buen trabajo.
+
+172
+00:12:25,440 --> 00:12:27,140
+¿Estará segura?
+
+173
+00:12:27,540 --> 00:12:29,740
+– Nada.
+– ¿Pasa algo, Sr. Alcalde?
+
+174
+00:12:30,240 --> 00:12:35,840
+Pensaba en las consecuencias de tener la cámara
+aquí en caso de que nos atacaran.
+
+175
+00:12:36,040 --> 00:12:38,040
+Espero haber hecho lo correcto.
+
+176
+00:12:38,640 --> 00:12:42,140
+Muchos Zentraedis amigables viven aquí.
+Ellos nos ayudarían.
+
+177
+00:12:42,740 --> 00:12:46,540
+– Espero que tenga razón.
+– Hicimos lo correcto y la gente lo agradecerá.
+
+178
+00:12:46,740 --> 00:12:50,140
+La cámara les pertenece a los Zentraedi.
+
+179
+00:12:51,140 --> 00:12:53,440
+No hay nada de qué preocuparse.
+Confíe en mí.
+
+180
+00:12:54,890 --> 00:12:56,240
+Adelante, flanco derecho.
+
+181
+00:12:56,440 --> 00:12:57,940
+Me molesta.
+
+182
+00:12:58,140 --> 00:13:01,040
+Todo ese poder aquí. No importa.
+
+183
+00:13:01,640 --> 00:13:03,140
+Hable tranquilo.
+
+184
+00:13:03,740 --> 00:13:08,040
+No quisiera que muriera gente inocente
+por culpa de un revoltoso.
+
+185
+00:13:08,540 --> 00:13:10,040
+Yo tampoco.
+
+186
+00:13:10,740 --> 00:13:12,340
+Recuerden nuestra misión.
+
+187
+00:13:12,640 --> 00:13:18,290
+Luchar hasta el final, conseguir la cámara
+de Protocultura aunque les cueste la vida.
+
+188
+00:13:21,940 --> 00:13:26,740
+Tiene razón. Sería buenísimo hacer un concierto
+de Minmei para promover la hermandad.
+
+189
+00:13:27,240 --> 00:13:30,640
+¿Y bien, Minmei?
+Lo hará con gusto.
+
+190
+00:13:31,140 --> 00:13:33,340
+Todos querrán venir a verla.
+
+191
+00:13:33,640 --> 00:13:37,640
+Por cierto, aquí caben 3000 personas
+y espere a ver el sistema de iluminación.
+
+192
+00:13:37,840 --> 00:13:40,840
+Abre la cortina, Pops, y enciende
+los reflectores principales.
+
+193
+00:13:41,040 --> 00:13:42,640
+Sí, Sr. Alcalde.
+
+194
+00:13:42,840 --> 00:13:47,240
+Minmei, ¿qué problema tienes?
+Vas a molestar al Alcalde.
+
+195
+00:13:47,640 --> 00:13:49,940
+– No tengo ganas de cantar.
+– ¿Por qué?
+
+196
+00:13:50,540 --> 00:13:55,540
+Porque no creo que la cámara esté segura aquí
+y por lo que le hiciste al Capitán Hunter.
+
+197
+00:13:55,740 --> 00:14:00,040
+– Él me salvó la vida.
+– Lo dices como si hubiera hecho algo más.
+
+198
+00:14:00,240 --> 00:14:04,240
+– Me preguntaste y te lo conté.
+– No quiero verte tan triste.
+
+199
+00:14:04,940 --> 00:14:08,640
+Aquí estamos a salvo
+y no le pasó nada a tu aviador.
+
+200
+00:14:08,840 --> 00:14:10,450
+¡Listo, Sr. Alcalde!
+
+201
+00:14:11,540 --> 00:14:12,920
+¿Qué les parece?
+
+202
+00:14:13,240 --> 00:14:16,340
+– El lugar es espléndido, señor.
+– Gracias.
+
+203
+00:14:18,540 --> 00:14:21,040
+– ¿Qué fue eso?
+– Para mí fue una explosión.
+
+204
+00:14:22,140 --> 00:14:23,640
+¡Salgamos rápido!
+
+205
+00:14:37,740 --> 00:14:40,540
+Me temo que nuestro mayor temor
+ se ha hecho realidad.
+
+206
+00:14:40,740 --> 00:14:42,240
+¡Miren!
+
+207
+00:14:42,540 --> 00:14:44,040
+¡Corran por sus vidas!
+
+208
+00:14:50,540 --> 00:14:54,840
+En el centro de conferencias del SDF-1,
+ignorantes del ataque en Nueva Detroit...
+
+209
+00:14:55,040 --> 00:14:57,040
+Tuvimos que irnos, Almirante.
+
+210
+00:14:57,940 --> 00:15:01,740
+Los felicito por hacer uso de la razón
+en una situación tan delicada.
+
+211
+00:15:01,940 --> 00:15:03,010
+Exedore.
+
+212
+00:15:03,210 --> 00:15:07,040
+Terminé mi investigación sobre la relación
+entre la Protocultura y los Zentraedi.
+
+213
+00:15:08,340 --> 00:15:12,340
+Fueron desarrollados por los Maestros de la Robotechnia
+con el único propósito del combate.
+
+214
+00:15:12,540 --> 00:15:15,840
+¿Otros seres crearon nuestra raza
+a partir de la Protocultura?
+
+215
+00:15:18,140 --> 00:15:20,340
+– Correcto.
+– Es lo que yo pensaba.
+
+216
+00:15:20,540 --> 00:15:22,240
+Corrígeme, Exedore.
+
+217
+00:15:23,040 --> 00:15:27,440
+Hace 500.000 años, esa raza descubrió
+y desarrolló la Protocultura.
+
+218
+00:15:27,840 --> 00:15:31,340
+Estaban orgullosos de su civilización
+avanzada y poderosa.
+
+219
+00:15:31,540 --> 00:15:36,110
+Luego de descubrir la Robotechnología, decidieron
+desarrollar una fuerza policial intergaláctica...
+
+220
+00:15:36,310 --> 00:15:39,440
+...para protegerse de alienígenas hostiles.
+
+221
+00:15:39,640 --> 00:15:45,340
+Con ingeniería protogenética, crearon una raza
+de gigantes para luchar y así mantener la paz.
+
+222
+00:15:45,740 --> 00:15:48,740
+Pero los gigantes tenían ideas propias.
+
+223
+00:15:49,840 --> 00:15:53,740
+Una programación incorrecta sumada
+a su gran tamaño terminaron siendo un problema.
+
+224
+00:15:55,340 --> 00:15:59,030
+Pronto, comenzaron a pelear entre ellos.
+Luego se dieron cuenta...
+
+225
+00:15:59,230 --> 00:16:02,940
+...de que eran superiores físicamente a sus creadores
+y que nada los detendría.
+
+226
+00:16:03,640 --> 00:16:06,540
+Si hubieran sido originalmente programados
+con sentimientos y emociones...
+
+227
+00:16:06,740 --> 00:16:12,240
+...como el amor, la confianza y la empatía, tal vez
+no habrían existido ni los combates ni la destrucción.
+
+228
+00:16:13,140 --> 00:16:15,540
+Entonces, la gran civilización Robotech
+colapsó...
+
+229
+00:16:15,740 --> 00:16:18,840
+...en el medio de los combates de los gigantes
+que ellos habían creado.
+
+230
+00:16:19,340 --> 00:16:22,840
+– Y esos gigantes evolucionaron en los Zentraedi.
+– Excelente, Almirante.
+
+231
+00:16:23,440 --> 00:16:28,440
+Gracias, Exedore.
+Si no hay más preguntas, continuemos.
+
+232
+00:16:37,770 --> 00:16:42,140
+Recibo altas lecturas de actividad Reflex.
+Esa cámara será mía.
+
+233
+00:16:42,640 --> 00:16:45,340
+Acérquense todos a mi señal
+de inmediato.
+
+234
+00:16:50,590 --> 00:16:53,180
+¿Qué he hecho?
+¿Qué he hecho?
+
+235
+00:16:53,380 --> 00:16:56,380
+Ya pasaron nuestra posición.
+Se dirigen hacia Uds.
+
+236
+00:16:57,020 --> 00:16:59,420
+El final puede estar cerca.
+
+237
+00:17:24,520 --> 00:17:26,890
+¡Perdimos la cámara de Protocultura!
+
+238
+00:17:28,040 --> 00:17:31,440
+Antes de seguir, Almirante,
+deberíamos debatir.
+
+239
+00:17:32,040 --> 00:17:35,190
+Estoy asombrado de que sepa tanto
+de nuestra raza.
+
+240
+00:17:35,590 --> 00:17:38,840
+Yo tengo una pregunta. ¿Los terrícolas también
+fueron diseñados con Protocultura?
+
+241
+00:17:39,040 --> 00:17:41,290
+Yo diría que no.
+
+242
+00:17:41,490 --> 00:17:44,940
+Entonces, Exedore, ¿por qué nuestras
+estructuras genéticas son idénticas?
+
+243
+00:17:45,440 --> 00:17:47,640
+Una coincidencia de la ingeniería genética.
+
+244
+00:17:48,370 --> 00:17:49,640
+Por favor, explique mejor.
+
+245
+00:17:49,840 --> 00:17:53,240
+La ingeniería protogenética podría haber
+influenciado a sus predecesores.
+
+246
+00:17:53,440 --> 00:17:56,940
+– Pero ellos no fueron creados con Protocultura.
+– ¿Una coincidencia?
+
+247
+00:17:57,140 --> 00:18:00,090
+Las chances son de una
+en mil trillones.
+
+248
+00:18:00,290 --> 00:18:03,040
+Y las chances de que coexistamos juntos...
+
+249
+00:18:03,240 --> 00:18:05,640
+...podrían ser aun menores.
+
+250
+00:18:05,840 --> 00:18:09,240
+La verdad es que nuestras razas son similares,
+pero no son iguales.
+
+251
+00:18:10,140 --> 00:18:13,530
+Mi raza, por medio de la Protocultura,
+fue privada de todo...
+
+252
+00:18:13,730 --> 00:18:19,170
+...salvo del deseo de combatir. Mi gente evolucionó
+como los juguetes de nuestros creadores...
+
+253
+00:18:19,370 --> 00:18:22,370
+...los Maestros de la Robotechnia.
+Juguetes para la destrucción.
+
+254
+00:18:22,570 --> 00:18:26,740
+A pesar de todo el diálogo sobre los combates,
+el SDF-1 no es más que una carcasa inútil...
+
+255
+00:18:26,940 --> 00:18:30,340
+...que quedó de la gran batalla
+que acabó con la armada de Dolza.
+
+256
+00:18:30,640 --> 00:18:33,840
+“Juguetes para la destrucción”,
+así llamó a los Zentraedi.
+
+257
+00:18:36,040 --> 00:18:38,740
+“Programados genéticamente para combatir”,
+es muy triste.
+
+258
+00:18:38,940 --> 00:18:41,140
+Se parecen a nosotros.
+
+259
+00:18:42,240 --> 00:18:43,940
+¿No estamos siempre peleando?
+
+260
+00:18:44,140 --> 00:18:46,240
+Por favor, Lisa, eso no es justo.
+
+261
+00:18:47,340 --> 00:18:50,140
+No trataba de ser justa.
+Solo dije lo que pensaba.
+
+262
+00:18:50,540 --> 00:18:53,240
+Rick, Lisa, menos mal que los encuentro.
+
+263
+00:18:53,640 --> 00:18:57,080
+– ¿Qué pasa?
+– Hay Zentraedis atacando Nueva Detroit.
+
+264
+00:18:57,280 --> 00:19:01,140
+– ¿Cuándo?
+– Se perdió la señal hace 10 minutos.
+
+265
+00:19:01,340 --> 00:19:05,120
+No hay teléfono tampoco. Una nave
+de reconocimiento vio el combate.
+
+266
+00:19:05,680 --> 00:19:07,140
+¡No es tu culpa, Rick!
+
+267
+00:19:07,340 --> 00:19:10,240
+Yo sabía que algo así iba a ocurrir.
+
+268
+00:19:11,760 --> 00:19:13,560
+Líder de Skull, puede despegar.
+
+269
+00:19:21,960 --> 00:19:25,460
+Yo diría que, sin importar cuánto estemos
+expuestos a los humanos...
+
+270
+00:19:25,660 --> 00:19:27,960
+...los Zentraedi seguiremos siendo
+una raza que ama la guerra.
+
+271
+00:19:28,160 --> 00:19:32,960
+Sí, pero mucha de tu gente ha descubierto un tipo
+de vida diferente en la Tierra, Exedore.
+
+272
+00:19:33,560 --> 00:19:35,260
+No seas tan duro contigo.
+
+273
+00:19:35,760 --> 00:19:40,060
+El Almirante Gloval tiene razón. Muchos Zentraedi
+apoyaron la paz desde el comienzo.
+
+274
+00:19:40,860 --> 00:19:45,560
+Muchos querían la paz, pero me preocupan
+los que aún quieren pelear.
+
+275
+00:19:46,060 --> 00:19:47,960
+Lo entiende, ¿verdad, Almirante?
+
+276
+00:19:48,360 --> 00:19:52,960
+¿No es extraño
+que las civilizaciones progresen...
+
+277
+00:19:53,760 --> 00:19:56,360
+...y nunca hay una solución
+para el problema de la guerra?
+
+278
+00:19:56,560 --> 00:19:59,160
+– ¡Cuán cierto!
+– Eso también es válido para los humanos.
+
+279
+00:19:59,360 --> 00:20:02,760
+De hecho, no hay especie en el cosmos
+que le haya dado la espalda a la guerra.
+
+280
+00:20:03,660 --> 00:20:05,980
+Con pesar, admito que es cierto.
+
+281
+00:20:06,360 --> 00:20:08,460
+Aunque desearía
+que no fuera así.
+
+282
+00:20:12,460 --> 00:20:14,260
+No puedo creer
+que esto haya pasado.
+
+283
+00:20:14,850 --> 00:20:19,060
+Era responsabilidad mía
+asegurar la cámara de Protocultura.
+
+284
+00:20:19,560 --> 00:20:22,260
+Dejé que Kyle y esas personas
+me influenciaran, y ahora...
+
+285
+00:20:22,860 --> 00:20:26,460
+...¡miren esto! Si hubiera seguido mis órdenes,
+nada de esto habría pasado.
+
+286
+00:20:27,360 --> 00:20:32,210
+Mientras Rick y su escuadrón Veritech evalúan
+los daños y buscan la cámara de Protocultura...
+
+287
+00:20:32,410 --> 00:20:36,260
+...un drama humano cobra importancia
+entre los escombros.
+
+288
+00:20:36,760 --> 00:20:39,560
+– ¡Vamos!
+– ¡Apúrate, Kyle, podrían volver!
+
+289
+00:20:39,760 --> 00:20:41,260
+Hago lo mejor que puedo.
+
+290
+00:20:42,460 --> 00:20:44,560
+Maldita pila de chatarra.
+
+291
+00:20:45,260 --> 00:20:49,660
+¿Por qué dejé que Kyle
+le hiciera eso a Rick?
+
+292
+00:20:49,860 --> 00:20:52,890
+Y ahora miren este lío.
+Si hubiera ayudado a Rick--
+
+293
+00:20:53,090 --> 00:20:54,590
+¡Muy bien!
+
+294
+00:20:55,060 --> 00:20:56,560
+¡Sube, Minmei!
+
+295
+00:20:58,760 --> 00:21:01,860
+¡Minmei, dije que subieras!
+¡Apúrate, vámonos!
+
+296
+00:21:02,560 --> 00:21:05,960
+Khyron ha llevado la cámara de Protocultura
+a su nave de comando.
+
+297
+00:21:06,460 --> 00:21:10,210
+La fila de Zentraedis crece cada vez más,
+minuto a minuto...
+
+298
+00:21:10,410 --> 00:21:14,860
+...para que sean convertidos en la raza
+de guerreros gigantes que una vez fueron.
+
+299
+00:21:15,060 --> 00:21:17,760
+A medida que cada Zentraedi
+sale de la cámara...
+
+300
+00:21:17,960 --> 00:21:20,660
+...y a medida que su ejército
+crece cada vez más...
+
+301
+00:21:20,860 --> 00:21:22,660
+...Khyron celebra.
+
+302
+00:21:31,160 --> 00:21:34,610
+Ahora que poseo la cámara, reconstruiré
+mi ejército y los destruiré a todos.
+
+303
+00:21:41,360 --> 00:21:43,360
+Bueno, ya voy.
+
+304
+00:21:47,780 --> 00:21:49,160
+¡Minmei!
+
+305
+00:21:49,360 --> 00:21:50,660
+Sostén esto.
+
+306
+00:21:52,460 --> 00:21:55,360
+Kyle, por favor, espera un momento.
+Ese es Rick.
+
+307
+00:21:57,260 --> 00:21:58,660
+¡Estamos atrasados!
+
+308
+00:21:58,860 --> 00:22:00,460
+¡Hola!
+¡Esperen!
+
+309
+00:22:00,660 --> 00:22:02,160
+¡Soy yo!
+¡Esperen!
+
+310
+00:22:03,460 --> 00:22:04,960
+Minmei.
+
+311
+00:22:05,360 --> 00:22:06,960
+¡Date vuelta, Minmei!
+
+312
+00:22:07,860 --> 00:22:09,360
+Adiós, Rick.
+
+313
+00:22:13,060 --> 00:22:15,110
+¿Por qué no se detuvieron?
+
+314
+00:22:15,460 --> 00:22:18,860
+Espero que esté a salvo
+con todos los combates al sur.
+
+315
+00:22:19,360 --> 00:22:21,080
+¿Cuándo terminará
+todo esto?
+
+316
+00:22:21,960 --> 00:22:24,760
+No hay especie que le haya dado
+la espalda a la guerra.
+
+317
+00:22:25,360 --> 00:22:28,360
+Y las chances de que coexistamos juntos,
+podrían ser aun menores.
+
+318
+00:22:28,560 --> 00:22:31,760
+Mi raza, por medio de la Protocultura,
+fue privada de todo...
+
+319
+00:22:31,960 --> 00:22:34,060
+...salvo del deseo de combatir.
+
+320
+00:22:35,260 --> 00:22:38,360
+Fuimos desarrollados como juguetes
+para nuestros creadores...
+
+321
+00:22:38,560 --> 00:22:40,560
+...los Maestros de la Robotechnia.
+
+322
+00:22:41,360 --> 00:22:44,460
+Somos juguetes para la destrucción.
+
+323
+00:22:48,240 --> 00:22:49,740
+En el próximo episodio...
+
+324
+00:22:49,940 --> 00:22:52,740
+...Khyron logra capturar a Minmei y a Kyle.
+
+325
+00:22:52,940 --> 00:22:56,540
+Los usa para obtener el control del SDF-1.
+
+326
+00:22:56,740 --> 00:22:59,640
+La misión para rescatar a las celebridades
+más honradas de la Tierra...
+
+327
+00:22:59,840 --> 00:23:01,540
+...se vuelve un pandemónium.
+
+328
+00:23:01,740 --> 00:23:04,340
+No se pierdan «El desengaño»...
+
+329
+00:23:04,540 --> 00:23:08,040
+...el más reciente capítulo en la increíble saga
+de “Robotech”.
+
+330
+00:23:42,530 --> 00:23:48,140
+Traducción y subtitulado: ADRIÁN BERGONZI
+http://robotech.scriptmania.com
+

@@ -1,0 +1,1327 @@
+1
+00:01:30,350 --> 00:01:34,420
+Cálculos de fluctuaciones orbitales, completos.
+Señal fija, Control.
+
+2
+00:01:34,620 --> 00:01:37,520
+Escolta del transbordador, T menos 50 y contando.
+
+3
+00:01:36,230 --> 00:01:41,130
+VIVA MIRIYA
+
+4
+00:01:38,150 --> 00:01:41,900
+– Debe despegar en T menos diez.
+– Escolta V-0112, ¿su rastreo gravitacional?
+
+5
+00:01:42,100 --> 00:01:43,830
+Prepárense para intervalo
+de lanzamiento.
+
+6
+00:01:44,030 --> 00:01:47,920
+Torre, aquí V-0112, perdón por la confusión...
+
+7
+00:01:48,120 --> 00:01:50,220
+...con el sistema de manejo.
+
+8
+00:01:50,510 --> 00:01:53,880
+– Tenga más cuidado la próxima.
+– Evacúen el área del despegue.
+
+9
+00:01:54,410 --> 00:01:57,960
+Transbordador a torre de control, todo en orden.
+Esperamos luz verde.
+
+10
+00:01:58,160 --> 00:01:59,420
+Enterado.
+
+11
+00:01:59,830 --> 00:02:02,790
+Es increíble.
+Ha pasado tanto tiempo...
+
+12
+00:02:02,990 --> 00:02:05,320
+...que ya empezaba a extrañar
+el espacio profundo.
+
+13
+00:02:05,520 --> 00:02:09,320
+La importancia de esta misión fue razón suficiente
+para que me ofreciera como voluntario.
+
+14
+00:02:09,520 --> 00:02:13,160
+Gloval sí que tuvo una idea loca esta vez.
+
+15
+00:02:13,360 --> 00:02:17,190
+Despegue inminente.
+Repito, despegue inminente.
+
+16
+00:02:17,460 --> 00:02:19,500
+T menos 10 segundos y contando.
+
+17
+00:02:19,910 --> 00:02:21,680
+Nueve, ocho...
+
+18
+00:02:22,050 --> 00:02:24,700
+...siete, seis, cinco...
+
+19
+00:02:25,100 --> 00:02:26,670
+...cuatro, tres...
+
+20
+00:02:26,870 --> 00:02:28,420
+...dos, uno--
+
+21
+00:02:28,750 --> 00:02:30,180
+Despegue.
+
+22
+00:02:30,380 --> 00:02:31,570
+Despegue.
+
+23
+00:02:36,540 --> 00:02:38,260
+Suelten propulsor principal...
+
+24
+00:02:38,460 --> 00:02:39,860
+...ahora.
+
+25
+00:02:41,780 --> 00:02:44,340
+Se reunirán con la nave nodriza Zentraedi.
+
+26
+00:02:44,540 --> 00:02:47,610
+Una vez allí, recibirán sus órdenes.
+
+27
+00:02:47,810 --> 00:02:52,190
+El Comdte. Breetai estará a cargo,
+por razones que luego comprenderán.
+
+28
+00:03:01,980 --> 00:03:06,790
+Atención a todo el personal
+en zonas de acople D-24 y D-25...
+
+29
+00:03:07,080 --> 00:03:11,430
+...el transbordador Microniano está finalizando
+las maniobras de acople en la plataforma superior.
+
+30
+00:03:13,030 --> 00:03:14,720
+Bienvenidos, Micronianos.
+
+31
+00:03:14,920 --> 00:03:18,160
+Gracias, nos alegra estar aquí.
+
+32
+00:03:18,360 --> 00:03:20,050
+Bajemos.
+
+33
+00:03:22,910 --> 00:03:25,900
+Claudia, Lisa y el resto
+de la tripulación del SDF-1...
+
+34
+00:03:26,100 --> 00:03:28,740
+...reciben una cálida bienvenida
+por parte de Breetai...
+
+35
+00:03:28,940 --> 00:03:32,540
+...y se preguntan por qué se les oculta
+el propósito de la misión.
+
+36
+00:03:32,770 --> 00:03:38,270
+– Bienvenidos, amigos Micronianos.
+– Saludos, Su Excelencia, para servirle.
+
+37
+00:03:38,960 --> 00:03:42,400
+Me alegra verte y tenerte de nuevo en la nave.
+
+38
+00:03:43,790 --> 00:03:44,730
+Gracias.
+
+39
+00:03:44,930 --> 00:03:49,590
+Me honra tenerlos a mis órdenes.
+
+40
+00:03:49,790 --> 00:03:52,340
+Esta oportunidad es un honor para nosotros.
+
+41
+00:03:52,660 --> 00:03:57,560
+Gracias. Como sabrán, mi gente
+no está acostumbrada a tanta hermosura.
+
+42
+00:03:58,060 --> 00:04:03,820
+No se sorprendan si hay reacciones extrañas.
+Ahora los llevaré a sus habitaciones.
+
+43
+00:04:06,020 --> 00:04:10,300
+¡Qué cambio, de un implacable guerrero
+a un amigable anfitrión!
+
+44
+00:04:10,500 --> 00:04:12,420
+Esta misión cada vez es más extraña.
+
+45
+00:04:12,620 --> 00:04:15,260
+Baja la cápsula de la cuna.
+
+46
+00:04:17,980 --> 00:04:19,380
+Ahí va.
+
+47
+00:04:28,400 --> 00:04:30,890
+Hola, ¿qué tal?
+
+48
+00:04:34,800 --> 00:04:36,110
+¡Sana y salva!
+
+49
+00:04:41,850 --> 00:04:44,950
+– ¿Alguna fluctuación en el satélite fábrica?
+– Negativo.
+
+50
+00:04:45,150 --> 00:04:48,390
+– Mantiene estasis solar.
+– Informen si hay cambios.
+
+51
+00:04:48,590 --> 00:04:49,960
+Sí, señor.
+
+52
+00:04:53,160 --> 00:04:54,810
+Piensa en un plan, Breetai.
+
+53
+00:04:56,190 --> 00:05:00,260
+Si logramos convencer a Reno de que poseemos
+la Protocultura, no será difícil...
+
+54
+00:05:00,460 --> 00:05:05,160
+...hacerlo cooperar. De lo contrario, nuestras fuerzas
+se verán en seria desventaja numérica.
+
+55
+00:05:06,070 --> 00:05:11,820
+Pero no poseemos nada de Protocultura. ¿Cómo los
+convenceremos? Si es que tenemos la oportunidad.
+
+56
+00:05:12,110 --> 00:05:17,140
+La tendremos. Ahora, la preocupación es entrar
+al hiperespacio, ¿no creen?
+
+57
+00:05:17,890 --> 00:05:20,730
+¿Recuerdas la última vez que estuvimos en esta nave?
+
+58
+00:05:21,270 --> 00:05:28,030
+Como prisioneros, no fue divertido. Espero no volver
+a ver a Breetai del otro lado de un rifle láser.
+
+59
+00:05:28,360 --> 00:05:32,750
+Después de estar bajo las órdenes de Gloval,
+será interesante ver cómo es su ex enemigo.
+
+60
+00:05:32,950 --> 00:05:36,750
+– Ojalá supiera más de la misión.
+– Iremos al espacio...
+
+61
+00:05:36,950 --> 00:05:40,250
+...y Gloval me pidió que trajera a mi familia.
+
+62
+00:05:40,450 --> 00:05:42,960
+¿Para qué quiere a Dana en el espacio?
+
+63
+00:05:43,560 --> 00:05:47,370
+Todas las polaridades dentro de los hornos Reflex
+se han estabilizado, Comandante.
+
+64
+00:05:47,890 --> 00:05:50,060
+Cálculos completos, Su Excelencia.
+
+65
+00:05:50,930 --> 00:05:53,660
+Ya podemos iniciar la transposición.
+
+66
+00:05:54,320 --> 00:05:57,510
+Gracias.
+¡Comiencen con la operación de transposición!
+
+67
+00:06:04,530 --> 00:06:07,200
+Sí, puedo sentirlo. Comencemos.
+
+68
+00:06:07,400 --> 00:06:11,940
+En algún lugar de otra galaxia,
+los Maestros de la Robotechnia...
+
+69
+00:06:12,140 --> 00:06:14,990
+...intentan resucitar un ser parecido a Zor...
+
+70
+00:06:15,190 --> 00:06:18,110
+...quien se llevó a la tumba
+los secretos de la Protocultura...
+
+71
+00:06:18,740 --> 00:06:22,510
+...que siguen ocultos a bordo del inerte SDF-1.
+
+72
+00:06:23,390 --> 00:06:26,930
+– Comiencen con la síntesis priónica.
+– Sí, Maestro.
+
+73
+00:06:36,030 --> 00:06:38,630
+Alteración de bombardeo positrónico.
+
+74
+00:06:40,020 --> 00:06:43,750
+Se registra una inversión celular bilateral.
+Comienzo de sínfisis.
+
+75
+00:06:44,990 --> 00:06:47,550
+La sinapsis craneana sigue sin responder.
+
+76
+00:06:47,750 --> 00:06:52,180
+Desintegración de las subestructuras moleculares,
+al igual que en los intentos anteriores.
+
+77
+00:06:52,380 --> 00:06:57,090
+Creo que quitamos el clon de la suspensión
+antes de la maduración total.
+
+78
+00:06:57,290 --> 00:06:59,550
+Debemos estimular las funciones vitales,
+de todas formas.
+
+79
+00:07:00,200 --> 00:07:03,520
+Sugiero que alteremos el bombardeo priónico
+de los estratos superiores.
+
+80
+00:07:03,770 --> 00:07:08,120
+Lo intentaremos. Aumentando bombardeo priónico
+en incrementos de a cuatro.
+
+81
+00:07:08,550 --> 00:07:11,370
+La emisión de positrones se encuentra
+en su máxima capacidad.
+
+82
+00:07:11,570 --> 00:07:14,170
+Bien. La agitación celular es crítica.
+
+83
+00:07:17,180 --> 00:07:18,470
+Es inútil.
+
+84
+00:07:18,980 --> 00:07:22,470
+No podemos desperdiciar
+más solución para suspensión.
+
+85
+00:07:22,960 --> 00:07:25,470
+Es tan tranquila, Max.
+
+86
+00:07:27,770 --> 00:07:29,890
+Hablemos bajo para no despertarla.
+
+87
+00:07:31,930 --> 00:07:36,450
+La pequeña Dana estuvo conmigo toda la tarde
+y no lloró ni una vez.
+
+88
+00:07:36,650 --> 00:07:40,460
+A veces envidio a Max y a Miriya
+por tener una bebita tan hermosa.
+
+89
+00:07:44,530 --> 00:07:46,640
+Llegamos. Nos vemos mañana.
+
+90
+00:07:47,340 --> 00:07:48,910
+Que duermas bien, Lisa.
+
+91
+00:07:49,180 --> 00:07:50,730
+– Buenas noches.
+– Buenas noches, Lisa.
+
+92
+00:07:50,930 --> 00:07:54,040
+Rick, si tienes un segundo,
+quiero que me esperes en mi habitación.
+
+93
+00:07:54,240 --> 00:07:56,240
+Hay algo de lo que quiero hablarte.
+
+94
+00:07:56,540 --> 00:08:00,040
+– Pero--
+– Le recuerdo, Comandante, ella es la capitana.
+
+95
+00:08:00,300 --> 00:08:03,600
+– Pero ya no estoy de servicio.
+– Ella tampoco.
+
+96
+00:08:03,920 --> 00:08:07,160
+– ¿En qué puedo ayudarte, Lisa?
+– Gracias por eso, Claudia.
+
+97
+00:08:07,740 --> 00:08:11,740
+– Es bueno que alguien te entienda a veces.
+– Sé lo que quieres decir.
+
+98
+00:08:13,080 --> 00:08:16,360
+A veces la vida es difícil.
+Cuando te das cuenta de que estás enamorada.
+
+99
+00:08:17,630 --> 00:08:20,140
+Que no se te escape.
+Buenas noches, querida.
+
+100
+00:08:32,300 --> 00:08:34,610
+Espero que esos dos
+se puedan entender.
+
+101
+00:08:41,990 --> 00:08:43,490
+Linda pareja.
+
+102
+00:08:51,400 --> 00:08:54,170
+– Lo siento, no quise hurgar tus cosas.
+– ¿Qué quieres decir?
+
+103
+00:08:54,370 --> 00:08:57,740
+No tengo nada que ocultar.
+Siéntete como en tu casa.
+
+104
+00:08:58,410 --> 00:09:00,780
+Está bien. ¿Hablaste con Claudia?
+
+105
+00:09:01,100 --> 00:09:04,860
+Sí, fue una pequeña charla.
+¿Quieres un té?
+
+106
+00:09:05,710 --> 00:09:07,760
+Sí, me gustaría un té. Gracias.
+
+107
+00:09:08,170 --> 00:09:10,350
+No me pareció una pequeña charla.
+
+108
+00:09:10,550 --> 00:09:15,460
+– La verdad, hablamos de ti.
+– Si es sobre Minmei y yo, no quiero oírlo.
+
+109
+00:09:16,070 --> 00:09:20,260
+No era sobre Minmei.
+¿Para qué querría yo hablar sobre ella?
+
+110
+00:09:20,540 --> 00:09:23,760
+Lo siento, Lisa,
+pero no nos hemos visto en varios meses.
+
+111
+00:09:26,450 --> 00:09:29,260
+Sé lo que sientes por ella, así que...
+
+112
+00:09:29,460 --> 00:09:34,850
+...no hay más que decir.
+No sé por qué, pero a veces siento que tú...
+
+113
+00:09:36,330 --> 00:09:40,290
+– ...que tú sientes que en tu vida falta algo.
+– ¿Qué?, ¿que en vida falta algo?
+
+114
+00:09:41,730 --> 00:09:43,500
+¿De qué estás hablando?
+
+115
+00:09:44,350 --> 00:09:47,590
+– Rick, sabes bien--
+– Lisa Hayes, preséntese en el puente.
+
+116
+00:09:47,790 --> 00:09:49,560
+Capitana Hayes, al puente.
+
+117
+00:09:49,760 --> 00:09:54,560
+El momento justo.
+Una vez más te salvó la campana.
+
+118
+00:09:55,860 --> 00:09:57,360
+Adiós, Rick.
+
+119
+00:09:57,630 --> 00:09:59,700
+Lo intentaremos en otra ocasión.
+
+120
+00:10:04,970 --> 00:10:07,160
+A sus órdenes, Comandante Breetai.
+
+121
+00:10:10,580 --> 00:10:13,510
+– ¿Pero qué es eso?
+– Eso, Comandante Grant...
+
+122
+00:10:13,710 --> 00:10:18,380
+...es una nave de nuestras fuerzas de reconocimiento.
+Un modelo nuevo, si no me equivoco.
+
+123
+00:10:18,780 --> 00:10:20,910
+Nunca vi nada parecido.
+
+124
+00:10:21,110 --> 00:10:23,930
+– No me extraña.
+– Deme un informe de situación, Exedore.
+
+125
+00:10:24,130 --> 00:10:28,500
+Es una nave de reconocimiento
+de última generación...
+
+126
+00:10:29,110 --> 00:10:32,570
+...modificada para entrar al hiperespacio.
+
+127
+00:10:32,770 --> 00:10:35,050
+No detecto actividad biológica.
+
+128
+00:10:35,250 --> 00:10:39,010
+– Comandante, debemos investigarla.
+– De ninguna manera.
+
+129
+00:10:39,210 --> 00:10:42,700
+¿No sería posible que hayan obviado
+algún detalle?
+
+130
+00:10:42,900 --> 00:10:44,900
+¿No hay margen de error?
+
+131
+00:10:45,350 --> 00:10:49,110
+La información obtenida
+está de acuerdo al código galáctico.
+
+132
+00:10:49,460 --> 00:10:53,760
+– No hay posibilidad de error.
+– No podemos perder una oportunidad como esta.
+
+133
+00:10:54,060 --> 00:10:58,160
+Su compasión es admirable,
+pero esto podría ser una trampa.
+
+134
+00:10:59,490 --> 00:11:04,410
+Los Zentraedi somos conocidos por
+los “caballos de Troya”, como Uds. los llaman.
+
+135
+00:11:04,610 --> 00:11:08,500
+La misión es demasiado importante
+para ponerla en riesgo, Lisa. ¿No lo entiendes?
+
+136
+00:11:08,960 --> 00:11:10,680
+Supongo que tienes razón.
+
+137
+00:11:12,270 --> 00:11:14,800
+Bien, continuemos con la misión.
+
+138
+00:11:15,100 --> 00:11:17,610
+Entraremos al hiperespacio cuando dé la orden.
+
+139
+00:11:20,420 --> 00:11:24,260
+La nave de Breetai ingresa al hiperespacio
+como un último recurso...
+
+140
+00:11:24,460 --> 00:11:26,940
+...por obtener la Protocultura.
+
+141
+00:11:27,420 --> 00:11:31,550
+Una vez más se sumergen en el espacio profundo
+para lograr lo imposible.
+
+142
+00:11:32,490 --> 00:11:37,530
+...regresará enseguida,
+así que no se vayan
+
+143
+00:11:41,870 --> 00:11:44,310
+...está de vuelta
+
+144
+00:11:44,680 --> 00:11:47,640
+Más allá de las galaxias,
+a cientos de pársecs de la Tierra...
+
+145
+00:11:47,840 --> 00:11:50,740
+...la nave insignia surge del hiperespacio.
+
+146
+00:11:50,940 --> 00:11:56,520
+Finalmente, se acercan al objeto de su misión.
+El satélite fábrica Robotech de Protocultura.
+
+147
+00:11:57,700 --> 00:12:00,140
+Estimados colegas, hemos llegado.
+
+148
+00:12:00,340 --> 00:12:03,920
+Nunca había visto algo tan increíble
+en toda mi vida.
+
+149
+00:12:04,700 --> 00:12:07,410
+¡Qué poderes deben hacer falta
+para crear algo así!
+
+150
+00:12:08,020 --> 00:12:10,640
+Es difícil creer que algo así pueda existir.
+
+151
+00:12:10,970 --> 00:12:12,820
+Será mejor que lo crean.
+
+152
+00:12:13,680 --> 00:12:16,820
+Max, recuerda, deben creer
+que poseemos la Protocultura.
+
+153
+00:12:17,020 --> 00:12:18,340
+Sí, Capitana.
+
+154
+00:12:19,210 --> 00:12:21,280
+Cazas, listos para despegar.
+
+155
+00:12:21,710 --> 00:12:24,120
+Envíen al Cap. Hunter al puente, por favor.
+
+156
+00:12:24,320 --> 00:12:25,620
+Sí, señor.
+
+157
+00:12:26,480 --> 00:12:31,900
+– ¿Qué tiene en mente, Breetai?
+– Me disculpo por no haberla informado antes.
+
+158
+00:12:32,100 --> 00:12:35,920
+¿Se da cuenta de que será necesario
+crear una distracción?
+
+159
+00:12:36,340 --> 00:12:40,220
+Sí, ¿pero no había sugerido utilizar a Minmei?
+
+160
+00:12:40,620 --> 00:12:43,900
+– Pensé que íbamos a transmitir la voz de ella.
+– Correcto.
+
+161
+00:12:44,100 --> 00:12:46,220
+Pero hemos hecho una pequeña modificación.
+
+162
+00:12:46,670 --> 00:12:49,620
+Su Excelencia, este era su plan
+desde el principio, ¿o no?
+
+163
+00:12:50,780 --> 00:12:55,020
+Exedore, eres tan modesto como inteligente.
+Capitana, hemos decidido...
+
+164
+00:12:55,220 --> 00:12:58,270
+...que un beso sería un contraataque
+más efectivo. ¿No le parece?
+
+165
+00:12:59,360 --> 00:13:00,570
+Eso creo.
+
+166
+00:13:00,770 --> 00:13:05,020
+Debe recordar el efecto que causó
+cuando Ud. y el Cap. Hunter unieron sus labios.
+
+167
+00:13:06,180 --> 00:13:10,440
+¿No ves que es un plan magnífico?
+No hay por qué preocuparse.
+
+168
+00:13:12,940 --> 00:13:15,290
+Plataforma A, pueden despegar.
+
+169
+00:13:17,260 --> 00:13:20,120
+Lord Breetai, una comunicación del Comdte. Reno.
+¿Lo comunico?
+
+170
+00:13:20,320 --> 00:13:21,320
+Sí.
+
+171
+00:13:22,940 --> 00:13:25,720
+Bienvenido, Comdte. Breetai.
+¿Viene como amigo o enemigo?
+
+172
+00:13:26,190 --> 00:13:28,920
+A exigir que se rindan de inmediato.
+
+173
+00:13:29,190 --> 00:13:31,470
+¿Que nos rindamos?
+
+174
+00:13:32,130 --> 00:13:34,950
+¿Alguna otra anécdota tan graciosa, Breetai?
+
+175
+00:13:35,650 --> 00:13:38,490
+Tengo otra cosa que te va a gustar.
+
+176
+00:13:38,690 --> 00:13:40,360
+Debe estar llegando.
+
+177
+00:13:40,560 --> 00:13:42,820
+Trataré de contenerme.
+
+178
+00:13:43,020 --> 00:13:46,310
+– Capitán Hunter, a sus órdenes.
+– Capitán, llega justo a tiempo.
+
+179
+00:13:46,570 --> 00:13:49,050
+Es tu última oportunidad para obedecer.
+
+180
+00:13:49,400 --> 00:13:53,570
+Es ridículo. El solo hecho de que hayas rechazado
+a los Maestros de la Robotechnia indica--
+
+181
+00:13:54,160 --> 00:13:56,540
+¿Una mujer hablando con un varón?
+
+182
+00:13:56,880 --> 00:14:00,060
+Correcto, y si miras más de cerca...
+
+183
+00:14:00,260 --> 00:14:04,490
+...verás la extraña y gloriosa libertad
+que surge de la Protocultura.
+
+184
+00:14:05,240 --> 00:14:07,820
+Lisa, ¿de qué--?
+¿De qué está hablando?
+
+185
+00:14:08,320 --> 00:14:11,960
+– Todo está bien.
+– Ahora sí me empiezo a preocupar.
+
+186
+00:14:12,710 --> 00:14:14,420
+Esto no me gusta.
+
+187
+00:14:17,390 --> 00:14:21,820
+Max, ¿podría ocurrir que Rick
+se rehusara a seguir los cambios en el plan?
+
+188
+00:14:22,620 --> 00:14:25,530
+No te preocupes por Rick, Miriya.
+Él es un profesional.
+
+189
+00:14:25,980 --> 00:14:28,220
+¡Sí, señor!
+¡Es una orden!
+
+190
+00:14:28,580 --> 00:14:31,500
+– Su trabajo es obedecer órdenes.
+– Qué bien.
+
+191
+00:14:32,560 --> 00:14:35,420
+¿Crees que tendremos la oportunidad
+de juntar nuestros labios de nuevo, Max?
+
+192
+00:14:35,710 --> 00:14:37,420
+Te prometo que sí.
+
+193
+00:14:38,520 --> 00:14:42,450
+– Ya están dentro del radio de transmisión.
+– Inicien la reproducción.
+
+194
+00:14:43,120 --> 00:14:47,530
+No voy a besarte, con órdenes o sin ellas.
+Lo siento pero ya tomé una decisión.
+
+195
+00:14:53,850 --> 00:14:55,240
+¡Demonios!
+
+196
+00:14:56,620 --> 00:14:57,930
+¡Es horrible!
+
+197
+00:14:58,130 --> 00:14:59,840
+¡Apáguenlo!
+
+198
+00:15:00,040 --> 00:15:01,810
+Es increíble, Lisa.
+
+199
+00:15:05,450 --> 00:15:07,920
+Tal vez esto te guste, Reno.
+
+200
+00:15:11,420 --> 00:15:13,800
+¿Un hombre y una mujer uniendo sus labios?
+
+201
+00:15:14,540 --> 00:15:16,220
+¡Es imposible!
+
+202
+00:15:19,160 --> 00:15:21,910
+¡No puedo ver eso!
+¡Apaguen el monitor!
+
+203
+00:15:29,680 --> 00:15:31,640
+Nada ganaste con esa exhibición.
+
+204
+00:15:31,840 --> 00:15:34,160
+Reno terminó la comunicación.
+
+205
+00:15:35,160 --> 00:15:38,220
+– ¡Contacto en tres segundos!
+– Solo resta esperar.
+
+206
+00:15:40,720 --> 00:15:42,320
+¡Alerta de ataque!
+
+207
+00:15:42,820 --> 00:15:47,070
+– Los Veritechs ingresaron con éxito.
+– El bebé está con Max y Miriya.
+
+208
+00:15:47,720 --> 00:15:51,320
+Destruyan a todas las naves Micronianas
+cuando dé la orden.
+
+209
+00:15:54,590 --> 00:15:56,710
+Micronianos, están rodeados.
+
+210
+00:15:56,910 --> 00:15:59,680
+Ríndanse y los dejaremos vivir.
+
+211
+00:16:04,110 --> 00:16:06,610
+Llegó el momento, Max.
+Deséame suerte.
+
+212
+00:16:06,810 --> 00:16:10,020
+Todo saldrá bien.
+Estoy aquí.
+
+213
+00:16:12,740 --> 00:16:16,080
+No soy Microniana,
+sino una guerrera Zentraedi micronizada.
+
+214
+00:16:16,280 --> 00:16:19,660
+Eres Miriya Parino,
+la subalterna de Azonia.
+
+215
+00:16:20,030 --> 00:16:25,820
+Les presento al Tte. Maximilian Sterling,
+oficial de las fuerzas de la Tierra y mi pareja.
+
+216
+00:16:26,280 --> 00:16:29,230
+¿Qué es eso de pareja?
+No es más que un Microniano.
+
+217
+00:16:29,830 --> 00:16:31,680
+Enséñales el bebé, Miriya.
+
+218
+00:16:35,240 --> 00:16:36,800
+¡Eso es imposible!
+
+219
+00:16:37,000 --> 00:16:39,270
+¡Por las doce lunas, esa cosa es deforme!
+
+220
+00:16:41,140 --> 00:16:42,500
+¡Se mueve!
+
+221
+00:16:43,860 --> 00:16:46,880
+En el lenguaje Microniano
+a esto se le conoce como “niño”.
+
+222
+00:16:47,080 --> 00:16:51,040
+Fue creado dentro de mi cuerpo.
+Pero por nosotros dos.
+
+223
+00:16:55,690 --> 00:16:58,130
+El amor es la base de la Protocultura.
+
+224
+00:16:58,330 --> 00:17:00,770
+¡No pueden conquistar el amor!
+
+225
+00:17:03,830 --> 00:17:07,420
+¡Observen el poder de la Protocultura!
+¡El poder del amor!
+
+226
+00:17:08,370 --> 00:17:10,520
+– ¿Esa cosa está viva?
+– Debe ser una mutación.
+
+227
+00:17:11,260 --> 00:17:12,750
+Debe ser contagioso.
+
+228
+00:17:18,220 --> 00:17:19,610
+¡Quítense!
+
+229
+00:17:24,820 --> 00:17:28,820
+Aunque la primera fase de la operación tuvo éxito,
+Breetai sabe...
+
+230
+00:17:29,020 --> 00:17:32,540
+...que necesitará más que un engaño para derrotar
+a sus ex compañeros de armas.
+
+231
+00:17:32,740 --> 00:17:37,780
+No sé por qué reaccionaron así.
+La nenita de Max y Miriya es muy linda, ¿no creen?
+
+232
+00:17:37,980 --> 00:17:39,400
+Basta, Claudia.
+
+233
+00:17:39,770 --> 00:17:44,680
+No subestimen al enemigo.
+Prepárense para atacar.
+
+234
+00:17:44,910 --> 00:17:47,610
+Todo el personal, a posiciones de combate.
+
+235
+00:17:47,950 --> 00:17:50,710
+Alerta roja. Esto no es un simulacro.
+Repito: alerta roja.
+
+236
+00:17:50,910 --> 00:17:53,610
+Todos los Veritechs
+a sus plataformas de despegue.
+
+237
+00:17:53,810 --> 00:17:57,410
+Al frente, el escuadrón Skull,
+seguido por el Azul, Verde y Café.
+
+238
+00:18:08,430 --> 00:18:09,960
+Escuadrón Skull, despegue.
+
+239
+00:18:10,160 --> 00:18:11,720
+Repito, ¡despegue!
+
+240
+00:18:11,990 --> 00:18:14,070
+Enterado, Comandante.
+Despegamos.
+
+241
+00:18:20,540 --> 00:18:22,780
+Con la eficiencia de una maquinaria precisa...
+
+242
+00:18:22,980 --> 00:18:26,710
+...la flota de cazas Veritech se dirige
+a la fábrica Robotech.
+
+243
+00:18:27,190 --> 00:18:32,370
+El futuro de la paz interestelar
+depende de la estrategia de Breetai.
+
+244
+00:18:32,750 --> 00:18:36,860
+¡No quiero excusas!
+¡Quiero que salgan a combatir!
+
+245
+00:18:37,610 --> 00:18:40,810
+¿No lo entiende, señor?
+Tienen miedo de la contaminación Microniana.
+
+246
+00:18:41,020 --> 00:18:42,730
+¡Absurdo!
+
+247
+00:18:42,930 --> 00:18:46,910
+¡Destruyan las naves infectadas!
+¡Es una orden!
+
+248
+00:18:51,670 --> 00:18:55,760
+Enemigo se acerca por 2,0.
+Disparen torpedos de protones.
+
+249
+00:18:57,840 --> 00:18:59,350
+¡Fuego!
+
+250
+00:19:09,960 --> 00:19:11,360
+Es mío, Max.
+
+251
+00:19:16,440 --> 00:19:18,080
+Gracias, socia.
+
+252
+00:19:18,620 --> 00:19:20,210
+Están por todos lados.
+
+253
+00:19:27,100 --> 00:19:29,740
+El líder de escuadrón solicita refuerzos.
+
+254
+00:19:29,940 --> 00:19:31,610
+¿Está listo el cañón de neutrones?
+
+255
+00:19:34,150 --> 00:19:35,450
+El 80%.
+
+256
+00:19:35,650 --> 00:19:39,090
+Fijo y enfocado con el rayo rastreador
+de partículas de fotones.
+
+257
+00:19:39,580 --> 00:19:41,310
+Los Veritechs ya se retiraron.
+
+258
+00:19:43,020 --> 00:19:44,460
+Disparen.
+
+259
+00:20:01,140 --> 00:20:02,840
+La aniquilación casi total...
+
+260
+00:20:03,040 --> 00:20:05,680
+...de todas las fuerzas enemigas
+le abre el camino a Breetai...
+
+261
+00:20:05,880 --> 00:20:08,650
+...hacia el satélite fábrica de Robotechnia.
+
+262
+00:20:08,850 --> 00:20:11,620
+Lord Breetai, las tropas restantes
+se han rendido.
+
+263
+00:20:11,820 --> 00:20:16,320
+Dile a los prisioneros que aceptaremos
+a aquellos que deseen unirse a nuestras fuerzas.
+
+264
+00:20:16,520 --> 00:20:19,630
+Lord Breetai saluda
+a todos los prisioneros Zentraedi.
+
+265
+00:20:20,750 --> 00:20:25,230
+Nuestra victoria marcará el inicio de una nueva era
+en las relaciones galácticas.
+
+266
+00:20:25,570 --> 00:20:28,370
+Con la misión casi completa...
+
+267
+00:20:28,570 --> 00:20:31,500
+...el único problema grave que enfrentan
+los Zentraedi y las Fuerzas de la Tierra...
+
+268
+00:20:31,700 --> 00:20:37,700
+...es evitar que el satélite fábrica caiga una vez más
+en las manos de los Maestros de la Robotechnia.
+
+269
+00:20:38,890 --> 00:20:41,770
+Crucero de batalla, entrando en bahía de acople...
+
+270
+00:20:41,970 --> 00:20:46,530
+...de suspensión magnética.
+Reduzca la actividad de retropropulsión a cero.
+
+271
+00:20:46,830 --> 00:20:49,790
+Durante varios días, los esfuerzos combinados
+de las fuerzas terrestres de Breetai...
+
+272
+00:20:49,990 --> 00:20:55,170
+...y los sobrevivientes Zentraedi que se rindieron,
+han utilizado todos los recursos disponibles...
+
+273
+00:20:55,370 --> 00:20:59,200
+...para preparar la gran fábrica Robotech
+para su viaje a través del hiperespacio.
+
+274
+00:20:59,400 --> 00:21:01,200
+Por fin, todo está listo.
+
+275
+00:21:01,560 --> 00:21:04,800
+Lord Breetai, los sistemas de transposición
+funcionan correctamente.
+
+276
+00:21:05,000 --> 00:21:07,170
+– Inicien el proceso.
+– Sí, señor.
+
+277
+00:21:15,240 --> 00:21:18,360
+Los cálculos para el salto hiperespacial
+están listos, Comandante.
+
+278
+00:21:18,670 --> 00:21:19,850
+¡Comiencen!
+
+279
+00:21:27,230 --> 00:21:30,170
+Inicien transposición del satélite fábrica.
+
+280
+00:21:38,180 --> 00:21:41,780
+Coordenadas y distribución molecular, sincronizadas.
+
+281
+00:21:41,980 --> 00:21:47,090
+El intercambio de calor masivo está sobrecargando
+algunos hornos Reflex.
+
+282
+00:21:47,290 --> 00:21:51,450
+Estaré satisfecho si la nave tiene suficiente energía
+para emerger del hiperespacio.
+
+283
+00:21:51,650 --> 00:21:53,850
+Desestabilicen las funciones auxiliares.
+
+284
+00:21:54,430 --> 00:21:56,290
+Reingresando a zona terrestre.
+
+285
+00:22:03,060 --> 00:22:05,710
+Como dirían Uds., los Micronianos,
+“¡lo logramos!”
+
+286
+00:22:05,910 --> 00:22:08,890
+Estimados colegas, es bueno estar de regreso en casa.
+
+287
+00:22:11,140 --> 00:22:12,970
+Muy bueno, señor.
+
+288
+00:22:14,680 --> 00:22:19,220
+En el próximo episodio, Rick Hunter patrulla
+los cielos de la nueva civilización de la Tierra...
+
+289
+00:22:19,420 --> 00:22:24,200
+...en constante vigilia ante un ataque alienígena.
+Pero las tragedias personales de los sobrevivientes...
+
+290
+00:22:24,400 --> 00:22:29,730
+...no pueden compararse con los planes de Khyron
+de destruir la nueva sociedad...
+
+291
+00:22:29,930 --> 00:22:34,410
+...antes de que tenga tiempo de desarrollarse.
+No se pierdan «La venganza de Khyron»...
+
+292
+00:22:34,610 --> 00:22:37,950
+...el próximo vibrante episodio
+de la historia de “Robotech”.
+
+293
+00:23:12,700 --> 00:23:18,310
+Traducción y subtitulado: ADRIÁN BERGONZI
+http://robotech.scriptmania.com
+
