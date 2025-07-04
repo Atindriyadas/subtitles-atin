@@ -1,0 +1,73 @@
+msubtitles:
+  - source: https://github.com/Atindriyadas/subtitles-atin/raw/refs/heads/main/robotech
+    subtitles:
+      - season: 1
+        items:
+          - path: Episodio 03.srt
+            episode: 3
+          - path: Episodio 04.srt
+            episode: 4
+          - path: Episodio 05.srt
+            episode: 5
+          - path: Episodio 06.srt
+            episode: 6
+          - path: Episodio 07.srt
+            episode: 7
+          - path: Episodio 08.srt
+            episode: 8
+          - path: Episodio 09.srt
+            episode: 9
+          - path: Episodio 10.srt
+            episode: 10
+          - path: Episodio 11.srt
+            episode: 11
+          - path: Episodio 12.srt
+            episode: 12
+          - path: Episodio 13.srt
+            episode: 13
+          - path: Episodio 14.srt
+            episode: 14
+          - path: Episodio 15.srt
+            episode: 15
+          - path: Episodio 16.srt
+            episode: 16
+          - path: Episodio 17.srt
+            episode: 17
+          - path: Episodio 18.srt
+            episode: 18
+          - path: Episodio 19.srt
+            episode: 19
+          - path: Episodio 20.srt
+            episode: 20
+          - path: Episodio 21.srt
+            episode: 21
+          - path: Episodio 22.srt
+            episode: 22
+          - path: Episodio 23.srt
+            episode: 23
+          - path: Episodio 24.srt
+            episode: 24
+          - path: Episodio 25.srt
+            episode: 25
+          - path: Episodio 26.srt
+            episode: 26
+          - path: Episodio 27.srt
+            episode: 27
+          - path: Episodio 28.srt
+            episode: 28
+          - path: Episodio 29.srt
+            episode: 29
+          - path: Episodio 30.srt
+            episode: 30
+          - path: Episodio 31.srt
+            episode: 31
+          - path: Episodio 32.srt
+            episode: 32
+          - path: Episodio 33.srt
+            episode: 33
+          - path: Episodio 34.srt
+            episode: 34
+          - path: Episodio 35.srt
+            episode: 35
+          - path: Episodio 36.srt
+            episode: 36
