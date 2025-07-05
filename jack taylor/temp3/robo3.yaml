@@ -1,0 +1,12 @@
+msubtitles:
+  - source: https://github.com/Atindriyadas/subtitles-atin/raw/refs/heads/main/jack%20taylor/temp3
+    subtitles:
+      - season: 3
+        items:
+          - path: Episodio 01.srt
+            episode: 1
+          - path: Episodio 02.srt
+            episode: 2
+          - path: Episodio 03.srt
+            episode: 3
+         
