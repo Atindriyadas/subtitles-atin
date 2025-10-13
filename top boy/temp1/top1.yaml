@@ -1,0 +1,14 @@
+msubtitles:
+  - source: https://github.com/Atindriyadas/subtitles-atin/raw/refs/heads/main/top%20boy/temp1
+    subtitles:
+      - season: 1
+        items:
+          - path: Top.Boy.S01E01.DVDRip.XviD-aAF.srt
+            episode: 1
+          - path: Top.Boy.S01E02.DVDRip.XviD-aAF.srt
+            episode: 2
+          - path: Top.Boy.S01E03.DVDRip.XviD-aAF.srt
+            episode: 3
+          - path: Top.Boy.S01E04.DVDRip.XviD-aAF.srt
+            episode: 4
+         
