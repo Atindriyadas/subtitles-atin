@@ -1,0 +1,71 @@
+msubtitles:
+  - source: https://github.com/Atindriyadas/subtitles-atin/raw/refs/heads/main/Orphan%20black/
+    subtitles:
+      - season: 1
+        items:
+          - path: s01/Orphan.Black.S01E01.Natural.Selection.DVDRip.x264-NODLABS.srt
+            episode: 1
+          - path: s01/Orphan.Black.S01E02.Instinct.DVDRip.x264-NODLABS.srt
+            episode: 2
+          - path: s01/Orphan.Black.S01E03.Variation.Under.Nature.DVDRip.x264-NODLABS.srt
+            episode: 3
+          - path: s01/Orphan.Black.S01E04.Effects.Of.External.Conditions.DVDRip.x264-NODLABS.srt
+            episode: 4
+          - path: s01/Orphan.Black.S01E05.Conditions.Of.Existence.DVDRip.x264-NODLABS.srt
+            episode: 5
+          - path: s01/Orphan.Black.S01E06.Variations.Under.Domestication.DVDRip.x264-NODLABS.srt
+            episode: 6
+          - path: s01/Orphan.Black.S01E07.Parts.Developed.In.An.Unusual.Manner.DVDRip.x264-NODLABS.srt
+            episode: 7
+          - path: s01/Orphan.Black.S01E08.Entangled.Bank.DVDRip.x264-NODLABS.srt
+            episode: 8
+          - path: s01/Orphan.Black.S01E09.Unconscious.Selection.DVDRip.x264-NODLABS.srt
+            episode: 9
+          - path: s01/Orphan.Black.S01E10.Endless.Forms.Most.Beautiful.DVDRip.x264-NODLABS.srt
+            episode: 10         
+      - season: 2
+        items:
+          - path: s02/Orphan.Black.S02E01.Nature.Under.Constraint.And.Vexed.BDRip.x264-DEMAND.srt
+            episode: 1
+          - path: s02/Orphan.Black.S02E02.Governed.By.Sound.Reason.And.True.Religion.BDRip.x264-DEMAND.srt
+            episode: 2
+          - path: s02/Orphan.Black.S02E03.Mingling.Its.Own.Nature.With.It.BDRip.x264-DEMAND.srt
+            episode: 3
+          - path: s02/Orphan.Black.S02E04.Governed.As.It.Were.By.Chance.BDRip.x264-DEMAND.srt
+            episode: 4
+          - path: s02/Orphan.Black.S02E05.Ipsa.Scientia.Potestas.Est.BDRip.x264-DEMAND.srt
+            episode: 5
+          - path: s02/Orphan.Black.S02E06.To.Hound.Nature.In.Her.Wanderings.BDRip.x264-DEMAND.srt
+            episode: 6
+          - path: s02/Orphan.Black.S02E07.Knowledge.Of.Causes.And.Secret.Motion.Of.Things.BDRip.x264-DEMAND.srt
+            episode: 7
+          - path: s02/Orphan.Black.S02E08.Variable.And.Full.Of.Perturbation.BDRip.x264-DEMAND.srt
+            episode: 8
+          - path: s02/Orphan.Black.S02E09.Things.Which.Have.Never.Yet.Been.Done.BDRip.x264-DEMAND.srt
+            episode: 9
+          - path: s02/Orphan.Black.S02E10.By.Means.Which.Have.Never.Yet.Been.Tried.BDRip.x264-DEMAND.srt
+            episode: 10
+      - season: 3
+        items:
+          - path: s03/Orphan.Black.S03E01.The.Weight.Of.This.Combination.BDRip.x264-DEMAND.srt
+            episode: 1
+          - path: s03/Orphan.Black.S03E02.Transitory.Sacrifices.Of.Crisis.BDRip.x264-DEMAND.srt
+            episode: 2
+          - path: s03/Orphan.Black.S03E03.Formalized.Complex.And.Costly.BDRip.x264-DEMAND.srt
+            episode: 3
+          - path: s03/Orphan.Black.S03E04.Newer.Elements.Of.Our.Defense.BDRip.x264-DEMAND.srt
+            episode: 4
+          - path: s03/Orphan.Black.S03E05.Scarred.By.Many.Past.Frustrations.BDRip.x264-DEMAND.srt
+            episode: 5
+          - path: s03/Orphan.Black.S03E06.Certain.Agony.Of.The.Battlefield.BDRip.x264-DEMAND.srt
+            episode: 6
+          - path: s03/Orphan.Black.S03E07.Community.Of.Dreadful.Fear.And.Hate.BDRip.x264-DEMAND.srt
+            episode: 7
+          - path: s03/Orphan.Black.S03E08.Ruthless.In.Purpose.And.Insidious.In.Method.BDRip.x264-DEMAND.srt
+            episode: 8
+          - path: s03/Orphan.Black.S03E09.Insolvent.Phantom.Of.Tomorrow.BDRip.x264-DEMAND.srt
+            episode: 9
+          - path: s03/Orphan.Black.S03E10.History.Yet.To.Be.Written.BDRip.x264-DEMAND.srt
+            episode: 10
+            
+  

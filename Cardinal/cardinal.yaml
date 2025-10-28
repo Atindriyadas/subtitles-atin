@@ -1,0 +1,61 @@
+msubtitles:
+  - source: https://github.com/Atindriyadas/subtitles-atin/raw/refs/heads/main/Cardinal/
+    subtitles:
+      - season: 1
+        items:
+          - path: s01/101%20Cardinal.spa.srt
+            episode: 1
+          - path: s01/102%20Delorme.spa.srt
+            episode: 2
+          - path: s01/103%20Edie%20and%20Eric.spa.srt
+            episode: 3
+          - path: s01/104%20Woody.spa.srt
+            episode: 4
+          - path: s01/105%20Keith.spa.srt
+            episode: 5
+          - path: s01/106%20Catherine.spa.srt
+            episode: 6
+      - season: 2
+        items:
+          - path: s02/201%20Red.spa.srt
+            episode: 1
+          - path: s02/202%20Kevin.spa.srt
+            episode: 2
+          - path: s02/203%20Terri.spa.srt
+            episode: 3
+          - path: s02/204%20Toof.spa.srt
+            episode: 4
+          - path: s02/205%20Northwind.spa.srt
+            episode: 5
+          - path: s02/206%20El%20Brujo.spa.srt
+            episode: 6
+      - season: 3
+        items:
+          - path: s03/301%20Sam.spa.srt
+            episode: 1
+          - path: s03/302%20Roman%20and%20Irena.spa.srt
+            episode: 2
+          - path: s03/303%20Jack.spa.srt
+            episode: 3
+          - path: s03/304%20Lemur.spa.srt
+            episode: 4
+          - path: s03/305%20Mama.spa.srt
+            episode: 5
+          - path: s03/306%20Helen.spa.srt
+            episode: 6
+      - season: 4
+        items:
+          - path: s04/401%20Robert.spa.srt
+            episode: 1
+          - path: s04/402%20Adele.spa.srt
+            episode: 2
+          - path: s04/403%20Barry.spa.srt
+            episode: 3
+          - path: s04/404%20Neil.spa.srt
+            episode: 4
+          - path: s04/405%20Scott.spa.srt
+            episode: 5
+          - path: s04/406%20John%20&%20Lise.spa.srt
+            episode: 6
+
+
