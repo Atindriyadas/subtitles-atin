@@ -3,7 +3,7 @@ msubtitles:
     subtitles:
       - season: 1
         items:
-          - path: s01/Criminal%20-%20United%20Kingdom%20S01E01.srt
+          - path: s01/Criminal - United Kingdom S01E01.srt
             episode: 1
           - path: s01/Criminal%20-%20United%20Kingdom%20S01E02.srt
             episode: 2
